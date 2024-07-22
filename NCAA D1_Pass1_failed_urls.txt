@@ -1,0 +1,92 @@
+                                     School                                                    URL        Method Status
+                          Auburn University        https://auburntigers.com/sports/softball/roster Pass 1 (HTML) Failed
+                            Army West Point     https://goarmywestpoint.com/sports/softball/roster Pass 1 (HTML) Failed
+                          Baylor University         https://baylorbears.com/sports/softball/roster Pass 1 (HTML) Failed
+                   Brigham Young University          https://byucougars.com/sports/softball/roster Pass 1 (HTML) Failed
+                     Boise State University        https://broncosports.com/sports/softball/roster Pass 1 (HTML) Failed
+             Bowling Green State University         https://bgsufalcons.com/sports/softball/roster Pass 1 (HTML) Failed
+                        Bucknell University       https://bucknellbison.com/sports/softball/roster Pass 1 (HTML) Failed
+                           Brown University          https://brownbears.com/sports/softball/roster Pass 1 (HTML) Failed
+        California State University, Fresno          https://gobulldogs.com/sports/softball/roster Pass 1 (HTML) Failed
+       Central Connecticut State University https://ccsubluedevils.com/sports/sball/2023-24/roster Pass 1 (HTML) Failed
+    California State University, Long Beach      https://longbeachstate.com/sports/softball/roster Pass 1 (HTML) Failed
+                         Clemson University       https://clemsontigers.com/sports/softball/roster Pass 1 (HTML) Failed
+                         Bradley University       https://bradleybraves.com/sports/softball/roster Pass 1 (HTML) Failed
+                             Boston College            https://bceagles.com/sports/softball/roster Pass 1 (HTML) Failed
+                Central Michigan University        https://cmuchippewas.com/sports/softball/roster Pass 1 (HTML) Failed
+                  Colorado State University             https://csurams.com/sports/softball/roster Pass 1 (HTML) Failed
+                          Drexel University       https://drexeldragons.com/sports/softball/roster Pass 1 (HTML) Failed
+                          DePaul University    https://depaulbluedemons.com/sports/softball/roster Pass 1 (HTML) Failed
+            Georgia Institute of Technology       https://ramblinwreck.com/sports/w-softbl/roster/ Pass 1 (HTML) Failed
+                    George Mason University             https://gomason.com/sports/softball/roster Pass 1 (HTML) Failed
+               George Washington University            https://gwsports.com/sports/softball/roster Pass 1 (HTML) Failed
+                   Florida State University           https://seminoles.com/sports/softball/roster Pass 1 (HTML) Failed
+             Indiana University Bloomington          https://iuhoosiers.com/sports/softball/roster Pass 1 (HTML) Failed
+                      Iowa State University            https://cyclones.com/sports/softball/roster Pass 1 (HTML) Failed
+                         Liberty University       https://libertyflames.com/sports/softball/roster Pass 1 (HTML) Failed
+                 Louisiana State University                https://lsusports.net/sports/sb/roster/ Pass 1 (HTML) Failed
+                        Marshall University            https://herdzone.com/sports/softball/roster Pass 1 (HTML) Failed
+               Mississippi State University           https://hailstate.com/sports/softball/roster Pass 1 (HTML) Failed
+                    Murray State University            https://goracers.com/sports/softball/roster Pass 1 (HTML) Failed
+            North Carolina State University              https://gopack.com/sports/softball/roster Pass 1 (HTML) Failed
+              Pennsylvania State University         https://gopsusports.com/sports/softball/roster Pass 1 (HTML) Failed
+       Oklahoma State University–Stillwater             https://okstate.com/sports/softball/roster Pass 1 (HTML) Failed
+                      Ohio State University   https://ohiostatebuckeyes.com/sports/softball/roster Pass 1 (HTML) Failed
+                    Oregon State University          https://osubeavers.com/sports/softball/roster Pass 1 (HTML) Failed
+                       Princeton University   https://goprincetontigers.com/sports/softball/roster Pass 1 (HTML) Failed
+                          Purdue University        https://purduesports.com/sports/softball/roster Pass 1 (HTML) Failed
+               Purdue University Fort Wayne         https://gomastodons.com/sports/softball/roster Pass 1 (HTML) Failed
+                 San Diego State University            https://goaztecs.com/sports/softball/roster Pass 1 (HTML) Failed
+                  San Jose State University        https://sjsuspartans.com/sports/softball/roster Pass 1 (HTML) Failed
+                      Seton Hall University          https://shupirates.com/sports/softball/roster Pass 1 (HTML) Failed
+                    Northwestern University            https://nusports.com/sports/softball/roster Pass 1 (HTML) Failed
+    Southern Illinois University Carbondale          https://siusalukis.com/sports/softball/roster Pass 1 (HTML) Failed
+                        Stanford University          https://gostanford.com/sports/softball/roster Pass 1 (HTML) Failed
+                      St. John's University      https://redstormsports.com/sports/softball/roster Pass 1 (HTML) Failed
+         Stephen F. Austin State University            https://sfajacks.com/sports/softball/roster Pass 1 (HTML) Failed
+         Tennessee Technological University      https://ttusports.com/sports/sball/2023-24/roster Pass 1 (HTML) Failed
+                        Syracuse University                https://cuse.com/sports/softball/roster Pass 1 (HTML) Failed
+                       Texas A&M University             https://12thman.com/sports/softball/roster Pass 1 (HTML) Failed
+        Texas A&M University-Corpus Christi         https://goislanders.com/sports/softball/roster Pass 1 (HTML) Failed
+                      Texas Tech University           https://texastech.com/sports/softball/roster Pass 1 (HTML) Failed
+                        University of Akron              https://gozips.com/sports/softball/roster Pass 1 (HTML) Failed
+                     University of Arkansas  https://arkansasrazorbacks.com/sport/w-softbl/roster/ Pass 1 (HTML) Failed
+        University of Alabama at Birmingham           https://uabsports.com/sports/softball/roster Pass 1 (HTML) Failed
+                      University of Alabama            https://rolltide.com/sports/softball/roster Pass 1 (HTML) Failed
+      University of California, Los Angeles          https://uclabruins.com/sports/softball/roster Pass 1 (HTML) Failed
+              University of Central Florida          https://ucfknights.com/sports/softball/roster Pass 1 (HTML) Failed
+                     University of Delaware            https://bluehens.com/sports/softball/roster Pass 1 (HTML) Failed
+                         University of Iowa      https://hawkeyesports.com/sports/softball/roster/ Pass 1 (HTML) Failed
+                            Troy University         https://troytrojans.com/sports/softball/roster Pass 1 (HTML) Failed
+                      University of Houston           https://uhcougars.com/sports/softball/roster Pass 1 (HTML) Failed
+                     University of Kentucky        https://ukathletics.com/sports/softball/roster/ Pass 1 (HTML) Failed
+                   University of Louisville             https://gocards.com/sports/softball/roster Pass 1 (HTML) Failed
+       University of Louisiana at Lafayette         https://ragincajuns.com/sports/softball/roster Pass 1 (HTML) Failed
+                      University of Georgia         https://georgiadogs.com/sports/softball/roster Pass 1 (HTML) Failed
+        University of Massachusetts Amherst      https://umassathletics.com/sports/softball/roster Pass 1 (HTML) Failed
+                      University of Memphis          https://gotigersgo.com/sports/softball/roster Pass 1 (HTML) Failed
+                     University of Michigan             https://mgoblue.com/sports/softball/roster Pass 1 (HTML) Failed
+                  University of Mississippi       https://olemisssports.com/sports/softball/roster Pass 1 (HTML) Failed
+         University of Missouri–Kansas City              https://kcroos.com/sports/softball/roster Pass 1 (HTML) Failed
+                    University of Minnesota        https://gophersports.com/sports/softball/roster Pass 1 (HTML) Failed
+             University of Nebraska–Lincoln             https://huskers.com/sports/softball/roster Pass 1 (HTML) Failed
+                   University of New Mexico             https://golobos.com/sports/softball/roster Pass 1 (HTML) Failed
+                      University of Montana              https://gogriz.com/sports/softball/roster Pass 1 (HTML) Failed
+University of North Carolina at Chapel Hill             https://goheels.com/sports/softball/roster Pass 1 (HTML) Failed
+                   University of Notre Dame      https://fightingirish.com/sports/softball/roster/ Pass 1 (HTML) Failed
+                  University of North Texas     https://meangreensports.com/sports/softball/roster Pass 1 (HTML) Failed
+                University of Northern Iowa         https://unipanthers.com/sports/softball/roster Pass 1 (HTML) Failed
+               University of South Carolina    https://gamecocksonline.com/sports/softball/roster/ Pass 1 (HTML) Failed
+                     University of Oklahoma        https://soonersports.com/sports/softball/roster Pass 1 (HTML) Failed
+                       University of Oregon             https://goducks.com/sports/softball/roster Pass 1 (HTML) Failed
+                    University of Tennessee            https://utsports.com/sports/softball/roster Pass 1 (HTML) Failed
+         University of Southern Mississippi        https://southernmiss.com/sports/softball/roster Pass 1 (HTML) Failed
+         University of Texas at San Antonio              https://goutsa.com/sports/softball/roster Pass 1 (HTML) Failed
+                     University of Virginia     https://virginiasports.com/sports/softball/roster/ Pass 1 (HTML) Failed
+                        University of Tulsa      https://tulsahurricane.com/sports/softball/roster Pass 1 (HTML) Failed
+                      Utah State University     https://utahstateaggies.com/sports/softball/roster Pass 1 (HTML) Failed
+                   University of Pittsburgh  https://pittsburghpanthers.com/sports/softball/roster Pass 1 (HTML) Failed
+                              Virginia Tech         https://hokiesports.com/sports/softball/roster Pass 1 (HTML) Failed
+                     Weber State University    https://weberstatesports.com/sports/softball/roster Pass 1 (HTML) Failed
+                Western Kentucky University           https://wkusports.com/sports/softball/roster Pass 1 (HTML) Failed
+                      Valparaiso University        https://www.valpoathletics.com/softball/roster/ Pass 1 (HTML) Failed

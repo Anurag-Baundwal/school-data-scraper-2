@@ -1,0 +1,94 @@
+Results of Pass 1 for NCAA D1
+Number of rows for which scraping succeeded: 219/309
+
+Failed URLs:
+School: Auburn University, URL: https://auburntigers.com/sports/softball/roster, Reason: Scraping failed
+School: Army West Point, URL: https://goarmywestpoint.com/sports/softball/roster, Reason: Scraping failed
+School: Baylor University, URL: https://baylorbears.com/sports/softball/roster, Reason: Scraping failed
+School: Brigham Young University, URL: https://byucougars.com/sports/softball/roster, Reason: Scraping failed
+School: Boise State University, URL: https://broncosports.com/sports/softball/roster, Reason: Scraping failed
+School: Bradley University, URL: https://bradleybraves.com/sports/softball/roster, Reason: Scraping failed
+School: Bucknell University, URL: https://bucknellbison.com/sports/softball/roster, Reason: Scraping failed
+School: California State University, Fresno, URL: https://gobulldogs.com/sports/softball/roster, Reason: Scraping failed
+School: Brown University, URL: https://brownbears.com/sports/softball/roster, Reason: Scraping failed
+School: California State University, Long Beach, URL: https://longbeachstate.com/sports/softball/roster, Reason: Scraping failed
+School: Central Connecticut State University, URL: https://ccsubluedevils.com/sports/sball/2023-24/roster, Reason: Scraping failed
+School: Bowling Green State University, URL: https://bgsufalcons.com/sports/softball/roster, Reason: Scraping failed
+School: Clemson University, URL: https://clemsontigers.com/sports/softball/roster, Reason: Scraping failed
+School: Central Michigan University, URL: https://cmuchippewas.com/sports/softball/roster, Reason: Scraping failed
+School: Colorado State University, URL: https://csurams.com/sports/softball/roster, Reason: Scraping failed
+School: Drexel University, URL: https://drexeldragons.com/sports/softball/roster, Reason: Scraping failed
+School: DePaul University, URL: https://depaulbluedemons.com/sports/softball/roster, Reason: Scraping failed
+School: Georgia Institute of Technology, URL: https://ramblinwreck.com/sports/w-softbl/roster/, Reason: Scraping failed
+School: Florida State University, URL: https://seminoles.com/sports/softball/roster, Reason: Scraping failed
+School: George Washington University, URL: https://gwsports.com/sports/softball/roster, Reason: Scraping failed
+School: Indiana University Bloomington, URL: https://iuhoosiers.com/sports/softball/roster, Reason: Scraping failed
+School: George Mason University, URL: https://gomason.com/sports/softball/roster, Reason: Scraping failed
+School: Liberty University, URL: https://libertyflames.com/sports/softball/roster, Reason: Scraping failed
+School: Louisiana State University, URL: https://lsusports.net/sports/sb/roster/, Reason: Scraping failed
+School: Iowa State University, URL: https://cyclones.com/sports/softball/roster, Reason: Scraping failed
+School: Marshall University, URL: https://herdzone.com/sports/softball/roster, Reason: Scraping failed
+School: Mississippi State University, URL: https://hailstate.com/sports/softball/roster, Reason: Scraping failed
+School: Murray State University, URL: https://goracers.com/sports/softball/roster, Reason: Scraping failed
+School: North Carolina State University, URL: https://gopack.com/sports/softball/roster, Reason: Scraping failed
+School: Pennsylvania State University, URL: https://gopsusports.com/sports/softball/roster, Reason: Scraping failed
+School: Ohio State University, URL: https://ohiostatebuckeyes.com/sports/softball/roster, Reason: Scraping failed
+School: Princeton University, URL: https://goprincetontigers.com/sports/softball/roster, Reason: Scraping failed
+School: Oklahoma State University–Stillwater, URL: https://okstate.com/sports/softball/roster, Reason: Scraping failed
+School: Oregon State University, URL: https://osubeavers.com/sports/softball/roster, Reason: Scraping failed
+School: Purdue University Fort Wayne, URL: https://gomastodons.com/sports/softball/roster, Reason: Scraping failed
+School: Purdue University, URL: https://purduesports.com/sports/softball/roster, Reason: Scraping failed
+School: San Diego State University, URL: https://goaztecs.com/sports/softball/roster, Reason: Scraping failed
+School: San Jose State University, URL: https://sjsuspartans.com/sports/softball/roster, Reason: Scraping failed
+School: Seton Hall University, URL: https://shupirates.com/sports/softball/roster, Reason: Scraping failed
+School: Southern Illinois University Carbondale, URL: https://siusalukis.com/sports/softball/roster, Reason: Scraping failed
+School: Stanford University, URL: https://gostanford.com/sports/softball/roster, Reason: Scraping failed
+School: Northwestern University, URL: https://nusports.com/sports/softball/roster, Reason: Scraping failed
+School: St. John's University, URL: https://redstormsports.com/sports/softball/roster, Reason: Scraping failed
+School: Stephen F. Austin State University, URL: https://sfajacks.com/sports/softball/roster, Reason: Scraping failed
+School: Tennessee Technological University, URL: https://ttusports.com/sports/sball/2023-24/roster, Reason: Scraping failed
+School: Syracuse University, URL: https://cuse.com/sports/softball/roster, Reason: Scraping failed
+School: Texas Tech University, URL: https://texastech.com/sports/softball/roster, Reason: Scraping failed
+School: Texas A&M University-Corpus Christi, URL: https://goislanders.com/sports/softball/roster, Reason: Scraping failed
+School: University of Arkansas, URL: https://arkansasrazorbacks.com/sport/w-softbl/roster/, Reason: Scraping failed
+School: University of Akron, URL: https://gozips.com/sports/softball/roster, Reason: Scraping failed
+School: Texas A&M University, URL: https://12thman.com/sports/softball/roster, Reason: Scraping failed
+School: University of Alabama at Birmingham, URL: https://uabsports.com/sports/softball/roster, Reason: Scraping failed
+School: University of California, Los Angeles, URL: https://uclabruins.com/sports/softball/roster, Reason: Scraping failed
+School: University of Central Florida, URL: https://ucfknights.com/sports/softball/roster, Reason: Scraping failed
+School: University of Delaware, URL: https://bluehens.com/sports/softball/roster, Reason: Scraping failed
+School: Troy University, URL: https://troytrojans.com/sports/softball/roster, Reason: Scraping failed
+School: University of Iowa, URL: https://hawkeyesports.com/sports/softball/roster/, Reason: Scraping failed
+School: University of Kentucky, URL: https://ukathletics.com/sports/softball/roster/, Reason: Scraping failed
+School: University of Georgia, URL: https://georgiadogs.com/sports/softball/roster, Reason: Scraping failed
+School: University of Alabama, URL: https://rolltide.com/sports/softball/roster, Reason: Scraping failed
+School: University of Houston, URL: https://uhcougars.com/sports/softball/roster, Reason: Scraping failed
+School: University of Louisiana at Lafayette, URL: https://ragincajuns.com/sports/softball/roster, Reason: Scraping failed
+School: University of Louisville, URL: https://gocards.com/sports/softball/roster, Reason: Scraping failed
+School: University of Memphis, URL: https://gotigersgo.com/sports/softball/roster, Reason: Scraping failed
+School: University of Massachusetts Amherst, URL: https://umassathletics.com/sports/softball/roster, Reason: Scraping failed
+School: University of Michigan, URL: https://mgoblue.com/sports/softball/roster, Reason: Scraping failed
+School: University of Minnesota, URL: https://gophersports.com/sports/softball/roster, Reason: Scraping failed
+School: University of Nebraska–Lincoln, URL: https://huskers.com/sports/softball/roster, Reason: Scraping failed
+School: University of Mississippi, URL: https://olemisssports.com/sports/softball/roster, Reason: Scraping failed
+School: University of New Mexico, URL: https://golobos.com/sports/softball/roster, Reason: Scraping failed
+School: University of Missouri–Kansas City, URL: https://kcroos.com/sports/softball/roster, Reason: Scraping failed
+School: University of Montana, URL: https://gogriz.com/sports/softball/roster, Reason: Scraping failed
+School: University of Notre Dame, URL: https://fightingirish.com/sports/softball/roster/, Reason: Scraping failed
+School: University of North Carolina at Chapel Hill, URL: https://goheels.com/sports/softball/roster, Reason: Scraping failed
+School: University of North Carolina Wilmington, URL: https://uncwsports.com/sports/softball/roster, Reason: Scraping failed
+School: University of North Texas, URL: https://meangreensports.com/sports/softball/roster, Reason: Scraping failed
+School: University of South Carolina, URL: https://gamecocksonline.com/sports/softball/roster/, Reason: Scraping failed
+School: University of Oklahoma, URL: https://soonersports.com/sports/softball/roster, Reason: Scraping failed
+School: University of Oregon, URL: https://goducks.com/sports/softball/roster, Reason: Scraping failed
+School: University of Northern Iowa, URL: https://unipanthers.com/sports/softball/roster, Reason: Scraping failed
+School: University of Tennessee, URL: https://utsports.com/sports/softball/roster, Reason: Scraping failed
+School: University of Southern Mississippi, URL: https://southernmiss.com/sports/softball/roster, Reason: Scraping failed
+School: University of Texas at San Antonio, URL: https://goutsa.com/sports/softball/roster, Reason: Scraping failed
+School: University of Virginia, URL: https://virginiasports.com/sports/softball/roster/, Reason: Scraping failed
+School: University of Tulsa, URL: https://tulsahurricane.com/sports/softball/roster, Reason: Scraping failed
+School: Virginia Tech, URL: https://hokiesports.com/sports/softball/roster, Reason: Scraping failed
+School: Valparaiso University, URL: https://www.valpoathletics.com/softball/roster/, Reason: Scraping failed
+School: Weber State University, URL: https://weberstatesports.com/sports/softball/roster, Reason: Scraping failed
+School: Western Kentucky University, URL: https://wkusports.com/sports/softball/roster, Reason: Scraping failed
+School: Utah State University, URL: https://utahstateaggies.com/sports/softball/roster, Reason: Scraping failed
