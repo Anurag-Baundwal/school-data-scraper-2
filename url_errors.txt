@@ -1,0 +1,31 @@
+
+NCAA D1
+=======
+Middle Tennessee State University - Logo: 404 Error - https://goblueraiders.com/sports/2018/10/18/middle-tennessee-logos.aspx
+Pennsylvania State University - Coaches: 404 Error - https://gopsusports.com/sports/softball/coaches
+Radford University - Coaches: 404 Error - https://radfordathletics.com/sports/softball/coaches
+Harvard University - Coaches: Error - HTTPSConnectionPool(host='gocrimson.com', port=443): Read timed out. (read timeout=10) - https://gocrimson.com/sports/softball/coaches
+Samford University - Coaches: 404 Error - https://samfordsports.com/sports/softball/coaches
+University of Northern Iowa - Coaches: Error - HTTPSConnectionPool(host='unipanthers.com', port=443): Read timed out. (read timeout=10) - https://unipanthers.com/sports/softball/coaches
+Harvard University - Roster: Error - HTTPSConnectionPool(host='gocrimson.com', port=443): Read timed out. (read timeout=10) - https://gocrimson.com/sports/softball/roster
+Harvard University - Staff Directory: Error - HTTPSConnectionPool(host='gocrimson.com', port=443): Read timed out. (read timeout=10) - https://gocrimson.com/staff-directory
+University of Alabama - Staff Directory: Error - HTTPSConnectionPool(host='rolltide.com', port=443): Read timed out. (read timeout=10) - https://rolltide.com/staff-directory
+University of California, Los Angeles - Staff Directory: Error - HTTPSConnectionPool(host='uclabruins.com', port=443): Read timed out. (read timeout=10) - https://uclabruins.com/staff-directory
+University of Massachusetts Amherst - Staff Directory: Error - HTTPSConnectionPool(host='umassathletics.com', port=443): Read timed out. (read timeout=10) - https://umassathletics.com/staff-directory
+University of Missouri–Kansas City - Staff Directory: Error - HTTPSConnectionPool(host='kcroos.com', port=443): Read timed out. (read timeout=10) - https://kcroos.com/staff-directory
+
+Total broken URLs in NCAA D1: 12
+
+NCAA D2
+=======
+Dominican University of California - Logo: 404 Error - https://en.wikipedia.org/wiki/Dominican_California_Penguins
+Albany State University - Coaches: No URL provided
+Elizabeth City State University - Coaches: 404 Error - https://ecsuvikings.com/sports/softball/coaches
+Hillsdale College - Coaches: 404 Error - https://hillsdalechargers.com/sports/sball/coaches/index
+Livingstone College - Coaches: 404 Error - https://bluebearathletics.com/sports/softball/coaches
+Miles College - Coaches: 404 Error - https://milesgoldenbears.com/sports/softball/coaches
+Shaw University - Coaches: 404 Error - https://shawbears.com/sports/softball/coaches
+St. Augustine's University - Coaches: 404 Error - https://saintaugfalcons.com/sports/softball/coaches
+Hillsdale College - Roster: 404 Error - https://hillsdalechargers.com/sports/sball/2023-24/roster
+
+Total broken URLs in NCAA D2: 9

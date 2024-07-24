@@ -43,8 +43,11 @@ async def take_screenshot_async(url, context, max_retries=10):
             await page.set_extra_http_headers({"User-Agent": user_agent})
             await page.goto(url, wait_until='domcontentloaded', timeout=60000)
             await asyncio.sleep(random.uniform(3, 8))  # Random delay
-            await page.wait_for_load_state('networkidle', timeout=30000)
+            await page.wait_for_load_state('networkidle', timeout=40000)
             screenshot = await page.screenshot(full_page=True, type='jpeg', quality=100)
+            screenshot_file = f"screenshot_{url.split('/')[-1]}.jpeg"
+            with open(screenshot_file, 'wb') as f:
+                f.write(screenshot)
             await page.close()
             return base64.b64encode(screenshot).decode('utf-8'), None
         except PlaywrightTimeoutError:
@@ -138,7 +141,7 @@ async def extract_coaching_data_async(screenshot_base64):
     Format the output as a JSON string with the following structure:
     {
         "success": true/false,
-        "reason": "reason for failure" (or null if success),
+        "reason": "reason for failing to scrape data" (or null if success),
         "coachingStaff": [
             {
                 "name": "...",
@@ -250,7 +253,7 @@ async def process_sheet_async(sheet_name, df):
     return all_coaches, all_failed_urls, processed_rows, successful_rows, failed_rows
 
 async def main_async():
-    excel_file = "Freelancer_Data_Mining_Project.xlsx"
+    excel_file = r"C:\Users\dell3\source\repos\school-data-scraper-2\Freelancer_Data_Mining_Project.xlsx"
     xls = pd.ExcelFile(excel_file)
     
     all_coaches = []
@@ -260,8 +263,8 @@ async def main_async():
     total_failed = 0
     
     for sheet_name in xls.sheet_names:
-        # if sheet_name != "NCAA D2": # process only sheet 2 for now
-        #     continue
+        if sheet_name != "NCAA D1": # process only sheet 2 for now
+            continue
         print(f"Processing sheet: {sheet_name}")
         df = pd.read_excel(excel_file, sheet_name=sheet_name)
         
