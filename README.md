@@ -26,4 +26,5 @@ To set up the project, follow these steps:
    SEARCH_ENGINE_ID=your_search_engine_id
    ```
 
-   **Note:** The `GEMINI_API_KEYS` can contain multiple keys separated by commas, not just two. This helps distribute requests and avoid hitting rate limits.
+   **Note:** The `GEMINI_API_KEYS` can contain multiple keys separated by commas, not just two. This helps distribute requests and avoid hitting rate limits. I would recommend that you use at least 3-4 keys.
+ 
