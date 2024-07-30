@@ -113,8 +113,8 @@ async def html_based_scraping(url, school_name, max_retries=3, timeout=60):
         logging.info(f"CPU usage: {cpu_percent}%")
 
         # Get network metrics
-        navigation_timing = driver.execute_script("return window.performance.timing.toJSON();")
-        logging.info(f"Navigation Timing: {navigation_timing}")
+        # navigation_timing = driver.execute_script("return window.performance.timing.toJSON();")
+        # logging.info(f"Navigation Timing: {navigation_timing}")
 
         # Scroll and handle dynamic content
         scroll_start_time = time.time()

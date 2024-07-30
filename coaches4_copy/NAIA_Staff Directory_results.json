@@ -1,0 +1,4903 @@
+[
+  {
+    "school": "Alice Lloyd College",
+    "url": "https://alicelloydeagles.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Aquinas College",
+    "url": "https://aqsaints.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Brad Koch",
+          "title": "Head Coach",
+          "email": "bsk001@aquinas.edu",
+          "phone": "6168224567",
+          "twitter": null
+        },
+        {
+          "name": "Jacki Anderson",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Mary Takas",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Matt Houseman",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Ellie Adams",
+          "title": "JV Head Coach",
+          "email": "ema002@aquinas.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Lauren Parker",
+          "title": "JV Volunteer Assistant",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Tim Syrek",
+          "title": "JV Volunteer Assistant",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Kelsey Pollock",
+          "title": "JV Volunteer Assistant",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 185831,
+    "output_tokens": 356,
+    "total_tokens": 186187
+  },
+  {
+    "school": "Arizona Christian University",
+    "url": "https://acufirestorm.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Mike Mayben",
+          "title": "Head Softball Coach",
+          "email": "mike.mayben@arizonachristian.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Casey Mayben",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Aubrey Ledbetter",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Brent Smith",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Tatumn Porras",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Taelor Tracy",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Zach Tracy",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Kirsten Garcia",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 115915,
+    "output_tokens": 338,
+    "total_tokens": 116253
+  },
+  {
+    "school": "Arkansas Baptist College",
+    "url": "https://abcbuffaloes.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Ryan Jones",
+          "title": "Head Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Brittany Edwards",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 5144,
+    "output_tokens": 97,
+    "total_tokens": 5241
+  },
+  {
+    "school": "Ave Maria University",
+    "url": "https://avemariagyrenes.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Juliaclare Plezbert",
+          "title": "Head Softball Coach",
+          "email": "Softball@avemaria.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Rianna Koteles",
+          "title": "Assistant Coach",
+          "email": "Softball@avemaria.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Trinity Medina",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 86316,
+    "output_tokens": 157,
+    "total_tokens": 86473
+  },
+  {
+    "school": "Avila University",
+    "url": "https://www.avilaathletics.com/information/staff-directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Bacone College",
+    "url": "https://www.bacone.edu/about/directory-2/",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "TBD",
+          "title": "Softball Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 10240,
+    "output_tokens": 60,
+    "total_tokens": 10300
+  },
+  {
+    "school": "Baker University",
+    "url": "https://bakerwildcats.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Bellevue University",
+    "url": "https://bubruins.com/athletics/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Benedictine College",
+    "url": "https://www.ravenathletics.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Benedictine University\u2013Mesa",
+    "url": "https://benuredhawks.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Rachel Quintero",
+          "title": "Head Coach",
+          "email": "rquintero@ben.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Dino Quintero",
+          "title": "Assistant Coach",
+          "email": "dquintero@ben.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Jaydee  Boursaw",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 59037,
+    "output_tokens": 154,
+    "total_tokens": 59191
+  },
+  {
+    "school": "Bethany College",
+    "url": "https://bethanyswedes.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Bethel College",
+    "url": "https://bethelthreshers.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "David Middleton",
+          "title": "Head Coach",
+          "email": "dmiddleton@bethelks.edu",
+          "phone": "3162845263",
+          "twitter": null
+        },
+        {
+          "name": "Stacy Middleton",
+          "title": "Athletic Operations Administrator | Senior Women Leader",
+          "email": "smiddleton@bethelks.edu",
+          "phone": "3162845218",
+          "twitter": null
+        },
+        {
+          "name": "Anthony Gonzalez",
+          "title": "Assistant Coach",
+          "email": "agonzalez@bethelks.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Jeremy Taylor-Sparks",
+          "title": "Northwest Recruiting Coordinator",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Michael McKelpin",
+          "title": "Assistant Coach",
+          "email": "mmckelpin@bethelks.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Jami Minnick",
+          "title": "Pitching Coach",
+          "email": "jminnick@bethelks.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 112645,
+    "output_tokens": 323,
+    "total_tokens": 112968
+  },
+  {
+    "school": "Bethel University",
+    "url": "https://athletics.bethel.edu/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Penny Foore",
+          "title": "Head Softball Coach",
+          "email": "penny-foore@bethel.edu",
+          "phone": "6516386565",
+          "twitter": null
+        },
+        {
+          "name": "Roman Foore",
+          "title": "Associate Head Coach",
+          "email": "Roman-foore@bethel.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Dale Stapf",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Maddie Bomsta",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "John Jensen",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 122214,
+    "output_tokens": 243,
+    "total_tokens": 122457
+  },
+  {
+    "school": "Bethel University",
+    "url": "https://www.bethelathletics.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Bismarck State College",
+    "url": "https://bscmystics.com/athletics/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Blue Mountain Christian University",
+    "url": "https://bmcusports.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Matt Brunet",
+          "title": "Head Coach",
+          "email": "mbrunet@bmc.edu",
+          "phone": "6626854771 x 419",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 84288,
+    "output_tokens": 84,
+    "total_tokens": 84372
+  },
+  {
+    "school": "Bluefield University",
+    "url": "https://bcrams.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Maggie White",
+          "title": "Head Softball Coach",
+          "email": "mewhite@bluefield.edu",
+          "phone": "5404942631",
+          "twitter": null
+        },
+        {
+          "name": "Willie  Sparks",
+          "title": "Assistant Softball Coach",
+          "email": "wsparks@bluefield.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 93767,
+    "output_tokens": 125,
+    "total_tokens": 93892
+  },
+  {
+    "school": "Brenau University",
+    "url": "https://www.brenautigers.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Brescia University",
+    "url": "https://bresciabearcats.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Brewton\u2013Parker College",
+    "url": "https://bpcathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Madison Herrin",
+          "title": "Head Softball Coach/Bass Fishing Coach",
+          "email": "mherrin@bpc.edu",
+          "phone": "9125833177",
+          "twitter": null
+        },
+        {
+          "name": "Madeline Brown",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 71578,
+    "output_tokens": 122,
+    "total_tokens": 71700
+  },
+  {
+    "school": "Briar Cliff University",
+    "url": "https://bcuchargers.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "TJ Eadus",
+          "title": "Head Coach",
+          "email": "TJ.Eadus@briarcliff.edu",
+          "phone": "5208614002",
+          "twitter": null
+        },
+        {
+          "name": "Payton Hilts",
+          "title": "Student Assistant",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Makensey Pankers",
+          "title": "Assistant Softball Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Teah Serr",
+          "title": "Assistant Athletic Trainer - Football, Wrestling, Golf, Softball",
+          "email": "teah.serr@briarcliff.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 83880,
+    "output_tokens": 221,
+    "total_tokens": 84101
+  },
+  {
+    "school": "Bryan College",
+    "url": "https://bryanlions.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Leah Thompson",
+          "title": "Head Coach",
+          "email": "lthompson0546@bryan.edu",
+          "phone": "4237757492",
+          "twitter": null
+        },
+        {
+          "name": "Nathan Thompson",
+          "title": "Assistant Coach",
+          "email": "nthompson2388@bryan.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Hailey Galvan",
+          "title": "Grad Assistant",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Savannah  Hood",
+          "title": "Student Assistant",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Rachel Norman",
+          "title": "Manager",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 123192,
+    "output_tokens": 243,
+    "total_tokens": 123435
+  },
+  {
+    "school": "Bushnell University",
+    "url": "https://bushnellbeacons.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Jim Patrick",
+          "title": "Head Coach",
+          "email": "jpatrick@bushnell.edu",
+          "phone": "541-954-6437",
+          "twitter": null
+        },
+        {
+          "name": "Tom McVein",
+          "title": "Assistant Coach",
+          "email": "tmcvein@bushnell.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Sam Silver",
+          "title": "Assistant Coach / Pitching Coach",
+          "email": "sasilver@bushnell.edu",
+          "phone": "360-770-1364",
+          "twitter": null
+        },
+        {
+          "name": "Hannah Tennant",
+          "title": "Assistant Coach",
+          "email": "htennant@bushnell.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 85639,
+    "output_tokens": 231,
+    "total_tokens": 85870
+  },
+  {
+    "school": "Calumet College of St. Joseph",
+    "url": "https://ccsjathletics.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Campbellsville University",
+    "url": "https://campbellsvilletigers.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Shannon Wathen",
+          "title": "Head Coach",
+          "email": "slwathen@campbellsville.edu",
+          "phone": "2707895335",
+          "twitter": null
+        },
+        {
+          "name": "Kim Borders",
+          "title": "Pitching Coach",
+          "email": "kborders@campbellsville.edu",
+          "phone": "2707895335",
+          "twitter": null
+        },
+        {
+          "name": "Bryce White",
+          "title": "Assistant Coach",
+          "email": "bdwhite@campbellsville.edu",
+          "phone": "2707895455",
+          "twitter": null
+        },
+        {
+          "name": "Derek Underwood",
+          "title": "Assistant Coach",
+          "email": "dmunderwood@campbellsville.edu",
+          "phone": "2707895455",
+          "twitter": null
+        },
+        {
+          "name": "Lauren McKenney",
+          "title": "Assistant Athletic Trainer (Football, Softball)",
+          "email": "lemckenney@campbellsville.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 209912,
+    "output_tokens": 300,
+    "total_tokens": 210212
+  },
+  {
+    "school": "Carolina University",
+    "url": "https://cubruins.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Jay Johnson",
+          "title": "Head Softball Coach",
+          "email": "johnsonj_1@carolinau.edu",
+          "phone": "3362836799",
+          "twitter": null
+        },
+        {
+          "name": "Natalie Jones",
+          "title": "Assistant Softball Coach",
+          "email": "jonesnb@carolinau.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Heather Johnson",
+          "title": "Assistant Softball Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 51064,
+    "output_tokens": 165,
+    "total_tokens": 51229
+  },
+  {
+    "school": "Carroll College",
+    "url": "https://carrollathletics.com/staff-directory?path=general",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Shawna Juarez",
+          "title": "Head Coach - Softball",
+          "email": "sjuarez@carroll.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Shelby Martin",
+          "title": "Assistant Coach - Softball",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Aspen Herndon",
+          "title": "Softball - Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "John Hawe",
+          "title": "Softball - Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 80325,
+    "output_tokens": 192,
+    "total_tokens": 80517
+  },
+  {
+    "school": "Central Baptist College",
+    "url": "https://cbcmustangs.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Central Christian College of Kansas",
+    "url": "https://ccctigers.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Scott Balbin",
+          "title": "Head Coach",
+          "email": "scott.balbin@centralchristian.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Scott Fowler",
+          "title": "Assistant Coach",
+          "email": "scott.fowler@centralchristian.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 92674,
+    "output_tokens": 117,
+    "total_tokens": 92791
+  },
+  {
+    "school": "Central Methodist University",
+    "url": "https://cmueagles.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Clarke University",
+    "url": "https://clarkepride.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Cleary University",
+    "url": "https://clearycougars.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "College of Coastal Georgia",
+    "url": "https://coastalgeorgiasports.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Mike Minick",
+          "title": "Head Coach",
+          "email": "mminick@ccga.edu",
+          "phone": "912-279-5940",
+          "twitter": null
+        },
+        {
+          "name": "Terry Stewart",
+          "title": "Assistant Coach",
+          "email": "tstewart@ccga.edu",
+          "phone": "912-279-5945",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 84942,
+    "output_tokens": 137,
+    "total_tokens": 85079
+  },
+  {
+    "school": "College of Idaho",
+    "url": "https://yoteathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Al  Mendiola",
+          "title": "Head Coach / Assistant Athletic Director",
+          "email": "amendiola@collegeofidaho.edu",
+          "phone": "2084595113",
+          "twitter": "MendiolaAl"
+        },
+        {
+          "name": "Bobby Wright",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Mallory Copeland",
+          "title": "Volunteer Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Hannah McNerney",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Ryan Amlingmeier",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 123812,
+    "output_tokens": 244,
+    "total_tokens": 124056
+  },
+  {
+    "school": "College of Saint Mary",
+    "url": "https://csmflames.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Columbia College - MO",
+    "url": "https://columbiacougars.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Wendy  Spratt",
+          "title": "Head Softball Coach",
+          "email": "wsspratt@ccis.edu",
+          "phone": "5738757414",
+          "twitter": null
+        },
+        {
+          "name": "Debbie Jameson",
+          "title": "Assistant Coach",
+          "email": "dljameson@ccis.edu",
+          "phone": "5738757414",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 74478,
+    "output_tokens": 136,
+    "total_tokens": 74614
+  },
+  {
+    "school": "Columbia College - SC",
+    "url": "https://gokoalas.com/about/staff_directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Columbia International University",
+    "url": "https://ciurams.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Sara Allen",
+          "title": "Head Softball Coach",
+          "email": "sara.allen@ciu.edu",
+          "phone": "8038075254",
+          "twitter": null
+        },
+        {
+          "name": "Jordan  Gentry",
+          "title": "Assistant Coach",
+          "email": "jordan.gentry@ciu.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Kylie Thomsen",
+          "title": "Volunteer Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Taylor  Allen",
+          "title": "Graduate Assistant Coach",
+          "email": "taylor.allen@ciu.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Madelyn  Wise",
+          "title": "Graduate Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 79112,
+    "output_tokens": 250,
+    "total_tokens": 79362
+  },
+  {
+    "school": "Concordia University Ann Arbor",
+    "url": "https://www.concordiacardinals.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Concordia University Nebraska",
+    "url": "https://www.cune.edu/athletics/directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Brock Culler",
+          "title": "Head Softball Coach",
+          "email": "brock.culler@cune.edu",
+          "phone": "4026437168",
+          "twitter": null
+        },
+        {
+          "name": "Melissa Martinez",
+          "title": "Assistant Softball Coach",
+          "email": "melissa.martinez2@cune.edu",
+          "phone": "4026437296",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 21165,
+    "output_tokens": 137,
+    "total_tokens": 21302
+  },
+  {
+    "school": "Corban University",
+    "url": "https://corbanwarriors.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Jeff Covalt",
+          "title": "Head Softball Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Madison Wyllie",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Richi Sede",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Briana Brewer",
+          "title": "Volunteer Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 94836,
+    "output_tokens": 178,
+    "total_tokens": 95014
+  },
+  {
+    "school": "Cornerstone University",
+    "url": "https://cugoldeneagles.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Kelsey Kooistra",
+          "title": "Head Coach",
+          "email": "kelsey.kooistra@cornerstone.edu",
+          "phone": "6169775417",
+          "twitter": null
+        },
+        {
+          "name": "Michael Reese",
+          "title": "Assistant Coach",
+          "email": "michael.reese@cornerstone.edu",
+          "phone": "6169775417",
+          "twitter": null
+        },
+        {
+          "name": "Kim Zainea",
+          "title": "Faculty Athletic Representative",
+          "email": "kim.zainea@cornerstone.edu",
+          "phone": "6169495300",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 87998,
+    "output_tokens": 196,
+    "total_tokens": 88194
+  },
+  {
+    "school": "Cottey College",
+    "url": "https://cotteycomets.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Crowley's Ridge College",
+    "url": "https://www.crcpioneers.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Culver\u2013Stockton College",
+    "url": "https://www.cscwildcats.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Cumberland University",
+    "url": "https://gocumberlandathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Stephanie Theall",
+          "title": "Head Coach",
+          "email": "stheall@cumberland.edu",
+          "phone": "6154536361",
+          "twitter": null
+        },
+        {
+          "name": "Lauren Powell",
+          "title": "Assistant Coach",
+          "email": "lpowell@cumberland.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Katie Killen",
+          "title": "Graduate Assistant",
+          "email": "katiekillen@cumberland.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 149707,
+    "output_tokens": 169,
+    "total_tokens": 149876
+  },
+  {
+    "school": "Dakota State University",
+    "url": "https://dsuathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Erin Skinner",
+          "title": "Head Softball Coach",
+          "email": "erin.skinner@dsu.edu",
+          "phone": "9189355844",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 93247,
+    "output_tokens": 80,
+    "total_tokens": 93327
+  },
+  {
+    "school": "Dakota Wesleyan University",
+    "url": "https://www.dwuathletics.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Defiance College",
+    "url": "https://www.defianceathletics.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Dickinson State University",
+    "url": "https://www.dsubluehawks.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Doane University",
+    "url": "https://www.doaneathletics.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Dordt University",
+    "url": "https://godordt.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Jeff Zomer",
+          "title": "Head Coach",
+          "email": "jeff.zomer@dordt.edu",
+          "phone": "7127226310",
+          "twitter": null
+        },
+        {
+          "name": "Jordan Eshelman",
+          "title": "Assistant Coach",
+          "email": "jordan.eshelman@dordt.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 114814,
+    "output_tokens": 131,
+    "total_tokens": 114945
+  },
+  {
+    "school": "Eastern Oregon University",
+    "url": "https://eousports.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Nicole Christian",
+          "title": "Head Softball Coach",
+          "email": "christn@eou.edu",
+          "phone": "5419623808",
+          "twitter": null
+        },
+        {
+          "name": "Theresa Manley",
+          "title": "Assistant Softball Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Woody Wright",
+          "title": "Assistant Softball Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Bob Christian",
+          "title": "Assistant  Softball Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Maddy Thomas",
+          "title": "Volunteer Assistant Softball Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 128086,
+    "output_tokens": 234,
+    "total_tokens": 128320
+  },
+  {
+    "school": "Embry\u2013Riddle Aeronautical University, Prescott",
+    "url": "https://erauathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Kelsi Dunne Diaz",
+          "title": "Head Coach",
+          "email": "dunnek@erau.edu",
+          "phone": "3863235022",
+          "twitter": null
+        },
+        {
+          "name": "Kailah Rain",
+          "title": "Graduate Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 132337,
+    "output_tokens": 118,
+    "total_tokens": 132455
+  },
+  {
+    "school": "Evangel University",
+    "url": "https://evangelathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Jay Halbrook",
+          "title": "Head Coach",
+          "email": "halbrookja@evangel.edu",
+          "phone": "417-777-7265",
+          "twitter": null
+        },
+        {
+          "name": "Sony Mitchell",
+          "title": "Assistant Coach",
+          "email": "mitchells@evangel.edu",
+          "phone": "417-777-7404",
+          "twitter": null
+        },
+        {
+          "name": "Jamie Halbrook",
+          "title": "Recruiting Coordinator",
+          "email": "halbrookj@evangel.edu",
+          "phone": "417-777-1500",
+          "twitter": null
+        },
+        {
+          "name": "Rob Brice",
+          "title": "Assistant Coach, Hitting",
+          "email": "bricer@evangel.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Justin Hale",
+          "title": "Assistant Coach, Recruiting & Catchers/Hitting",
+          "email": "halej@evangel.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Cayleigh Berry",
+          "title": "Assistant Coach, Outfield",
+          "email": "berryc@evangel.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Nick Van Valkenburg",
+          "title": "Strength & Conditioning Coach",
+          "email": "vanvalkenburg@evangel.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Brooke Arnold",
+          "title": "Assistant Coach, Recruiting",
+          "email": "arnoldb@evangel.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Kaden Hass",
+          "title": "Student Assistant",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 159160,
+    "output_tokens": 480,
+    "total_tokens": 159640
+  },
+  {
+    "school": "Faulkner University",
+    "url": "https://faulknereagles.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Hal Wynn",
+          "title": "VP of Athletics/Head Softball Coach",
+          "email": "hwynn@faulkner.edu",
+          "phone": "3343867285",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 72618,
+    "output_tokens": 82,
+    "total_tokens": 72700
+  },
+  {
+    "school": "Fisher College",
+    "url": "https://www.fisherfalcons.com/athletics/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Florida Memorial University",
+    "url": "https://fmuathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "CJ Combs",
+          "title": "Head Softball Coach",
+          "email": "charlee.combs@fmuniv.edu",
+          "phone": "305-626-3688",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 89896,
+    "output_tokens": 83,
+    "total_tokens": 89979
+  },
+  {
+    "school": "Florida National University",
+    "url": "https://www.fnu.edu/athletics/staff/",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Wesley Pollock",
+          "title": "Softball Head Coach",
+          "email": "wpollock@fnu.edu",
+          "phone": "3058213333",
+          "twitter": null
+        },
+        {
+          "name": "Bailey Fernandez",
+          "title": "Softball Graduate Assistant",
+          "email": "baileyf@fnu.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 31392,
+    "output_tokens": 127,
+    "total_tokens": 31519
+  },
+  {
+    "school": "Freed\u2013Hardeman University",
+    "url": "https://gofhulions.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Todd Humphry",
+          "title": "Head Coach",
+          "email": "thumphry@fhu.edu",
+          "phone": "731-989-6906",
+          "twitter": null
+        },
+        {
+          "name": "Kaitlynn Hunt",
+          "title": "Assistant Coach",
+          "email": "khunt@fhu.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Bonnie Scarbrough",
+          "title": "Manager",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 126282,
+    "output_tokens": 164,
+    "total_tokens": 126446
+  },
+  {
+    "school": "Friends University",
+    "url": "https://friendsathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Suzanne Unruh",
+          "title": "Head Softball Coach | Senior Women's Leader",
+          "email": "suzanne_unruh@friends.edu",
+          "phone": "3162955763",
+          "twitter": null
+        },
+        {
+          "name": "Dave Millspaugh",
+          "title": "Assistant Coach",
+          "email": "dave_millspaugh@friends.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Maddie Byrd-Moyano",
+          "title": "Pitching Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 142116,
+    "output_tokens": 177,
+    "total_tokens": 142293
+  },
+  {
+    "school": "Georgetown College",
+    "url": "https://www.georgetowncollegeathletics.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Georgia Gwinnett College",
+    "url": "https://ggcathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Kat Ihlenburg",
+          "title": "Head Coach",
+          "email": "kihlenburg@ggc.edu",
+          "phone": "678-407-5927",
+          "twitter": "@GGC_Softball"
+        },
+        {
+          "name": "Ashley Razey",
+          "title": "Assistant Coach",
+          "email": "arazey@ggc.edu",
+          "phone": "678-407-5288",
+          "twitter": null
+        },
+        {
+          "name": "John Ihlenburg",
+          "title": "Assistant Coach",
+          "email": "jihlenburg@ggc.edu",
+          "phone": "678-407-5927",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 61820,
+    "output_tokens": 204,
+    "total_tokens": 62024
+  },
+  {
+    "school": "Goshen College",
+    "url": "https://goleafs.net/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Luke Wagner",
+          "title": "Head Coach",
+          "email": "jlwagner@goshen.edu",
+          "phone": "5745357233",
+          "twitter": null
+        },
+        {
+          "name": "Hannah Middlebrooks",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Emily Stanley",
+          "title": "Pitching Consultant",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Emma Durkin",
+          "title": "Manual Therapist and Athletic Trainer",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Tyler Hubbell",
+          "title": "Strength and Nutrition Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Liz Lucas",
+          "title": "Mental Training Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 116239,
+    "output_tokens": 273,
+    "total_tokens": 116512
+  },
+  {
+    "school": "Grace College & Seminary",
+    "url": "https://gclancers.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Bethany Carpenter",
+          "title": "Interim Softball Head Coach",
+          "email": null,
+          "phone": "5743725100",
+          "twitter": null
+        },
+        {
+          "name": "Cassie Hayes",
+          "title": "Graduate Assistant",
+          "email": "hayescm@grace.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Bri Flanegan",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": "5743725100",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 84483,
+    "output_tokens": 166,
+    "total_tokens": 84649
+  },
+  {
+    "school": "Graceland University",
+    "url": "https://www.gujackets.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Grand View University",
+    "url": "https://gvvikings.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Lou A. Yacinich",
+          "title": "Head Coach",
+          "email": "layacinich@grandview.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Destiny Willer",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Abby Sutten",
+          "title": "Graduate Assistant",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Claudia Farrell",
+          "title": "Pitching Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Lou Yacinich Sr.",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 126093,
+    "output_tokens": 226,
+    "total_tokens": 126319
+  },
+  {
+    "school": "Hannibal\u2013LaGrange University",
+    "url": "https://hlgtrojans.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Dan Hurst",
+          "title": "Head Coach",
+          "email": "dhurst@hlg.edu",
+          "phone": "5736293215",
+          "twitter": null
+        },
+        {
+          "name": "Ron Haye",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Maggie Tollison",
+          "title": "Graduate Assistant",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 84459,
+    "output_tokens": 152,
+    "total_tokens": 84611
+  },
+  {
+    "school": "Harris\u2013Stowe State University",
+    "url": "https://hornetsathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Larry Young",
+          "title": "Head Softball Coach",
+          "email": "younglar@hssu.edu",
+          "phone": "3144804402",
+          "twitter": null
+        },
+        {
+          "name": "Tia Bolden",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Randy Skaggs",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 84548,
+    "output_tokens": 156,
+    "total_tokens": 84704
+  },
+  {
+    "school": "Haskell Indian Nations University",
+    "url": "https://haskellathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Jolona Shield-Dzakic",
+          "title": "Head Coach",
+          "email": "jdzakic@haskell.edu",
+          "phone": "7857498459",
+          "twitter": null
+        },
+        {
+          "name": "Jeremey Shield",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Melody Thorne",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 176144,
+    "output_tokens": 159,
+    "total_tokens": 176303
+  },
+  {
+    "school": "Hastings College",
+    "url": "https://hastingsbroncos.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Hope International University",
+    "url": "https://hiuroyals.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Alex Mascarenas",
+          "title": "Head Coach",
+          "email": "ammascarenas@hiu.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Bree Mascarenas",
+          "title": "Assistant Coach",
+          "email": "blmascarenas@hiu.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Alena  De La Torre",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Emily Puente",
+          "title": "Graduate Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 99131,
+    "output_tokens": 202,
+    "total_tokens": 99333
+  },
+  {
+    "school": "Huntington University",
+    "url": "https://huathletics.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Huston\u2013Tillotson University",
+    "url": "https://htramsathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Kacey Hvitved",
+          "title": "Head Coach",
+          "email": "khvitved@htu.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 56081,
+    "output_tokens": 71,
+    "total_tokens": 56152
+  },
+  {
+    "school": "Indiana Institute of Technology",
+    "url": "https://indianatechwarriors.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Stephanie Zimny",
+          "title": "Head Coach",
+          "email": "smzimny@indianatech.edu",
+          "phone": "2604225561 x2280",
+          "twitter": null
+        },
+        {
+          "name": "Kristin Mihalic",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 128702,
+    "output_tokens": 123,
+    "total_tokens": 128825
+  },
+  {
+    "school": "Indiana University Columbus",
+    "url": "https://iuccrimsonpride.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Tommi Stowers",
+          "title": "Head Softball Coach",
+          "email": "tlstower@iu.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Nolan Meier",
+          "title": "Assistant Softball Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Emily Cash",
+          "title": "Assistant Softball Coach",
+          "email": "cashem@iu.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 89060,
+    "output_tokens": 152,
+    "total_tokens": 89212
+  },
+  {
+    "school": "Indiana University South Bend",
+    "url": "https://iusbtitans.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Alex Dunfee",
+          "title": "Assistant Coach",
+          "email": "afdunfee@iu.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 53708,
+    "output_tokens": 68,
+    "total_tokens": 53776
+  },
+  {
+    "school": "Indiana University Southeast",
+    "url": "https://iusathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "TBD TBD",
+          "title": "Head Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Erin  Templeman",
+          "title": "Assistant Coach",
+          "email": "etemplem@iu.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 138262,
+    "output_tokens": 106,
+    "total_tokens": 138368
+  },
+  {
+    "school": "Indiana Wesleyan University",
+    "url": "https://iwuwildcats.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Steve Babinski",
+          "title": "Head Coach",
+          "email": "steve.babinski@indwes.edu",
+          "phone": "7656772319",
+          "twitter": "IndWesSoftball"
+        },
+        {
+          "name": "Kevin Juber",
+          "title": "Assistant Coach",
+          "email": "kevin.juber@indwes.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Evelyn Waymire",
+          "title": "Assistant Coach",
+          "email": "iwusoftball@indwes.edu",
+          "phone": null,
+          "twitter": "evie_waymire"
+        },
+        {
+          "name": "Olivia Hopkins",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": "O_Hop26"
+        }
+      ]
+    },
+    "input_tokens": 102459,
+    "output_tokens": 228,
+    "total_tokens": 102687
+  },
+  {
+    "school": "Jarvis Christian University",
+    "url": "https://jcubulldogs.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Johnson University",
+    "url": "https://jut.prestosports.com/information/directory/index",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Dayna Carter",
+          "title": "Head Coach - Softball",
+          "email": "dcarter@johnsonu.edu",
+          "phone": "8652512479",
+          "twitter": null
+        },
+        {
+          "name": "Hannah Devault",
+          "title": "Assistant Coach- Softball",
+          "email": null,
+          "phone": "8653608685",
+          "twitter": null
+        },
+        {
+          "name": "Lauren Irwin",
+          "title": "Assistant Coach- Softball",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 7612,
+    "output_tokens": 169,
+    "total_tokens": 7781
+  },
+  {
+    "school": "Judson University",
+    "url": "https://www.judsoneagles.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Kansas Wesleyan University",
+    "url": "https://kwucoyotes.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Ryan Cooper",
+          "title": "Head Softball Coach",
+          "email": "ryan.cooper@kwu.edu",
+          "phone": "7858334407",
+          "twitter": null
+        },
+        {
+          "name": "Sam Huffstickler",
+          "title": "Assistant Softball Coach",
+          "email": "samantha.huffstickler@kwu.edu",
+          "phone": "7858334407",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 237920,
+    "output_tokens": 142,
+    "total_tokens": 238062
+  },
+  {
+    "school": "Keiser University",
+    "url": "https://kuseahawks.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "John Pryor",
+          "title": "Head Softball Coach",
+          "email": "john.pryor@keiseruniversity.edu",
+          "phone": "9148794678",
+          "twitter": "jpryorKeiserSB"
+        },
+        {
+          "name": "Lena Wallace",
+          "title": "Graduate Assistant",
+          "email": "l.wallace6@student.keiseruniversity.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Megen Johnson",
+          "title": "Graduate Assistant",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 102160,
+    "output_tokens": 176,
+    "total_tokens": 102336
+  },
+  {
+    "school": "Kentucky Christian University",
+    "url": "https://www.kcuknights.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "La Sierra University",
+    "url": "https://www.lsugoldeneagles.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Langston University",
+    "url": "https://langstonsports.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Darnell Walker",
+          "title": "Head Coach",
+          "email": "darnell.walker10@langston.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 55456,
+    "output_tokens": 72,
+    "total_tokens": 55528
+  },
+  {
+    "school": "Lawrence Technological University",
+    "url": "https://ltuathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Karen Baird",
+          "title": "Head Coach",
+          "email": "kbaird1@ltu.edu",
+          "phone": "2482047926",
+          "twitter": null
+        },
+        {
+          "name": "Kary Couchman",
+          "title": "Pitching Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Sara Cupp",
+          "title": "Volunteer Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 148064,
+    "output_tokens": 156,
+    "total_tokens": 148220
+  },
+  {
+    "school": "Lindsey Wilson College",
+    "url": "https://lindseyathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Callum Pilgrim",
+          "title": "Head Coach",
+          "email": "pilgrimc@lindsey.edu",
+          "phone": "270-384-8598",
+          "twitter": "LWCSoftball"
+        },
+        {
+          "name": "Annabelle Ramirez-Sharber",
+          "title": "Assistant Coach",
+          "email": "ramireza@lindsey.edu",
+          "phone": "270-384-8598",
+          "twitter": null
+        },
+        {
+          "name": "Aleigha Talsma",
+          "title": "Graduate Assistant Coach",
+          "email": "aleigha.talsma@lindsey.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 178565,
+    "output_tokens": 199,
+    "total_tokens": 178764
+  },
+  {
+    "school": "Louisiana Christian University",
+    "url": "https://www.lcwildcats.net/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Barry Roberts",
+          "title": "Head Coach",
+          "email": "barry.roberts@lcuniversity.edu",
+          "phone": "3184877131",
+          "twitter": "LCU_sftball"
+        },
+        {
+          "name": "Mattie Stine",
+          "title": "Associate Head Coach",
+          "email": "mattie.stine@lcuniversity.edu",
+          "phone": "3377641649",
+          "twitter": "mstine22"
+        },
+        {
+          "name": "Paige  Hightower",
+          "title": "Assistant Coach",
+          "email": "paige.hightower@lcuniversity.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Kayla Dauthier",
+          "title": "Graduate Assistant",
+          "email": "kayla.dauthier@lcuniversity.edu",
+          "phone": null,
+          "twitter": "kayladauthier"
+        }
+      ]
+    },
+    "input_tokens": 75778,
+    "output_tokens": 251,
+    "total_tokens": 76029
+  },
+  {
+    "school": "Louisiana State University of Alexandria",
+    "url": "https://lsuagenerals.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Trent Partridge",
+          "title": "Head Softball Coach",
+          "email": "rpartridge@lsua.edu",
+          "phone": "318-473-6486",
+          "twitter": null
+        },
+        {
+          "name": "Brannin Hagan",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 70305,
+    "output_tokens": 120,
+    "total_tokens": 70425
+  },
+  {
+    "school": "Lourdes University",
+    "url": "https://lourdesathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Caitlin Blanchard",
+          "title": "Head Softball Coach",
+          "email": "CBlanchard@lourdes.edu",
+          "phone": "4195178438",
+          "twitter": null
+        },
+        {
+          "name": "Mike Mease",
+          "title": "Assistant Softball Coach",
+          "email": "mmease@lourdes.edu",
+          "phone": "4195178982",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 70977,
+    "output_tokens": 135,
+    "total_tokens": 71112
+  },
+  {
+    "school": "Madonna University",
+    "url": "https://mucrusaders.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Ron Pezzoni",
+          "title": "Head Coach",
+          "email": "rpezzoni@madonna.edu",
+          "phone": "8103332814",
+          "twitter": null
+        },
+        {
+          "name": "Steve Toth",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Mike Baum",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Shawn Hopper",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Wally King",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Dan Bressler",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 120831,
+    "output_tokens": 267,
+    "total_tokens": 121098
+  },
+  {
+    "school": "Marian University",
+    "url": "https://muknights.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Scott Fleming",
+          "title": "Head Coach",
+          "email": "sfleming@marian.edu",
+          "phone": "3179556106",
+          "twitter": null
+        },
+        {
+          "name": "Hannah Williams",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Breena Smith",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Lanie Horen",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 139009,
+    "output_tokens": 192,
+    "total_tokens": 139201
+  },
+  {
+    "school": "Mayville State University",
+    "url": "https://msucomets.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Jordan Olson",
+          "title": "Head Softball Coach/Sports Information Director",
+          "email": "jordan.a.olson.2@mayvillestate.edu",
+          "phone": "7012381632",
+          "twitter": null
+        },
+        {
+          "name": "Megan Elliott",
+          "title": "Assistant Softball Coach",
+          "email": "megan.elliott@ndus.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Emily Haines",
+          "title": "Graduate Assistant Softball Coach",
+          "email": "emily.haines@mayvillestate.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 58766,
+    "output_tokens": 185,
+    "total_tokens": 58951
+  },
+  {
+    "school": "McPherson College",
+    "url": "https://macbulldogs.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Abby Bolton",
+          "title": "Head Softball Coach / Senior Women's Leader",
+          "email": "boltona@mcpherson.edu",
+          "phone": "7193521128",
+          "twitter": null
+        },
+        {
+          "name": "Michael Davis",
+          "title": "Assistant Coach",
+          "email": "davism@mcpherson.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Victor Garcia",
+          "title": "Assistant Coach",
+          "email": "garciav@mcpherson.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 108666,
+    "output_tokens": 173,
+    "total_tokens": 108839
+  },
+  {
+    "school": "Mid-America Christian University",
+    "url": "https://macuathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Jim Gasso",
+          "title": "Head Coach",
+          "email": "jim.gasso@macu.edu",
+          "phone": "4056923285",
+          "twitter": null
+        },
+        {
+          "name": "Cailey Parsells",
+          "title": "Graduate Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 83339,
+    "output_tokens": 120,
+    "total_tokens": 83459
+  },
+  {
+    "school": "MidAmerica Nazarene University",
+    "url": "https://mnusports.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Jen Felvus",
+          "title": "Head Coach",
+          "email": "jjfelvus@mnu.edu",
+          "phone": "9139713747",
+          "twitter": null
+        },
+        {
+          "name": "Elizabeth Thomas",
+          "title": "Assistant Coach / Recruiting Coordinator",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Olivia Pino",
+          "title": "Assistant Coach/Varsity Reserve Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Steve Keel",
+          "title": "Volunteer Assistant Coach",
+          "email": "sckeel@mnu.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 109488,
+    "output_tokens": 206,
+    "total_tokens": 109694
+  },
+  {
+    "school": "Middle Georgia State University",
+    "url": "https://mgaknights.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Randi Wimpy",
+          "title": "Head Softball Coach",
+          "email": "randi.wimpy@mga.edu",
+          "phone": "4789343013",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 101507,
+    "output_tokens": 81,
+    "total_tokens": 101588
+  },
+  {
+    "school": "Midland University",
+    "url": "https://midlandathletics.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Midway University",
+    "url": "https://www.gomidwayeagles.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Milligan University",
+    "url": "https://milliganbuffs.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Mission University",
+    "url": "https://gopatriotathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Dana Meinders",
+          "title": "Head Women's Softball Coach",
+          "email": "danameinders@mission.edu",
+          "phone": "4178938749",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 33395,
+    "output_tokens": 82,
+    "total_tokens": 33477
+  },
+  {
+    "school": "Missouri Baptist University",
+    "url": "https://mbuspartans.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Ted Leigraf",
+          "title": "Head Softball Coach",
+          "email": "Ted.Leigraf@mobap.edu",
+          "phone": "3143922394",
+          "twitter": null
+        },
+        {
+          "name": "Ellie Wessel",
+          "title": "Graduate Assistant - Softball",
+          "email": "1761409@mobap.edu",
+          "phone": "3143922394",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 187088,
+    "output_tokens": 143,
+    "total_tokens": 187231
+  },
+  {
+    "school": "Missouri Valley College",
+    "url": "https://www.valleywillroll.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Montreat College",
+    "url": "https://montreatcavaliers.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Corbin Weeks",
+          "title": "Head Softball Coach",
+          "email": "corbin.weeks@montreat.edu",
+          "phone": "8286698012",
+          "twitter": null
+        },
+        {
+          "name": "Alyssa Hudson",
+          "title": "Assistant Softball Coach",
+          "email": "alyssa.hudson@montreat.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Kelsey Long",
+          "title": "Pitching Coach",
+          "email": "kelsey.long@montreat.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Leah Coffing",
+          "title": "Softball Graduate Assistant",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Kyndall Chandler",
+          "title": "Softball Graduate Assistant",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Tiana Lopez",
+          "title": "Softball Graduate Assistant",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 102951,
+    "output_tokens": 297,
+    "total_tokens": 103248
+  },
+  {
+    "school": "Morningside University",
+    "url": "https://www.msidemustangs.com/inside/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Morris College",
+    "url": "https://www.mchornetsathletics.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Mount Marty University",
+    "url": "https://mountmartyathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Cassandra Brown",
+          "title": "Head Softball Coach",
+          "email": "cassandra.brown@mountmarty.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Kyle McLean",
+          "title": "Interim Assistant Coach",
+          "email": "kyle.mclean@mountmarty.edu",
+          "phone": "605-668-1492 office, 605-760-7380 mobile",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 91664,
+    "output_tokens": 144,
+    "total_tokens": 91808
+  },
+  {
+    "school": "Mount Mercy University",
+    "url": "https://mountmercymustangs.com/information/Staff_Directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Mount Vernon Nazarene University",
+    "url": "https://mvnucougars.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Northwestern College",
+    "url": "https://nwcraiders.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Shane Bouman",
+          "title": "Head Coach",
+          "email": "shane.bouman@nwciowa.edu",
+          "phone": "7127077298",
+          "twitter": null
+        },
+        {
+          "name": "Travis De Jong",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Jennifer Boeve",
+          "title": "Graduate Assistant",
+          "email": "jennifer.boeve@nwciowa.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Meagan Wallinga",
+          "title": "Assistant Coach / Junior Varsity",
+          "email": "meagan.wallinga@nwciowa.edu",
+          "phone": "7127077276",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 157952,
+    "output_tokens": 231,
+    "total_tokens": 158183
+  },
+  {
+    "school": "Oakland City University",
+    "url": "https://gomightyoaks.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "McKendree Ward",
+          "title": "Softball Head Coach",
+          "email": "mward@oak.edu",
+          "phone": "8127491266",
+          "twitter": null
+        },
+        {
+          "name": "Brian Modafari",
+          "title": "Softball Assistant Coach",
+          "email": "bmodafari@oak.edu",
+          "phone": "8127491266",
+          "twitter": null
+        },
+        {
+          "name": "Hailee Hope",
+          "title": "Softball Graduate Assistant",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 95987,
+    "output_tokens": 176,
+    "total_tokens": 96163
+  },
+  {
+    "school": "Oklahoma City University",
+    "url": "https://ocusports.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Phil McSpadden",
+          "title": "Head softball coach",
+          "email": "pmcspadden@okcu.edu",
+          "phone": "4052085308",
+          "twitter": null
+        },
+        {
+          "name": "Bobbi Bridges",
+          "title": "Associate Head Coach",
+          "email": "bbridges@okcu.edu",
+          "phone": "4052085976",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 82849,
+    "output_tokens": 137,
+    "total_tokens": 82986
+  },
+  {
+    "school": "Oklahoma Panhandle State University",
+    "url": "https://opsuaggies.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Jim Walker",
+          "title": "Head Softball Coach",
+          "email": "jim.walker10@opsu.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "To Be Announced",
+          "title": "Assistant Softball Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 76288,
+    "output_tokens": 110,
+    "total_tokens": 76398
+  },
+  {
+    "school": "Oklahoma Wesleyan University",
+    "url": "https://okwueagles.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Shawn Woods",
+          "title": "Head Coach",
+          "email": "swoods@okwu.edu",
+          "phone": "501.626.6346",
+          "twitter": null
+        },
+        {
+          "name": "Darci Chester",
+          "title": "Assistant Coach",
+          "email": "dchester@okwu.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 220380,
+    "output_tokens": 124,
+    "total_tokens": 220504
+  },
+  {
+    "school": "Olivet Nazarene University",
+    "url": "https://olivetnazarene.prestosports.com/information/directory/index",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Lauren Herlihy",
+          "title": "Head Coach",
+          "email": "lfherlihy@olivet.edu",
+          "phone": "815-939-5564",
+          "twitter": null
+        },
+        {
+          "name": "Matti Lanie",
+          "title": "Graduate Assistant",
+          "email": "mlanie2@olivet.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 269646,
+    "output_tokens": 130,
+    "total_tokens": 269776
+  },
+  {
+    "school": "Oregon Institute of Technology",
+    "url": "https://oregontechowls.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Greg  Stewart",
+          "title": "Associate Director of Athletics / Head Coach",
+          "email": "Greg.Stewart@oit.edu",
+          "phone": "541-885-1629",
+          "twitter": null
+        },
+        {
+          "name": "Jamie Leveque",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Bobby Mick",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 134065,
+    "output_tokens": 160,
+    "total_tokens": 134225
+  },
+  {
+    "school": "Ottawa University, AZ",
+    "url": "https://ouazspirit.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Ernesto Ortiz",
+          "title": "Head Coach",
+          "email": "ernesto.ortiz@ottawa.edu",
+          "phone": "6232337628",
+          "twitter": "@CoachOrtiz3"
+        },
+        {
+          "name": "Mashayla Beltran",
+          "title": "Assistant Coach",
+          "email": "mashayla.beltran@ottawa.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 109797,
+    "output_tokens": 136,
+    "total_tokens": 109933
+  },
+  {
+    "school": "Ottawa University, KS",
+    "url": "https://ottawabraves.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Maile Deutsch",
+          "title": "Head Coach",
+          "email": "maile.deutsch@ottawa.edu",
+          "phone": "17852291012",
+          "twitter": "@maile_kamalani"
+        },
+        {
+          "name": "Kenlee  Frank",
+          "title": "Assistant Coach",
+          "email": "kenlee.frank@ottawa.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 86217,
+    "output_tokens": 136,
+    "total_tokens": 86353
+  },
+  {
+    "school": "Our Lady of the Lake University",
+    "url": "https://www.ollusaintsathletics.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Park University",
+    "url": "https://parkathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Lindsey Derry",
+          "title": "Senior Woman Leader | Head Coach",
+          "email": "lderry@park.edu",
+          "phone": "8165846443",
+          "twitter": null
+        },
+        {
+          "name": "Alyssa Ramirez",
+          "title": "Student Assistant Coach",
+          "email": "alyssa.ramirez@park.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Steve Tingler",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 72406,
+    "output_tokens": 165,
+    "total_tokens": 72571
+  },
+  {
+    "school": "Park University\u2013Gilbert",
+    "url": "https://gilbert.parkathletics.com/sports/softball/coaches",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Josh Musselman",
+          "title": "Head Softball Coach",
+          "email": "josh.musselman@park.edu",
+          "phone": "620-200-9816",
+          "twitter": null
+        },
+        {
+          "name": "Diamonique Villa",
+          "title": "Graduate Assistant Coach",
+          "email": "diamonique.villa@park.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Danielle Farinas",
+          "title": "Graduate Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Raylissa Garcia",
+          "title": "Volunteer Assistant Coach",
+          "email": "raylissa.garcia@park.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 68757,
+    "output_tokens": 220,
+    "total_tokens": 68977
+  },
+  {
+    "school": "Penn State Schuylkill",
+    "url": "https://www.psuschuylkillathletics.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Peru State College",
+    "url": "https://pscbobcats.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Renita \"Toni\" Closner",
+          "title": "Head Softball Coach",
+          "email": "rclosner@peru.edu",
+          "phone": "402-202-1558",
+          "twitter": "@CoachClosner"
+        },
+        {
+          "name": "Jaclyn Gray",
+          "title": "Assistant Softball Coach",
+          "email": "jgray@peru.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 132602,
+    "output_tokens": 134,
+    "total_tokens": 132736
+  },
+  {
+    "school": "Point University",
+    "url": "https://pointskyhawks.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Reinhardt University",
+    "url": "https://reinhardteagles.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Rochester Christian University",
+    "url": "https://rcuwarriors.com/staff-directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Rust College",
+    "url": "https://rustathletics.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Saint Mary-of-the-Woods College",
+    "url": "https://smwcathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "TBA TBA",
+          "title": "Head Softball Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Adam  Wolfe",
+          "title": "Assistant Softball Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Josh Wood",
+          "title": "Volunteer Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Gina Furrey Buhse",
+          "title": "Volunteer Pitching Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 108557,
+    "output_tokens": 180,
+    "total_tokens": 108737
+  },
+  {
+    "school": "Saint Xavier University",
+    "url": "https://sxucougars.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Erin Mollohan",
+          "title": "Head Softball Coach",
+          "email": "mollohan@sxu.edu",
+          "phone": "7732983103",
+          "twitter": null
+        },
+        {
+          "name": "Tori Keilman",
+          "title": "Assistant Softball Coach",
+          "email": "keilman@sxu.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 84773,
+    "output_tokens": 126,
+    "total_tokens": 84899
+  },
+  {
+    "school": "Shawnee State University",
+    "url": "https://www.ssubears.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Siena Heights University",
+    "url": "https://shusaints.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Simpson University",
+    "url": "https://simpsonredhawks.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Wayne Stower",
+          "title": "Head Softball Coach",
+          "email": "wstower@simpsonu.edu",
+          "phone": "5302264530",
+          "twitter": null
+        },
+        {
+          "name": "Tayler Shaw",
+          "title": "Assistant Director of Athletics\nAssistant Softball Coach",
+          "email": "trshaw@simpsonu.edu",
+          "phone": "5302264519",
+          "twitter": null
+        },
+        {
+          "name": "Tom Ackernecht",
+          "title": "Assistant Softball Coach",
+          "email": "tackernect@simpsonu.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Marney  Munsterman",
+          "title": "Assistant Softball Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 89459,
+    "output_tokens": 235,
+    "total_tokens": 89694
+  },
+  {
+    "school": "Southeastern University",
+    "url": "https://fire.seu.edu/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Kayla Watkins",
+          "title": "Head Softball Coach",
+          "email": "kewatkins@seu.edu",
+          "phone": "863-667-5158",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 126175,
+    "output_tokens": 80,
+    "total_tokens": 126255
+  },
+  {
+    "school": "Southern Oregon University",
+    "url": "https://souraiders.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Jessica Pistole",
+          "title": "Head Softball Coach",
+          "email": "softball@sou.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Cheyenne Bricker",
+          "title": "Assistant Softball Coach/Athletics Eligibility Coordinator",
+          "email": "brickerc@sou.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Joe Hagler",
+          "title": "Assistant Softball Coach",
+          "email": "haglerj@sou.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Bill Rowe",
+          "title": "Assistant Softball Coach",
+          "email": "rowew@sou.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 82166,
+    "output_tokens": 209,
+    "total_tokens": 82375
+  },
+  {
+    "school": "Southwestern Assemblies of God University",
+    "url": "https://sagulions.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Watty Watson",
+          "title": "Head Softball Coach",
+          "email": "swatson@sagu.edu",
+          "phone": "972-825-4865",
+          "twitter": null
+        },
+        {
+          "name": "Airiana Magdaleno",
+          "title": "Graduate Assistant Softball Coach",
+          "email": "airianavmagdaleno@lionmail.sagu.edu",
+          "phone": "972-765-3124",
+          "twitter": null
+        },
+        {
+          "name": "Caleb Munoz",
+          "title": "Student Assistant",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 101646,
+    "output_tokens": 188,
+    "total_tokens": 101834
+  },
+  {
+    "school": "Southwestern Christian University",
+    "url": "https://scueagles.com/staff-directory?path=general",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Kent Williams",
+          "title": "Head Coach",
+          "email": "kent.williams@swcu.edu",
+          "phone": null,
+          "twitter": "@SCU_Softball"
+        },
+        {
+          "name": "Brandon Moralez",
+          "title": "Assistant Coach",
+          "email": "brandon.moralez@swcu.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Kyle Moralez",
+          "title": "Assistant Coach",
+          "email": "kyle.moralez@swcu.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 58720,
+    "output_tokens": 169,
+    "total_tokens": 58889
+  },
+  {
+    "school": "Southwestern College",
+    "url": "https://buildersports.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Sarah McAninch",
+          "title": "Head Coach",
+          "email": "sarah.mcaninch@sckans.edu",
+          "phone": "6202296164",
+          "twitter": null
+        },
+        {
+          "name": "- TBA",
+          "title": "Graduate Assistant",
+          "email": null,
+          "phone": "6202296164",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 121621,
+    "output_tokens": 129,
+    "total_tokens": 121750
+  },
+  {
+    "school": "Spartanburg Methodist College",
+    "url": "https://www.gosmcpioneers.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Spring Arbor University",
+    "url": "https://saucougars.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Deb Thompson",
+          "title": "Head Coach",
+          "email": "deb.thompson@arbor.edu",
+          "phone": "5177506507",
+          "twitter": null
+        },
+        {
+          "name": "Evan Zigler",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": "5177506507",
+          "twitter": null
+        },
+        {
+          "name": "Jeff Laufenberg",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": "5177506507",
+          "twitter": null
+        },
+        {
+          "name": "Abbie Funk",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": "5177506507",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 87172,
+    "output_tokens": 224,
+    "total_tokens": 87396
+  },
+  {
+    "school": "St. Ambrose University",
+    "url": "https://www.saubees.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "St. Andrews University",
+    "url": "https://sauknights.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "St. Thomas University",
+    "url": "https://stubobcats.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "JC Gutierrez",
+          "title": "Head Softball Coach",
+          "email": "jgutierrez2@stu.edu",
+          "phone": "3053218459",
+          "twitter": null
+        },
+        {
+          "name": "Zack Braveheart",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Manny Yanez",
+          "title": "Assistant Coach",
+          "email": "myanez@stu.edu",
+          "phone": "3056286730",
+          "twitter": null
+        },
+        {
+          "name": "Erica Winter",
+          "title": "Assistant Coach",
+          "email": "ewinter2@stu.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 122561,
+    "output_tokens": 215,
+    "total_tokens": 122776
+  },
+  {
+    "school": "Stephens College",
+    "url": "https://stephensstars.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Clint  Poulsen",
+          "title": "Head Softball Coach",
+          "email": "cpoulsen@stephens.edu",
+          "phone": "5738767103",
+          "twitter": null
+        },
+        {
+          "name": "Taylor Huskey",
+          "title": "Assistant Coach",
+          "email": "thusky@stephens.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Lauren Huskey",
+          "title": "Assistant Coach",
+          "email": "lhuskey@stephens.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Olivia Paz",
+          "title": "Athletic Admissions Advisor | Softball Assistant Coach",
+          "email": "opaz@stephens.edu",
+          "phone": "5738767104",
+          "twitter": null
+        },
+        {
+          "name": "Andrea Drake",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 66165,
+    "output_tokens": 268,
+    "total_tokens": 66433
+  },
+  {
+    "school": "Sterling College",
+    "url": "https://www.scwarriors.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Stillman College",
+    "url": "https://gostillman.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Joel Penfield",
+          "title": "Head Softball Coach",
+          "email": "jpenfield@stillman.edu",
+          "phone": "2056368044",
+          "twitter": null
+        },
+        {
+          "name": "Katie Clifton",
+          "title": "Assistant Coach",
+          "email": "kclifton@stillman.edu",
+          "phone": "2057732853",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 108813,
+    "output_tokens": 135,
+    "total_tokens": 108948
+  },
+  {
+    "school": "Tabor College",
+    "url": "https://taborbluejays.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Jeff Brewer",
+          "title": "Head Softball Coach",
+          "email": "jeffreybrewer@tabor.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Alicia Lopez",
+          "title": "Assistant Softball Coach",
+          "email": "alicialopez@tabor.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Jordyn Farren",
+          "title": "Graduate Assistant Softball Coach",
+          "email": "jordyn.farren@tabor.edu",
+          "phone": "2099129870",
+          "twitter": null
+        },
+        {
+          "name": "Carl Bivens",
+          "title": "West Coast Recruiter",
+          "email": "carl.bivens@tabor.edu",
+          "phone": "5592500294",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 112902,
+    "output_tokens": 237,
+    "total_tokens": 113139
+  },
+  {
+    "school": "Talladega College",
+    "url": "https://talladegatornadoes.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Tonja Braxton",
+          "title": "Head Coach",
+          "email": null,
+          "phone": "3014424478",
+          "twitter": null
+        },
+        {
+          "name": "Kate Lambert",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Kera Miles",
+          "title": "Manager",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 89529,
+    "output_tokens": 145,
+    "total_tokens": 89674
+  },
+  {
+    "school": "Taylor University",
+    "url": "https://taylortrojans.com/staff/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Tennessee Wesleyan University",
+    "url": "https://twuathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Gay McNutt",
+          "title": "Head Coach",
+          "email": "rmcnutt@twu.edu",
+          "phone": "940-898-2629",
+          "twitter": null
+        },
+        {
+          "name": "Bri Sims",
+          "title": "Assistant Coach",
+          "email": "bsims10@twu.edu",
+          "phone": "940-898-2311",
+          "twitter": null
+        },
+        {
+          "name": "Brandy Cassidy",
+          "title": "Softball Student Manager",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 77008,
+    "output_tokens": 179,
+    "total_tokens": 77187
+  },
+  {
+    "school": "Texas A&M University\u2013San Antonio",
+    "url": "https://tamusasports.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Texas A&M University\u2013Texarkana",
+    "url": "https://tamuteagles.prestosports.com/information/directory/index",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Keith Hernandez",
+          "title": "Head Coach",
+          "email": "khernandez@tamut.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Tony McKnight",
+          "title": "Interim Head Coach",
+          "email": "tmcknight@tamut.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 13509,
+    "output_tokens": 114,
+    "total_tokens": 13623
+  },
+  {
+    "school": "Texas College",
+    "url": "https://www.tcsteersathletics.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Texas Wesleyan University",
+    "url": "https://ramsports.net/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Shannon Gower",
+          "title": "Head Coach",
+          "email": "sgower@txwes.edu",
+          "phone": "8175314852",
+          "twitter": null
+        },
+        {
+          "name": "Darian Dunn",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 114417,
+    "output_tokens": 115,
+    "total_tokens": 114532
+  },
+  {
+    "school": "Thomas University",
+    "url": "https://tunighthawks.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Jessica  Sanders",
+          "title": "Head Coach",
+          "email": "jsanders@thomasu.edu",
+          "phone": "1007",
+          "twitter": "NightHawksSoftb"
+        },
+        {
+          "name": "Ralph Sanders",
+          "title": "Assistant Varsity/ Head JV Coach",
+          "email": "rsanders@thomasu.edu",
+          "phone": "1007",
+          "twitter": null
+        },
+        {
+          "name": "Abigail  Thompson",
+          "title": "Athletic Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 49489,
+    "output_tokens": 168,
+    "total_tokens": 49657
+  },
+  {
+    "school": "Trinity Christian College",
+    "url": "https://trollsathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Ellie Manderfeld",
+          "title": "Head Softball Coach",
+          "email": "emanderfeld@trnty.edu",
+          "phone": "7082934516",
+          "twitter": null
+        },
+        {
+          "name": "Emma Cenzon",
+          "title": "Pitching Coach",
+          "email": "emma.cenzon@trnty.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Aaron Moore",
+          "title": "Hitting Coach",
+          "email": "amoore@trnty.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Alix Mendoza",
+          "title": "Volunteer Assistant Coach",
+          "email": "alexandra.mendoza@trnty.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 68544,
+    "output_tokens": 224,
+    "total_tokens": 68768
+  },
+  {
+    "school": "Truett McConnell University",
+    "url": "https://tmbears.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Dylan Reichenberg",
+          "title": "Head Softball Coach",
+          "email": "dreichenberg@truett.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Peyton  Moore",
+          "title": "Assistant Softball Coach",
+          "email": "pmoore@truett.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Sara Hardeman",
+          "title": "Assistant Softball Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 80168,
+    "output_tokens": 156,
+    "total_tokens": 80324
+  },
+  {
+    "school": "Union Commonwealth University",
+    "url": "https://gounionbulldogs.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "University of British Columbia",
+    "url": "https://gothunderbirds.ca/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Jennifer McKellar",
+          "title": "Head Coach, Softball",
+          "email": "jennifer.mckellar@ubc.ca",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Rob  Warbuton ",
+          "title": "Assistant Coach, Softball",
+          "email": "rob.warburton@ubc.ca",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 88951,
+    "output_tokens": 124,
+    "total_tokens": 89075
+  },
+  {
+    "school": "University of Health Sciences and Pharmacy in St. Louis",
+    "url": "https://eutecticsports.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "University of Houston\u2013Victoria",
+    "url": "https://www.uhvjaguars.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "University of Jamestown",
+    "url": "https://www.jimmiepride.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "University of Michigan\u2013Dearborn",
+    "url": "https://athletics.umdearborn.edu/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "University of Mobile",
+    "url": "https://umobilerams.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Alison Sellers-Cook",
+          "title": "Associate Athletic Director of Eligibility / Head Softball Coach",
+          "email": "acook@umobile.edu",
+          "phone": "2514422932",
+          "twitter": null
+        },
+        {
+          "name": "Jake McGowin",
+          "title": "Assistant Softball Coach",
+          "email": "jmcgowin@umobile.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 131036,
+    "output_tokens": 135,
+    "total_tokens": 131171
+  },
+  {
+    "school": "University of Northwestern Ohio",
+    "url": "https://unohracers.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "University of Pikeville",
+    "url": "https://upikebears.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Robert  Staggs",
+          "title": "Assistant Director of Athletics, Head Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "April Charles",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Britt Hopson",
+          "title": "Graduate Assistant",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 95316,
+    "output_tokens": 142,
+    "total_tokens": 95458
+  },
+  {
+    "school": "University of Providence",
+    "url": "https://upargos.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Joey  Egan",
+          "title": "Head Coach",
+          "email": "joey.egan@uprovidence.edu",
+          "phone": "4067915931",
+          "twitter": null
+        },
+        {
+          "name": "Karsten Williams",
+          "title": "Assistant Coach",
+          "email": "karsten.williams@uprovidence.edu",
+          "phone": "4067915932",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 64925,
+    "output_tokens": 140,
+    "total_tokens": 65065
+  },
+  {
+    "school": "University of Rio Grande",
+    "url": "https://www.rioredstorm.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "University of Saint Francis",
+    "url": "https://www.saintfranciscougars.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "University of Saint Mary",
+    "url": "https://gospires.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "University of Science and Arts of Oklahoma",
+    "url": "https://www.usaoathletics.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "University of St. Francis",
+    "url": "https://gofightingsaints.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Amanda Jensen",
+          "title": "Head Softball Coach",
+          "email": "ajensen@stfrancis.edu",
+          "phone": "8157403457",
+          "twitter": null
+        },
+        {
+          "name": "Dennis Jensen",
+          "title": "Assistant Softball Coach",
+          "email": "djensen@stfrancis.edu",
+          "phone": "8153542927",
+          "twitter": null
+        },
+        {
+          "name": "Mary Bedinger",
+          "title": "Assistant Softball Coach",
+          "email": "mbedinger@stfrancis.edu",
+          "phone": "8157403457",
+          "twitter": null
+        },
+        {
+          "name": "Frank Yaeger",
+          "title": "Assistant Softball Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 67097,
+    "output_tokens": 230,
+    "total_tokens": 67327
+  },
+  {
+    "school": "University of Tennessee Southern",
+    "url": "https://www.utsfirehawks.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "University of the Cumberlands",
+    "url": "https://cumberlandspatriots.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Bailey Dillender",
+          "title": "Head Coach",
+          "email": "bailey.dillender@ucumberlands.edu",
+          "phone": "6065394178",
+          "twitter": "@Patriots_UC_SB"
+        },
+        {
+          "name": "Alyssa Richards",
+          "title": "Head Assistant Coach/ Recruiting Coordinator",
+          "email": "alyssa.richards@ucumberlands.edu",
+          "phone": "6065395544",
+          "twitter": null
+        },
+        {
+          "name": "Mia Aldridge",
+          "title": "Assistant Coach/Director of Softball Operations",
+          "email": "maldridge70193@ucumberlands.edu",
+          "phone": "6065395544",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 128650,
+    "output_tokens": 218,
+    "total_tokens": 128868
+  },
+  {
+    "school": "University of the Southwest",
+    "url": "https://uswathletics.com/staff-directory/softball-department/15",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Chris Petroski",
+          "title": "Head Coach",
+          "email": "cpetroski@usw.edu",
+          "phone": "575-492-2156",
+          "twitter": null
+        },
+        {
+          "name": "Jarred Lewis",
+          "title": "Volunteer",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Mikayla Martinez",
+          "title": "Grad Assistant",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 114409,
+    "output_tokens": 158,
+    "total_tokens": 114567
+  },
+  {
+    "school": "Valley City State University",
+    "url": "https://vcsuvikings.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Matt Gable",
+          "title": "Head Softball Coach",
+          "email": "matt.gable@vcsu.edu",
+          "phone": "701-845-7155",
+          "twitter": null
+        },
+        {
+          "name": "Vance Christianson",
+          "title": "Assistant Softball Coach",
+          "email": "vance.christianson@ndus.edu",
+          "phone": "701-845-7156",
+          "twitter": null
+        },
+        {
+          "name": "Riley Perryman",
+          "title": "Graduate Assistant",
+          "email": "riley.perryman@vcsu.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 84164,
+    "output_tokens": 191,
+    "total_tokens": 84355
+  },
+  {
+    "school": "Viterbo University",
+    "url": "https://www.viterboathletics.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Voorhees University",
+    "url": "https://voorheesathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Courtney Tucker",
+          "title": "Head Softball Coach",
+          "email": "ctucker@voorhees.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 54228,
+    "output_tokens": 68,
+    "total_tokens": 54296
+  },
+  {
+    "school": "Waldorf University",
+    "url": "https://www.waldorfwarriors.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Warner Pacific University",
+    "url": "https://wpuknights.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Ashton Porter",
+          "title": "Head Coach",
+          "email": "aporter@warnerpacific.edu",
+          "phone": "503-517-1261",
+          "twitter": null
+        },
+        {
+          "name": "Paityn Willoughby",
+          "title": "Assistant Coach",
+          "email": "pwilloughby@warnerpacific.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Devinne Amesquita",
+          "title": "Assistant Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 67299,
+    "output_tokens": 168,
+    "total_tokens": 67467
+  },
+  {
+    "school": "Warner University",
+    "url": "https://warnerroyals.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Meagan  Smith",
+          "title": "Head Coach",
+          "email": "meagan.smith@warner.edu",
+          "phone": "8636387272",
+          "twitter": null
+        },
+        {
+          "name": "Christy Sprague",
+          "title": "Assistant Coach | Pitching Coach",
+          "email": "christy.sprague@warner.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Cayla McCarty",
+          "title": "Associate Athletic Trainer | Women\u2019s Soccer, Softball, Flag Football",
+          "email": "cayla.mccarty@warner.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 188654,
+    "output_tokens": 191,
+    "total_tokens": 188845
+  },
+  {
+    "school": "Washington Adventist University",
+    "url": "https://www.wauathletics.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Wayland Baptist University",
+    "url": "https://wbuathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Enrique Villa",
+          "title": "Head Coach",
+          "email": "villae@wbu.edu",
+          "phone": "8062913800",
+          "twitter": null
+        },
+        {
+          "name": "Cassie Fortner",
+          "title": "Assistant Coach",
+          "email": "fortnerc@wbu.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 72470,
+    "output_tokens": 123,
+    "total_tokens": 72593
+  },
+  {
+    "school": "Webber International University",
+    "url": "https://webberathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Todd Buckingham",
+          "title": "Head Softball Coach",
+          "email": "BuckinghamTL2@webber.edu",
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Zechary Huston",
+          "title": "Assistant Softball Coach",
+          "email": "HustonZT@webber.edu",
+          "phone": "2696352332",
+          "twitter": null
+        },
+        {
+          "name": "Kiersten Sanchez",
+          "title": "Graduate Assistant",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Morgan Williams",
+          "title": "Assistant Coach - Pitching",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Amber Cowart",
+          "title": "Strength & Conditioning Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "Mike Bias",
+          "title": "Volunteer Assistant Softball Coach",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 99055,
+    "output_tokens": 285,
+    "total_tokens": 99340
+  },
+  {
+    "school": "West Virginia University Institute of Technology",
+    "url": "https://goldenbearathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Amber  Atha",
+          "title": "Head Coach",
+          "email": "akaffholter@mail.wvu.edu",
+          "phone": "3049291515",
+          "twitter": null
+        },
+        {
+          "name": "Kay'lee Justice",
+          "title": "Recruiting Coordinator",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        },
+        {
+          "name": "George Holden",
+          "title": "Assistant Recruiting Coordinator",
+          "email": null,
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 57625,
+    "output_tokens": 161,
+    "total_tokens": 57786
+  },
+  {
+    "school": "Westcliff University",
+    "url": "https://westcliffathletics.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "William Carey University",
+    "url": "https://careyathletics.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Craig Fletcher",
+          "title": "Head Coach",
+          "email": "cfletcher@wmcarey.edu",
+          "phone": "6013186551",
+          "twitter": null
+        },
+        {
+          "name": "Meagan Bond",
+          "title": "Assistant Coach",
+          "email": "mbond@wmcarey.edu",
+          "phone": "6013186617",
+          "twitter": null
+        },
+        {
+          "name": "Hannah Brister",
+          "title": "Assistant Coach",
+          "email": "hbrister@wmcarey.edu",
+          "phone": "6013186617",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 143792,
+    "output_tokens": 191,
+    "total_tokens": 143983
+  },
+  {
+    "school": "William Penn University",
+    "url": "https://www.statesmenathletics.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "William Woods University",
+    "url": "https://wwuowls.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Tracy Gastineau",
+          "title": "Head Softball Coach",
+          "email": "Tracy.Gastineau@williamwoods.edu",
+          "phone": "573-592-4326",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 112241,
+    "output_tokens": 85,
+    "total_tokens": 112326
+  },
+  {
+    "school": "Williams Baptist University",
+    "url": "https://wbueagles.com/information/directory/index",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Xavier University of Louisiana",
+    "url": "https://xulagold.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Kailey Anderson",
+          "title": "Softball Head Coach",
+          "email": "kander35@xula.edu",
+          "phone": "5045207160",
+          "twitter": null
+        },
+        {
+          "name": "Ambria Dorsey",
+          "title": "Softball Assistant Coach",
+          "email": "adorsey6@xula.edu",
+          "phone": "5045205313",
+          "twitter": null
+        },
+        {
+          "name": "A.D. Brown",
+          "title": "Softball Assistant Coach / Recruiting Coordinator",
+          "email": "coach.ad@aol.com",
+          "phone": "5044445532",
+          "twitter": null
+        },
+        {
+          "name": "Gavon Clemons",
+          "title": "Softball Graduate Assistant",
+          "email": "gclemons@xula.edu",
+          "phone": null,
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 87288,
+    "output_tokens": 251,
+    "total_tokens": 87539
+  },
+  {
+    "school": "York University",
+    "url": "https://yorkpanthers.com/staff-directory",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "coachingStaff": [
+        {
+          "name": "Aaron  Alvarez",
+          "title": "Head Coach",
+          "email": "aealvarez@york.edu",
+          "phone": "5595144760",
+          "twitter": null
+        }
+      ]
+    },
+    "input_tokens": 91853,
+    "output_tokens": 79,
+    "total_tokens": 91932
+  }
+]

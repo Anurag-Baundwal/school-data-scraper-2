@@ -1,0 +1,933 @@
+[
+  {
+    "school": "Bucks County Community College",
+    "url": "https://athletics.bucks.edu/sports/sball/2023-24/roster",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "rosterYear": 2024,
+      "players": [
+        {
+          "name": "Hannah Ervin",
+          "position": "Pitcher",
+          "year": "Fr.",
+          "hometown": "Levittown, PA",
+          "highSchool": "Bucks County Tech",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Martina Fedor",
+          "position": "Third Base/Catcher",
+          "year": "Fr.",
+          "hometown": "Hamilton, NJ",
+          "highSchool": "Hamilton West",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Ashley Petrosky",
+          "position": "Pitcher",
+          "year": "Fr.",
+          "hometown": "Levittown, PA",
+          "highSchool": "Pennsbury",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Madison Croushore",
+          "position": "Short Stop",
+          "year": "So.",
+          "hometown": "Yardley, PA",
+          "highSchool": "Pennsbury",
+          "graduationYear": 2026
+        },
+        {
+          "name": "Regan Crawn",
+          "position": "Second Base",
+          "year": "So.",
+          "hometown": "Levittown, PA",
+          "highSchool": "Pennsbury",
+          "graduationYear": 2026
+        },
+        {
+          "name": "Jennaviere Logue",
+          "position": "Outfield/Pitcher",
+          "year": "So.",
+          "hometown": "Bensalem, PA",
+          "highSchool": "School Lane Charter",
+          "graduationYear": 2026
+        },
+        {
+          "name": "Katheryn Hastings",
+          "position": "First Base",
+          "year": "Jr.",
+          "hometown": "Newtown, PA",
+          "highSchool": "Council Rock North",
+          "graduationYear": 2025
+        },
+        {
+          "name": "Jess Kepner",
+          "position": "First Base/Second Base",
+          "year": "So.",
+          "hometown": "Doylestown, PA",
+          "highSchool": "Central Bucks East",
+          "graduationYear": 2026
+        },
+        {
+          "name": "Caramia Delucia",
+          "position": "Outfield",
+          "year": "Fr.",
+          "hometown": "Tobyanna, PA",
+          "highSchool": "Pocono Mt West",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Madelyn \"Maddy\" Hower",
+          "position": "Catcher/Third Base",
+          "year": "So.",
+          "hometown": "Levittown, PA",
+          "highSchool": "Harry Truman",
+          "graduationYear": 2026
+        },
+        {
+          "name": "Emily Gilmore",
+          "position": "Outfield/Catcher",
+          "year": "Fr.",
+          "hometown": "Yardley, PA",
+          "highSchool": "Pennsbury",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Maria Escobar",
+          "position": "Outfield",
+          "year": "Fr.",
+          "hometown": "Philadephia, PA",
+          "highSchool": "New Foundation Charter",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Adelina Wampole",
+          "position": "Outfield",
+          "year": "Fr.",
+          "hometown": "Landsdale, PA",
+          "highSchool": "North Penn",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Rylee Lynch",
+          "position": "Outfield",
+          "year": "Fr.",
+          "hometown": "Warminster, PA",
+          "highSchool": "William Tennent",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Veronica Melendez",
+          "position": "Outfield",
+          "year": "Fr.",
+          "hometown": "Philadephia, PA",
+          "highSchool": "Mariana Bracetti Academy",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Rosie Bartolome",
+          "position": "Outfield",
+          "year": "So.",
+          "hometown": "Levittown, PA",
+          "highSchool": "Harry Truman",
+          "graduationYear": 2026
+        }
+      ]
+    },
+    "input_tokens": 17825,
+    "output_tokens": 1013,
+    "total_tokens": 18838,
+    "players": [
+      {
+        "name": "Hannah Ervin",
+        "position": "Pitcher",
+        "year": "Fr.",
+        "hometown": "Levittown, PA",
+        "highSchool": "Bucks County Tech",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Martina Fedor",
+        "position": "Third Base/Catcher",
+        "year": "Fr.",
+        "hometown": "Hamilton, NJ",
+        "highSchool": "Hamilton West",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Ashley Petrosky",
+        "position": "Pitcher",
+        "year": "Fr.",
+        "hometown": "Levittown, PA",
+        "highSchool": "Pennsbury",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Madison Croushore",
+        "position": "Short Stop",
+        "year": "So.",
+        "hometown": "Yardley, PA",
+        "highSchool": "Pennsbury",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Regan Crawn",
+        "position": "Second Base",
+        "year": "So.",
+        "hometown": "Levittown, PA",
+        "highSchool": "Pennsbury",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Jennaviere Logue",
+        "position": "Outfield/Pitcher",
+        "year": "So.",
+        "hometown": "Bensalem, PA",
+        "highSchool": "School Lane Charter",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Katheryn Hastings",
+        "position": "First Base",
+        "year": "Jr.",
+        "hometown": "Newtown, PA",
+        "highSchool": "Council Rock North",
+        "graduationYear": 2025
+      },
+      {
+        "name": "Jess Kepner",
+        "position": "First Base/Second Base",
+        "year": "So.",
+        "hometown": "Doylestown, PA",
+        "highSchool": "Central Bucks East",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Caramia Delucia",
+        "position": "Outfield",
+        "year": "Fr.",
+        "hometown": "Tobyanna, PA",
+        "highSchool": "Pocono Mt West",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Madelyn \"Maddy\" Hower",
+        "position": "Catcher/Third Base",
+        "year": "So.",
+        "hometown": "Levittown, PA",
+        "highSchool": "Harry Truman",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Emily Gilmore",
+        "position": "Outfield/Catcher",
+        "year": "Fr.",
+        "hometown": "Yardley, PA",
+        "highSchool": "Pennsbury",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Maria Escobar",
+        "position": "Outfield",
+        "year": "Fr.",
+        "hometown": "Philadephia, PA",
+        "highSchool": "New Foundation Charter",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Adelina Wampole",
+        "position": "Outfield",
+        "year": "Fr.",
+        "hometown": "Landsdale, PA",
+        "highSchool": "North Penn",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Rylee Lynch",
+        "position": "Outfield",
+        "year": "Fr.",
+        "hometown": "Warminster, PA",
+        "highSchool": "William Tennent",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Veronica Melendez",
+        "position": "Outfield",
+        "year": "Fr.",
+        "hometown": "Philadephia, PA",
+        "highSchool": "Mariana Bracetti Academy",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Rosie Bartolome",
+        "position": "Outfield",
+        "year": "So.",
+        "hometown": "Levittown, PA",
+        "highSchool": "Harry Truman",
+        "graduationYear": 2026
+      }
+    ]
+  },
+  {
+    "school": "Central Maine Community College",
+    "url": "https://www.cmmustangs.com/sports/sball/2023-24/roster",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "rosterYear": 2024,
+      "players": [
+        {
+          "name": "Alissa Michaud",
+          "position": "C/Utility",
+          "year": "Freshman",
+          "hometown": null,
+          "highSchool": "Maranacook HS",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Alexis Michaud",
+          "position": "P/Utility",
+          "year": "Freshman",
+          "hometown": null,
+          "highSchool": "Maranacook HS",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Logan Arsenault",
+          "position": "Utility",
+          "year": "Freshman",
+          "hometown": null,
+          "highSchool": "Leavitt HS",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Olivia Gallan",
+          "position": "IF/OF",
+          "year": "Junior",
+          "hometown": "South Paris, ME",
+          "highSchool": "Oxford Hills Comprehensive HS",
+          "graduationYear": 2025
+        },
+        {
+          "name": "Elizabeth Bobrowski",
+          "position": "P/Utiliy",
+          "year": "Freshman",
+          "hometown": null,
+          "highSchool": "Oxford Hills HS",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Miah Gallan",
+          "position": "C/Utility",
+          "year": "Freshman",
+          "hometown": null,
+          "highSchool": "Oxford Hills Comprehensive HS",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Lauryn Wood",
+          "position": "P/Utility",
+          "year": "Freshman",
+          "hometown": null,
+          "highSchool": "Winthrop HS",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Sam Withee",
+          "position": "Utility",
+          "year": "Freshman",
+          "hometown": null,
+          "highSchool": "Leavitt HS",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Keira Greene",
+          "position": "Utility",
+          "year": "Freshman",
+          "hometown": null,
+          "highSchool": "Sacopee Valley",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Olivia Scott",
+          "position": "P/Utility",
+          "year": "Junior",
+          "hometown": null,
+          "highSchool": "Kennebecasis Valley HS",
+          "graduationYear": 2025
+        },
+        {
+          "name": "Brooke Gero",
+          "position": "P/Utility",
+          "year": "Freshman",
+          "hometown": null,
+          "highSchool": "Gardiner HS",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Allee Wellman",
+          "position": "C/Utility",
+          "year": "Freshman",
+          "hometown": null,
+          "highSchool": "Hampden HS",
+          "graduationYear": 2027
+        },
+        {
+          "name": "McKenna Ridlon",
+          "position": "C/Utility",
+          "year": "Sophomore",
+          "hometown": null,
+          "highSchool": "Buckfield HS",
+          "graduationYear": 2026
+        },
+        {
+          "name": "Emily Libby",
+          "position": "Utility",
+          "year": "Freshman",
+          "hometown": null,
+          "highSchool": "Lisbon HS",
+          "graduationYear": 2027
+        }
+      ]
+    },
+    "input_tokens": 19804,
+    "output_tokens": 833,
+    "total_tokens": 20637,
+    "players": [
+      {
+        "name": "Alissa Michaud",
+        "position": "C/Utility",
+        "year": "Freshman",
+        "hometown": null,
+        "highSchool": "Maranacook HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Alexis Michaud",
+        "position": "P/Utility",
+        "year": "Freshman",
+        "hometown": null,
+        "highSchool": "Maranacook HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Logan Arsenault",
+        "position": "Utility",
+        "year": "Freshman",
+        "hometown": null,
+        "highSchool": "Leavitt HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Olivia Gallan",
+        "position": "IF/OF",
+        "year": "Junior",
+        "hometown": "South Paris, ME",
+        "highSchool": "Oxford Hills Comprehensive HS",
+        "graduationYear": 2025
+      },
+      {
+        "name": "Elizabeth Bobrowski",
+        "position": "P/Utiliy",
+        "year": "Freshman",
+        "hometown": null,
+        "highSchool": "Oxford Hills HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Miah Gallan",
+        "position": "C/Utility",
+        "year": "Freshman",
+        "hometown": null,
+        "highSchool": "Oxford Hills Comprehensive HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Lauryn Wood",
+        "position": "P/Utility",
+        "year": "Freshman",
+        "hometown": null,
+        "highSchool": "Winthrop HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Sam Withee",
+        "position": "Utility",
+        "year": "Freshman",
+        "hometown": null,
+        "highSchool": "Leavitt HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Keira Greene",
+        "position": "Utility",
+        "year": "Freshman",
+        "hometown": null,
+        "highSchool": "Sacopee Valley",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Olivia Scott",
+        "position": "P/Utility",
+        "year": "Junior",
+        "hometown": null,
+        "highSchool": "Kennebecasis Valley HS",
+        "graduationYear": 2025
+      },
+      {
+        "name": "Brooke Gero",
+        "position": "P/Utility",
+        "year": "Freshman",
+        "hometown": null,
+        "highSchool": "Gardiner HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Allee Wellman",
+        "position": "C/Utility",
+        "year": "Freshman",
+        "hometown": null,
+        "highSchool": "Hampden HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "McKenna Ridlon",
+        "position": "C/Utility",
+        "year": "Sophomore",
+        "hometown": null,
+        "highSchool": "Buckfield HS",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Emily Libby",
+        "position": "Utility",
+        "year": "Freshman",
+        "hometown": null,
+        "highSchool": "Lisbon HS",
+        "graduationYear": 2027
+      }
+    ]
+  },
+  {
+    "school": "NHTI \u2013 Concord's Community College",
+    "url": "https://nhtiathletics.com/sports/softball/roster",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "rosterYear": 2024,
+      "players": [
+        {
+          "name": "Emma Broadstone",
+          "position": "CF/Utility",
+          "year": "Fr.",
+          "hometown": "Strafford, NH",
+          "highSchool": "Coe Brown",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Bella Ferrazzani",
+          "position": null,
+          "year": "Fr.",
+          "hometown": null,
+          "highSchool": null,
+          "graduationYear": 2027
+        },
+        {
+          "name": "Rhianna DeCosta",
+          "position": "Utility",
+          "year": "Fr.",
+          "hometown": "Pembroke, NH",
+          "highSchool": "Mascoma Valley Regional HS",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Shelby O'Neal",
+          "position": "Catcher/Utility",
+          "year": "Fr.",
+          "hometown": "Winchester, NH",
+          "highSchool": "Kenne HS",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Madison Cusello",
+          "position": "Utility",
+          "year": "Fr.",
+          "hometown": "Gilmanton, NH",
+          "highSchool": "Gilford HS",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Brianna Skehan",
+          "position": null,
+          "year": "Fr.",
+          "hometown": null,
+          "highSchool": null,
+          "graduationYear": 2027
+        },
+        {
+          "name": "Madison Darling",
+          "position": "Pitcher/Outfield",
+          "year": "Fr.",
+          "hometown": "Laconia, NH",
+          "highSchool": "Laconia HS",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Sydney  MacLean",
+          "position": "Catcher/3B",
+          "year": "Fr.",
+          "hometown": "Keene, NH",
+          "highSchool": "Keene HS",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Maren Rayno",
+          "position": "3B/Pitcher/Utility",
+          "year": "Fr.",
+          "hometown": "Barnstead, NH",
+          "highSchool": "Prospect Mountain HS",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Makayla  Lapanne",
+          "position": "Catcher/Utility",
+          "year": "Fr.",
+          "hometown": "Farmington, NH",
+          "highSchool": "Farmington HS",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Jordan Sargent",
+          "position": null,
+          "year": "Fr.",
+          "hometown": "Belmont, NH",
+          "highSchool": null,
+          "graduationYear": 2027
+        }
+      ]
+    },
+    "input_tokens": 74383,
+    "output_tokens": 688,
+    "total_tokens": 75071,
+    "players": [
+      {
+        "name": "Emma Broadstone",
+        "position": "CF/Utility",
+        "year": "Fr.",
+        "hometown": "Strafford, NH",
+        "highSchool": "Coe Brown",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Bella Ferrazzani",
+        "position": null,
+        "year": "Fr.",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Rhianna DeCosta",
+        "position": "Utility",
+        "year": "Fr.",
+        "hometown": "Pembroke, NH",
+        "highSchool": "Mascoma Valley Regional HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Shelby O'Neal",
+        "position": "Catcher/Utility",
+        "year": "Fr.",
+        "hometown": "Winchester, NH",
+        "highSchool": "Kenne HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Madison Cusello",
+        "position": "Utility",
+        "year": "Fr.",
+        "hometown": "Gilmanton, NH",
+        "highSchool": "Gilford HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Brianna Skehan",
+        "position": null,
+        "year": "Fr.",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Madison Darling",
+        "position": "Pitcher/Outfield",
+        "year": "Fr.",
+        "hometown": "Laconia, NH",
+        "highSchool": "Laconia HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Sydney  MacLean",
+        "position": "Catcher/3B",
+        "year": "Fr.",
+        "hometown": "Keene, NH",
+        "highSchool": "Keene HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Maren Rayno",
+        "position": "3B/Pitcher/Utility",
+        "year": "Fr.",
+        "hometown": "Barnstead, NH",
+        "highSchool": "Prospect Mountain HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Makayla  Lapanne",
+        "position": "Catcher/Utility",
+        "year": "Fr.",
+        "hometown": "Farmington, NH",
+        "highSchool": "Farmington HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Jordan Sargent",
+        "position": null,
+        "year": "Fr.",
+        "hometown": "Belmont, NH",
+        "highSchool": null,
+        "graduationYear": 2027
+      }
+    ]
+  },
+  {
+    "school": "Southern Maine Community College",
+    "url": "https://www.gosmccseawolves.com/sports/sball/2023-24/roster",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "rosterYear": 2024,
+      "players": [
+        {
+          "name": "Kassidy Barrett",
+          "position": "Catcher",
+          "year": "Fy.",
+          "hometown": "Windsor, Maine",
+          "highSchool": "Erskine Academy",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Abigail Ontengco",
+          "position": "Pitcher",
+          "year": "Fy.",
+          "hometown": "Brownfield, Maine",
+          "highSchool": "Fryeburg Academy",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Emily Hutchins",
+          "position": "Catcher",
+          "year": "Fy.",
+          "hometown": "Kennebunk, Maine",
+          "highSchool": "Kennebunk",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Jaida Case",
+          "position": "Pitcher",
+          "year": "Fy.",
+          "hometown": "Machias, Maine",
+          "highSchool": "Machias",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Sarah Wilkins",
+          "position": "Pitcher",
+          "year": "Fy.",
+          "hometown": "Red Deer, Alberta, Canada",
+          "highSchool": "St. Joseph",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Kira Siteman",
+          "position": "Utility",
+          "year": "Fy.",
+          "hometown": "Portland, Maine",
+          "highSchool": "Deering",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Veronica Mercier",
+          "position": "Second Base",
+          "year": "Fy.",
+          "hometown": "Bangor, Maine",
+          "highSchool": "Bangor Christian School",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Morgan Duhaime",
+          "position": "Second Base",
+          "year": "Fy.",
+          "hometown": "Ellsworth, Maine",
+          "highSchool": "Ellsworth",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Shylah Woodford",
+          "position": "Second Base",
+          "year": "Fy.",
+          "hometown": "Readfield, Maine",
+          "highSchool": "Maranacook",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Olivia Hill",
+          "position": "Outfield",
+          "year": "Fy.",
+          "hometown": "Dover-Foxcroft, Maine",
+          "highSchool": "Foxcroft Academy",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Maddie Webb",
+          "position": "First Base",
+          "year": "Fy.",
+          "hometown": "Trenton, Ohio",
+          "highSchool": "Edgewood",
+          "graduationYear": 2027
+        },
+        {
+          "name": "Delanie Perry",
+          "position": "Third Base",
+          "year": "Fy.",
+          "hometown": "DeLand, Fl.",
+          "highSchool": "Deltona",
+          "graduationYear": 2027
+        }
+      ]
+    },
+    "input_tokens": 17721,
+    "output_tokens": 741,
+    "total_tokens": 18462,
+    "players": [
+      {
+        "name": "Kassidy Barrett",
+        "position": "Catcher",
+        "year": "Fy.",
+        "hometown": "Windsor, Maine",
+        "highSchool": "Erskine Academy",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Abigail Ontengco",
+        "position": "Pitcher",
+        "year": "Fy.",
+        "hometown": "Brownfield, Maine",
+        "highSchool": "Fryeburg Academy",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Emily Hutchins",
+        "position": "Catcher",
+        "year": "Fy.",
+        "hometown": "Kennebunk, Maine",
+        "highSchool": "Kennebunk",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Jaida Case",
+        "position": "Pitcher",
+        "year": "Fy.",
+        "hometown": "Machias, Maine",
+        "highSchool": "Machias",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Sarah Wilkins",
+        "position": "Pitcher",
+        "year": "Fy.",
+        "hometown": "Red Deer, Alberta, Canada",
+        "highSchool": "St. Joseph",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Kira Siteman",
+        "position": "Utility",
+        "year": "Fy.",
+        "hometown": "Portland, Maine",
+        "highSchool": "Deering",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Veronica Mercier",
+        "position": "Second Base",
+        "year": "Fy.",
+        "hometown": "Bangor, Maine",
+        "highSchool": "Bangor Christian School",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Morgan Duhaime",
+        "position": "Second Base",
+        "year": "Fy.",
+        "hometown": "Ellsworth, Maine",
+        "highSchool": "Ellsworth",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Shylah Woodford",
+        "position": "Second Base",
+        "year": "Fy.",
+        "hometown": "Readfield, Maine",
+        "highSchool": "Maranacook",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Olivia Hill",
+        "position": "Outfield",
+        "year": "Fy.",
+        "hometown": "Dover-Foxcroft, Maine",
+        "highSchool": "Foxcroft Academy",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Maddie Webb",
+        "position": "First Base",
+        "year": "Fy.",
+        "hometown": "Trenton, Ohio",
+        "highSchool": "Edgewood",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Delanie Perry",
+        "position": "Third Base",
+        "year": "Fy.",
+        "hometown": "DeLand, Fl.",
+        "highSchool": "Deltona",
+        "graduationYear": 2027
+      }
+    ]
+  },
+  {
+    "school": "York County Community College",
+    "url": "https://www.yorkcountyhawks.com/sports/sball/2024-25/roster",
+    "success": true,
+    "data": {
+      "success": true,
+      "reason": null,
+      "rosterYear": 2024,
+      "players": []
+    },
+    "input_tokens": 24244,
+    "output_tokens": 36,
+    "total_tokens": 24280,
+    "players": []
+  }
+]

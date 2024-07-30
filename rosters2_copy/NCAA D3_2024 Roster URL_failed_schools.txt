@@ -1,0 +1,7 @@
+Anderson University: https://autrojans.com/sports/softball/roster - Reason: Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error
+Curry College: https://curryathletics.com/sports/sball/2024-25/roster - Reason: Attempt 1: Player data is missing required fields (name, position, year, hometown, highSchool); Attempt 2: Player data is missing required fields; Attempt 3: Missing player data
+Delaware Valley University: https://athletics.delval.edu/sports/softball/roster - Reason: Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error
+Framingham State University: https://fsurams.com/sports/softball/roster - Reason: Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error
+Hartwick College: N/A - Reason: No URL provided
+Salve Regina University: https://salveathletics.com/sports/sball/2023-24/roster - Reason: Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error
+State University of New York at Cobleskill: https://fightingtigers.cobleskill.edu/sports/softball/roster - Reason: Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error

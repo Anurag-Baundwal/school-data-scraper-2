@@ -1,0 +1,4 @@
+Chabot College: https://athletics.chabotcollege.edu/information/directory/home#directory - Reason: Unknown error after retries
+Compton College: https://www.comptoncollegeathletics.com/information/directory/ind - Reason: Unknown error after retries
+Monterey Peninsula College: https://www.athletics.mpc.edu/inside-athletics/draft-new-staff-directory - Reason: Unknown error after retries
+Southwestern College: https://www.southwesternjaguars.com/information/directory/home - Reason: Unknown error after retries

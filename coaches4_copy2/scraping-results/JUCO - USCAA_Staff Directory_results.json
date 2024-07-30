@@ -1,0 +1,129 @@
+[
+  {
+    "school": "Bucks County Community College",
+    "url": "https://athletics.bucks.edu/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Meagan Finnerty",
+        "title": "Head Coach, Softball",
+        "email": "meagan.finnerty@bucks.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Gabrielle Oruska",
+        "title": "Assistant Coach, Softball",
+        "email": "Gabrielle.Oruska@bucks.edu",
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 4893,
+    "output_tokens": 128,
+    "total_tokens": 5021
+  },
+  {
+    "school": "Central Maine Community College",
+    "url": "https://www.cmmustangs.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Megan Larochelle",
+        "title": "Head Softball Coach",
+        "email": null,
+        "phone": "2072128032",
+        "twitter": null
+      },
+      {
+        "name": "Abby Nielson",
+        "title": "Assistant Basketball/Softball Coach",
+        "email": "anielson@cmcc.edu",
+        "phone": "2074083562",
+        "twitter": null
+      },
+      {
+        "name": "Tyler Ham",
+        "title": "Assistant Softball Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 13483,
+    "output_tokens": 176,
+    "total_tokens": 13659
+  },
+  {
+    "school": "NHTI – Concord's Community College",
+    "url": "https://nhtiathletics.com/staff-directory",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Taylor Belsito",
+        "title": "Head Coach",
+        "email": "TBailon@ccsnh.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Rachael Vallese",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 50681,
+    "output_tokens": 113,
+    "total_tokens": 50794
+  },
+  {
+    "school": "Southern Maine Community College",
+    "url": "https://www.gosmccseawolves.com/information/directory/home",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Chris Caswell",
+        "title": "Head Softball Coach",
+        "email": "ccaswell2@smccme.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Ashley Trzesiara",
+        "title": "Assistant Softball Coach",
+        "email": "atrzesiara@smccme.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Duane Romano",
+        "title": "Assistant Softball Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 6316,
+    "output_tokens": 163,
+    "total_tokens": 6479
+  },
+  {
+    "school": "York County Community College",
+    "url": "https://www.yorkcountyhawks.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Andrew Dumond",
+        "title": "Head Softball Coach",
+        "email": "adumond@yccc.edu",
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 13797,
+    "output_tokens": 75,
+    "total_tokens": 13872
+  }
+]

@@ -1,0 +1,2459 @@
+[
+  {
+    "school": "Allan Hancock College",
+    "url": "https://ahcbulldogs.com/athletics/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Scia Maumausolo",
+        "title": "Head Coach",
+        "email": "smaumausolo@hancockcollege.edu",
+        "phone": "1-805-922-6966",
+        "twitter": null
+      },
+      {
+        "name": "Chastity Johnson",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Jason Contreras",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 13814,
+    "output_tokens": 168,
+    "total_tokens": 13982
+  },
+  {
+    "school": "American River College",
+    "url": "https://americanriver.prestosports.com/Inside_Athletics/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Daniella De La Cruz",
+        "title": "Head Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Melissa De La Cruz",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Maria Lopez",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 1512,
+    "output_tokens": 144,
+    "total_tokens": 1656
+  },
+  {
+    "school": "Antelope Valley College",
+    "url": "https://gomarauders.avc.edu/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Cindy Vargas",
+        "title": "Head Coach",
+        "email": "cindy.vargas@avc.edu",
+        "phone": "6617226300",
+        "twitter": null
+      },
+      {
+        "name": "Mike Vargas",
+        "title": "Assistant Coach",
+        "email": "michael.vargas@avc.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Sara Gonzales",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Cole Vargas",
+        "title": "Assistant Coach",
+        "email": "cole.vargas@avc.edu",
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 16518,
+    "output_tokens": 246,
+    "total_tokens": 16764
+  },
+  {
+    "school": "Bakersfield College",
+    "url": "https://www.gogades.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Casey Goodman",
+        "title": "Softball Head Coach",
+        "email": "casandra.goodman@bakersfieldcollege.edu",
+        "phone": "661-395-4812",
+        "twitter": null
+      },
+      {
+        "name": "David Harding",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Shannon Nieblas",
+        "title": "Assistant Coach, Pitching",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 10276,
+    "output_tokens": 194,
+    "total_tokens": 10470
+  },
+  {
+    "school": "Barstow Community College",
+    "url": "https://www.barstowvikings.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Reginald H Garland Jr",
+        "title": "Head Coach",
+        "email": "rgarland@barstow.edu",
+        "phone": "7602522411",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 14112,
+    "output_tokens": 97,
+    "total_tokens": 14209
+  },
+  {
+    "school": "Butte College",
+    "url": "https://www.butteroadrunners.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Jessika Galloway",
+        "title": "Acting Head Softball Coach",
+        "email": "gallowayje@butte.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Joshua Correa",
+        "title": "Assistant Softball Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 14738,
+    "output_tokens": 132,
+    "total_tokens": 14870
+  },
+  {
+    "school": "Cabrillo College",
+    "url": "https://athletics.cabrillo.edu/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Kristy Rosinger",
+        "title": "Head Coach",
+        "email": "krballin@cabrillo.edu",
+        "phone": "831-477-3555",
+        "twitter": null
+      },
+      {
+        "name": "Janelle Rosinger",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Dale Balinger",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 7243,
+    "output_tokens": 165,
+    "total_tokens": 7408
+  },
+  {
+    "school": "Cerritos College",
+    "url": "https://www.cerritosfalcons.com/athletics/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Kodee Murray",
+        "title": "Head Coach",
+        "email": "kmurray@cerritos.edu",
+        "phone": "5628602451 Ext. 2873",
+        "twitter": null
+      },
+      {
+        "name": "Bud Murray",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Josh Musselman",
+        "title": "Associate Head Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Ashley Belmontes",
+        "title": "Pitching Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Brendan Ashley",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Miranda Diaz",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 16990,
+    "output_tokens": 281,
+    "total_tokens": 17271
+  },
+  {
+    "school": "Cerro Coso Community College",
+    "url": "https://www.cosocoyotes.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Domonique Hernandez",
+        "title": "Softball Head Coach",
+        "email": "domonique.hernandez@cerrocoso.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Claudia Navarro",
+        "title": "Softball Assistant Coach",
+        "email": "claudia.navarro1@cerrocoso.edu",
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 4916,
+    "output_tokens": 131,
+    "total_tokens": 5047
+  },
+  {
+    "school": "Chabot College",
+    "url": "https://athletics.chabotcollege.edu/information/directory/home#directory",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Chaffey College",
+    "url": "https://www.chaffeypanthers.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Jerry Tivey",
+        "title": "Head Coach, Softball",
+        "email": "jerry.tivey@chaffey.edu",
+        "phone": "(909) 652-6299",
+        "twitter": null
+      },
+      {
+        "name": "Ariel De Trinidad",
+        "title": "Assistant Coach, Softball",
+        "email": "ariel.detrinidad@chaffey.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Jennifer Stewart",
+        "title": "Assistant Coach, Softball",
+        "email": "jennifter.stewart@chaffey.edu",
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 33545,
+    "output_tokens": 216,
+    "total_tokens": 33761
+  },
+  {
+    "school": "Citrus College",
+    "url": "https://www.citrusowls.com/athletics/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Jessica Brown",
+        "title": "Head Softball Coach",
+        "email": "jbrown@citruscollege.edu",
+        "phone": "626-852-6462",
+        "twitter": null
+      },
+      {
+        "name": "Paul Smit",
+        "title": "Assistant Softball Coach/Recruiting Coordinator",
+        "email": null,
+        "phone": "626-852-6462",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 15465,
+    "output_tokens": 139,
+    "total_tokens": 15604
+  },
+  {
+    "school": "College of San Mateo",
+    "url": "https://www.csmbulldogs.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Nicole Quigley-Borg",
+        "title": "Head Coach",
+        "email": "borgn@smccd.edu",
+        "phone": "650-574-6464",
+        "twitter": null
+      },
+      {
+        "name": "Dale Bassmann",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Toby Garza",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Matt Lawrence",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Allie Stines",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Randy Villazon",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Emily McAdams",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 30579,
+    "output_tokens": 314,
+    "total_tokens": 30893
+  },
+  {
+    "school": "College of the Canyons",
+    "url": "https://cocathletics.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "John Wissmath",
+        "title": "Head Coach",
+        "email": "john.wissmath@canyons.edu",
+        "phone": "661-362-3204",
+        "twitter": null
+      },
+      {
+        "name": "Joe Linn",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Daisy Beltran",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "McKenzi Gardette",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 20225,
+    "output_tokens": 235,
+    "total_tokens": 20460
+  },
+  {
+    "school": "College of the Desert",
+    "url": "https://www.codathletics.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Kelli Finan",
+        "title": "Head Coach",
+        "email": "kfinan@collegeofthedesert.edu",
+        "phone": "760.485.8811",
+        "twitter": null
+      },
+      {
+        "name": "Lauren Robinson",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 20883,
+    "output_tokens": 143,
+    "total_tokens": 21026
+  },
+  {
+    "school": "College of the Redwoods",
+    "url": "https://www.redwoods.edu/sports/directory.html",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Megan Valente",
+        "title": "Head Softball Coach",
+        "email": "Softball@Redwoods.edu",
+        "phone": "7074764249",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 3721,
+    "output_tokens": 84,
+    "total_tokens": 3805
+  },
+  {
+    "school": "College of the Sequoias",
+    "url": "https://cosgiants.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Cori Janelli",
+        "title": "Head Softball Coach",
+        "email": "corij@cos.edu",
+        "phone": "5597376270",
+        "twitter": null
+      },
+      {
+        "name": "Kim Artiaga",
+        "title": "Associate Head Softball Coach",
+        "email": "kimverlyar@cos.edu",
+        "phone": "5597376270",
+        "twitter": null
+      },
+      {
+        "name": "Audra Pratt",
+        "title": "Assistant Softball Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 36390,
+    "output_tokens": 205,
+    "total_tokens": 36595
+  },
+  {
+    "school": "College of the Siskiyous",
+    "url": "https://www.coseagles.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Jon Cox",
+        "title": "Head Softball Coach",
+        "email": "jcox3@siskiyous.edu",
+        "phone": "5309385362",
+        "twitter": null
+      },
+      {
+        "name": "Russell Morena",
+        "title": "Assistant Coach",
+        "email": "rmorena@siskiyous.edu",
+        "phone": "9168214432",
+        "twitter": null
+      },
+      {
+        "name": "Daniel Sanchez",
+        "title": "Assistant Softball Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Zoe Mendez",
+        "title": "Assistant Softball Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 14268,
+    "output_tokens": 217,
+    "total_tokens": 14485
+  },
+  {
+    "school": "Compton College",
+    "url": "https://www.comptoncollegeathletics.com/information/directory/ind",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Cosumnes River College",
+    "url": "https://www.crchawks.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Kristy Schroeder",
+        "title": "Head Coach",
+        "email": "SchroeK@crc.losrios.edu",
+        "phone": "9166917790",
+        "twitter": null
+      },
+      {
+        "name": "Shauna Ford-Dalbianco",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Dan Krum",
+        "title": "Volunteer Assistant Coach",
+        "email": "KrumD@crc.losrios.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Lydia Alvarez",
+        "title": "Volunteer Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 6935,
+    "output_tokens": 214,
+    "total_tokens": 7149
+  },
+  {
+    "school": "Cuesta College",
+    "url": "https://www.cuestaathletics.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Jenel Guadagno",
+        "title": "Head Coach",
+        "email": "jenel_guadagno@cuesta.edu",
+        "phone": "805.592.9716",
+        "twitter": null
+      },
+      {
+        "name": "Ted Rich",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Natalie Ziegler",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 10634,
+    "output_tokens": 165,
+    "total_tokens": 10799
+  },
+  {
+    "school": "Cypress College",
+    "url": "https://cypresschargers.com/athletics/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Brad Pickler",
+        "title": "Head Coach\nSoftball",
+        "email": "bpickler@cypresscollege.edu",
+        "phone": "714-484-7359",
+        "twitter": null
+      },
+      {
+        "name": "Nicole Wise",
+        "title": "Assistant Coach\nSoftball",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Alyssa Huerta",
+        "title": "Assistant Coach\nSoftball",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Chris Brown",
+        "title": "Team Manager\nSoftball",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 20561,
+    "output_tokens": 214,
+    "total_tokens": 20775
+  },
+  {
+    "school": "Diablo Valley College",
+    "url": "https://dvcvikings.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Scott Wood",
+        "title": "Head Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 17554,
+    "output_tokens": 65,
+    "total_tokens": 17619
+  },
+  {
+    "school": "East Los Angeles College",
+    "url": "https://www.elacathletics.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Erika Blanco",
+        "title": "Head Coach",
+        "email": "blancoem@elac.edu",
+        "phone": "(323) 267-3784",
+        "twitter": null
+      },
+      {
+        "name": "Richard Barber",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Leo Amaya",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Mike Hunter",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 15542,
+    "output_tokens": 197,
+    "total_tokens": 15739
+  },
+  {
+    "school": "El Camino College",
+    "url": "https://eccwarriors.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Jessica Rapoza",
+        "title": "Head Coach (9th Season)",
+        "email": "jrapoza@elcamino.edu",
+        "phone": "310-660-3593 x6167",
+        "twitter": null
+      },
+      {
+        "name": "Michael Smith",
+        "title": "Assistant Coach (3rd Season)",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Karla Calderon",
+        "title": "Assistant Coach (2nd Season)",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Enrique Cruz",
+        "title": "Assistant Coach (2nd Season)",
+        "email": "encruz@elcamino.edu",
+        "phone": "(562) 304-8933",
+        "twitter": null
+      },
+      {
+        "name": "Liz Cortez",
+        "title": "Assistant Coach (2nd Season)",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Noemi Sandoval",
+        "title": "Assistant Coach (1st Season)",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 17630,
+    "output_tokens": 324,
+    "total_tokens": 17954
+  },
+  {
+    "school": "Feather River College",
+    "url": "https://athletics.frc.edu/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Meredith Aragon",
+        "title": "Head Softball Coach",
+        "email": "maragon@frc.edu",
+        "phone": "530-283-0202 x 294",
+        "twitter": null
+      },
+      {
+        "name": "Marco Aragon",
+        "title": "Assistant Softball Coach",
+        "email": "maragon1@frc.edu",
+        "phone": "530-283-0202 x 294",
+        "twitter": null
+      },
+      {
+        "name": "Hannah Blas",
+        "title": "Assistant Softball Coach",
+        "email": "hblas@frc.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Kaylah House",
+        "title": "Softball Volunteer Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 5252,
+    "output_tokens": 268,
+    "total_tokens": 5520
+  },
+  {
+    "school": "Folsom Lake College",
+    "url": "https://flcfalcons.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Amber Grahlman",
+        "title": "Head Coach",
+        "email": "grahlma@flc.losrios.edu",
+        "phone": "9166086814",
+        "twitter": null
+      },
+      {
+        "name": "Aaron Marderos",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Breeana Martinez",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Crizelle Cheng",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Darren Robinson",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Indiana Coxey",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Kevin Shea",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Rodrick Rubalcava",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 16083,
+    "output_tokens": 355,
+    "total_tokens": 16438
+  },
+  {
+    "school": "Fresno City College",
+    "url": "https://fccrams.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Linda Garza",
+        "title": "Head Softball Coach",
+        "email": "Linda.Garza@FresnoCityCollege.edu",
+        "phone": "775-200-6772",
+        "twitter": null
+      },
+      {
+        "name": "Alexis Arrcado",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Julie Storelli",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Jared Westendarp",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 21400,
+    "output_tokens": 236,
+    "total_tokens": 21636
+  },
+  {
+    "school": "Fullerton College",
+    "url": "https://www.fchornets.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Crystal Aguirre",
+        "title": "Head Coach",
+        "email": "caguirre@fullcoll.edu",
+        "phone": "7149927045",
+        "twitter": null
+      },
+      {
+        "name": "Marian Mendoza",
+        "title": "Co-Head Coach",
+        "email": "mmendoza@fullcoll.edu",
+        "phone": "7149927045",
+        "twitter": null
+      },
+      {
+        "name": "Celina Gonzalez",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Ru Andrade",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Brian Iseri",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Jill Saiza",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "John Ramirez",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Diana Alcala",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 17877,
+    "output_tokens": 425,
+    "total_tokens": 18302
+  },
+  {
+    "school": "Glendale Community College",
+    "url": "https://www.gccathletics.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Sal Pizzo",
+        "title": "Head Coach",
+        "email": "spizzo@glendale.edu",
+        "phone": "818-486-0430",
+        "twitter": null
+      },
+      {
+        "name": "Bill Garner",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": "213-618-1043",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 7684,
+    "output_tokens": 135,
+    "total_tokens": 7819
+  },
+  {
+    "school": "Golden West College",
+    "url": "https://www.gwcathletics.com/athletics/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Mike Willey",
+        "title": "Head Coach",
+        "email": "mwilley2@cccd.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Alan Caouette",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Akemi Fleming",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Sarah Duran",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 7984,
+    "output_tokens": 190,
+    "total_tokens": 8174
+  },
+  {
+    "school": "Hartnell College",
+    "url": "https://hartnellpanthers.com/inside_athletics/Staff_Directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Natalie Basaldua",
+        "title": "Head Coach",
+        "email": "nbasaldua@hartnell.edu",
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 17688,
+    "output_tokens": 85,
+    "total_tokens": 17773
+  },
+  {
+    "school": "Imperial Valley College",
+    "url": "https://athletics.imperial.edu/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Hector Vildosola",
+        "title": "Women's Softball Head Coach",
+        "email": "hector.vildosola@imperial.edu",
+        "phone": "7603556332",
+        "twitter": null
+      },
+      {
+        "name": "Marisol Cuevas",
+        "title": "Assistant Softball Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 14332,
+    "output_tokens": 150,
+    "total_tokens": 14482
+  },
+  {
+    "school": "Lassen Community College",
+    "url": "https://www.lassenathletics.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Colby Chavez",
+        "title": "Head Coach",
+        "email": "cjchavez@lassencollege.edu",
+        "phone": "(530) 260-2000",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 14556,
+    "output_tokens": 87,
+    "total_tokens": 14643
+  },
+  {
+    "school": "Long Beach City College",
+    "url": "https://www.lbccvikings.com/athletics/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Megan Martinez",
+        "title": "Director of Softball Operations",
+        "email": "amartinez@lbcc.edu",
+        "phone": "(562) 938-4026",
+        "twitter": null
+      },
+      {
+        "name": "Gabrielle Fua",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Mike Rogers",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": "(562) 938-4026",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 11376,
+    "output_tokens": 176,
+    "total_tokens": 11552
+  },
+  {
+    "school": "Los Angeles Harbor College",
+    "url": "https://www.lahcathletics.com/information/Staff_directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Shawnae Campbell",
+        "title": "Women's Softball Head Coach",
+        "email": "campbesd@lahc.edu",
+        "phone": "(424) 297-8300",
+        "twitter": null
+      },
+      {
+        "name": "Scott Stirton",
+        "title": "Assistant Women's Softball Coach",
+        "email": "losalcage@gmail.com",
+        "phone": "(714) 307-7929",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 14465,
+    "output_tokens": 171,
+    "total_tokens": 14636
+  },
+  {
+    "school": "Los Angeles Mission College",
+    "url": "https://www.lamcathletics.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Chris Hylland",
+        "title": "Head Softball Coach",
+        "email": "hyllanc@lamission.edu",
+        "phone": "562-743-6294",
+        "twitter": null
+      },
+      {
+        "name": "Crystal Aragon",
+        "title": "Assistant Softball Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Elisa Ponce",
+        "title": "Assistant Softball Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Ariana Luna",
+        "title": "Assistant Softball Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 6808,
+    "output_tokens": 201,
+    "total_tokens": 7009
+  },
+  {
+    "school": "Los Angeles Pierce College",
+    "url": "https://www.lapcbrahmas.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Matthew \"Charlie\" Jones",
+        "title": "Head Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 15022,
+    "output_tokens": 79,
+    "total_tokens": 15101
+  },
+  {
+    "school": "Los Angeles Valley College",
+    "url": "https://www.lavcathletics.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Andrea Contreras",
+        "title": "Head Coach",
+        "email": "contrerasdre6@gmail.com",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Robert Marcial",
+        "title": "Associate Head Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Natalie Winokur",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 14244,
+    "output_tokens": 151,
+    "total_tokens": 14395
+  },
+  {
+    "school": "Mendocino College",
+    "url": "https://www.mendoeagles.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Doug Wingler",
+        "title": "Head Softball Coach",
+        "email": "dwingler@mendocino.edu",
+        "phone": "7074683130",
+        "twitter": null
+      },
+      {
+        "name": "Melissa Atherton",
+        "title": "Assistant Softball Coach",
+        "email": "matherton@mendocino.edu",
+        "phone": "7074683130",
+        "twitter": null
+      },
+      {
+        "name": "Becky Pedersen",
+        "title": "Assistant Softball Coach (Volunteer)",
+        "email": null,
+        "phone": "7074683130",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 13481,
+    "output_tokens": 215,
+    "total_tokens": 13696
+  },
+  {
+    "school": "Merced College",
+    "url": "https://www.mccd.edu/campus-life/athletics/coaches/",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Suzanne McGhee",
+        "title": "Head Coach, Softball",
+        "email": "b6d2d3c0dfd8d398d8f6dbd5d5d298d3d2c3@mccd.edu",
+        "phone": "2093866731",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 27544,
+    "output_tokens": 126,
+    "total_tokens": 27670
+  },
+  {
+    "school": "Modesto Junior College",
+    "url": "https://athletics.mjc.edu/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Donnie Donaldson",
+        "title": "Head Coach",
+        "email": "donaldsond@mjc.edu",
+        "phone": "209-402-4681",
+        "twitter": null
+      },
+      {
+        "name": "Dave Ward",
+        "title": "Assistant Coach",
+        "email": "wardd@mjc.edu",
+        "phone": "209-535-1649",
+        "twitter": null
+      },
+      {
+        "name": "Randy Richardson",
+        "title": "Assistant Coach",
+        "email": "richardsonr@mjc.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Joel Broumas",
+        "title": "Assistant Coach",
+        "email": "broumasj@mjc.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Kaytlin Donaldson",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": "209-484-1621",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 7331,
+    "output_tokens": 283,
+    "total_tokens": 7614
+  },
+  {
+    "school": "Monterey Peninsula College",
+    "url": "https://www.athletics.mpc.edu/inside-athletics/draft-new-staff-directory",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Moorpark College",
+    "url": "https://moorparkcollegeathletics.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "tba",
+        "title": "Head Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Delaney Diaz",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Seren Horton",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 15676,
+    "output_tokens": 166,
+    "total_tokens": 15842
+  },
+  {
+    "school": "Mt. San Antonio College",
+    "url": "https://www.mtsacathletics.com/athletics/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Rubilena Rojas",
+        "title": "Head Coach",
+        "email": "rrojas30@mtsac.edu",
+        "phone": "9092744732",
+        "twitter": null
+      },
+      {
+        "name": "Jim Bollier",
+        "title": "Assistant Coach/Recruiter",
+        "email": "jbollier1@mtsac.edu",
+        "phone": "9092744939",
+        "twitter": null
+      },
+      {
+        "name": "Erika Eklund",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": "9092744939",
+        "twitter": null
+      },
+      {
+        "name": "Anthony Gonzalez",
+        "title": "Assistant Coach",
+        "email": "agonzalez290@mtsac.edu",
+        "phone": "9092744432",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 15082,
+    "output_tokens": 253,
+    "total_tokens": 15335
+  },
+  {
+    "school": "Mt. San Jacinto College",
+    "url": "https://msjc.prestosports.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Jessica Beaver-Brambilla",
+        "title": "Head Coach",
+        "email": "jewhite@msjc.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Mallory Mitchiner",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Mackenzie Mitchiner",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 5577,
+    "output_tokens": 179,
+    "total_tokens": 5756
+  },
+  {
+    "school": "Ohlone College",
+    "url": "https://www.ohloneathletics.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Julie Marshall",
+        "title": "Head Coach",
+        "email": "jmarshall12@ohlone.edu",
+        "phone": "510-659-6053",
+        "twitter": null
+      },
+      {
+        "name": "Lauren Ermitano",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 14533,
+    "output_tokens": 125,
+    "total_tokens": 14658
+  },
+  {
+    "school": "Orange Coast College",
+    "url": "https://www.occpirateathletics.com/athletics/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Jodie Kiaha",
+        "title": "Head Coach",
+        "email": "jlegaspi4@occ.cccd.edu",
+        "phone": "7144325767",
+        "twitter": null
+      },
+      {
+        "name": "Kimo Flores",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Elise Law",
+        "title": "Assistant Coach",
+        "email": "elaws1@cccd.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Alex Poti",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Jim Legaspi",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": "7144325767",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 22570,
+    "output_tokens": 298,
+    "total_tokens": 22868
+  },
+  {
+    "school": "Palomar College",
+    "url": "https://palomarathletics.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Lacey Craft",
+        "title": "Head Coach",
+        "email": "lcraft@palomar.edu",
+        "phone": "7607441150",
+        "twitter": null
+      },
+      {
+        "name": "Mark Eldridge",
+        "title": "Assistant Coach",
+        "email": "meldridge@palomar.edu",
+        "phone": "7607441150",
+        "twitter": null
+      },
+      {
+        "name": "Allie Hughen",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Megan Wachholtz",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 15881,
+    "output_tokens": 246,
+    "total_tokens": 16127
+  },
+  {
+    "school": "Pasadena City College",
+    "url": "https://pcclancers.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Audriana Gutierrez",
+        "title": "Head Coach",
+        "email": "agutierrez172@pasadena.edu",
+        "phone": "909-419-0699",
+        "twitter": null
+      },
+      {
+        "name": "Kaylee Medrano",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Alise Allen",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Austyn Helmuth",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 7099,
+    "output_tokens": 239,
+    "total_tokens": 7338
+  },
+  {
+    "school": "Porterville College",
+    "url": "https://portervillepirates.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Vickie Dugan",
+        "title": "Head Coach",
+        "email": "vdugan@portervillecollege.edu",
+        "phone": "(559) 791-2291",
+        "twitter": null
+      },
+      {
+        "name": "Mike Genovese",
+        "title": "Assistant Coach",
+        "email": "genovesemichael@hotmail.com",
+        "phone": "(559) 306-9207",
+        "twitter": null
+      },
+      {
+        "name": "Erica Lopez",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 17002,
+    "output_tokens": 211,
+    "total_tokens": 17213
+  },
+  {
+    "school": "Reedley College",
+    "url": "https://www.rctigers.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Stefani Nomura",
+        "title": "Head Softball Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Andy Saldate",
+        "title": "Softball Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Lauren Costa",
+        "title": "Softball Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Alexis Ramirez",
+        "title": "Softball Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Ed Kraus",
+        "title": "Softball Mental Skills Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 9851,
+    "output_tokens": 265,
+    "total_tokens": 10116
+  },
+  {
+    "school": "Rio Hondo College",
+    "url": "https://athletics.riohondo.edu/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Bianca Urquidi",
+        "title": "Head Coach",
+        "email": "burquidi@riohondo.edu",
+        "phone": "(562) 463-7439",
+        "twitter": null
+      },
+      {
+        "name": "George Penalber",
+        "title": "Assistant Coach",
+        "email": "coachpenalber@yahoo.com",
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 7315,
+    "output_tokens": 135,
+    "total_tokens": 7450
+  },
+  {
+    "school": "Riverside City College",
+    "url": "https://rccathletics.com/athletics/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Michelle Daddona",
+        "title": "Head Softball Coach",
+        "email": "michelle.daddona@rcc.edu",
+        "phone": "(951) 222-8367",
+        "twitter": null
+      },
+      {
+        "name": "Sarah Kammert",
+        "title": "Assistant Softball Coach",
+        "email": "sarah.kammert@rccd.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Charles Moronez",
+        "title": "Assistant Softball Coach - Pitching/Recruiting Coordinator",
+        "email": "charles.moronez@rccd.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Yeyo Uraga",
+        "title": "Assistant Softball Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 19594,
+    "output_tokens": 267,
+    "total_tokens": 19861
+  },
+  {
+    "school": "Sacramento City College",
+    "url": "https://www.sccpanthers.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Megan Koumelis",
+        "title": "Head Coach",
+        "email": "koumelm@scc.losrios.edu",
+        "phone": "5305745184",
+        "twitter": null
+      },
+      {
+        "name": "Rich Moore",
+        "title": "Asst. Coach (Hitting & Infield)",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Julie Pederson",
+        "title": "Asst. Coach (Catching)",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Shari Trejo",
+        "title": "Asst. Coach (Pitching)",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Patti Swimley",
+        "title": "Asst. Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Bella Munoz",
+        "title": "Asst. Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 10343,
+    "output_tokens": 343,
+    "total_tokens": 10686
+  },
+  {
+    "school": "Saddleback College",
+    "url": "https://saddleback.prestosports.com/athletics/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Krysten Fisher",
+        "title": "Head Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 24608,
+    "output_tokens": 77,
+    "total_tokens": 24685
+  },
+  {
+    "school": "San Bernardino Valley College",
+    "url": "https://sbvcathletics.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Devin Bennett",
+        "title": "Head Softball Coach\nSBVC Softball",
+        "email": "dbennett@sbccd.cc.ca.us",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Kendra Mendoza",
+        "title": "Assistant Coach\nSBVC Softball",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 7305,
+    "output_tokens": 144,
+    "total_tokens": 7449
+  },
+  {
+    "school": "San Diego City College",
+    "url": "https://www.sdcityknights.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "AJ Hull",
+        "title": "Head Coach",
+        "email": "ahull@sdccd.edu",
+        "phone": "7602088789",
+        "twitter": null
+      },
+      {
+        "name": "Chad Roget",
+        "title": "Assistant Coach",
+        "email": "croget@sdccd.edu",
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 13801,
+    "output_tokens": 127,
+    "total_tokens": 13928
+  },
+  {
+    "school": "San Diego Mesa College",
+    "url": "https://sdmesa.prestosports.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Jaclyn Guidi",
+        "title": "Head Coach",
+        "email": "jguidi@sdccd.edu",
+        "phone": "6193885807",
+        "twitter": null
+      },
+      {
+        "name": "Nicole Dall",
+        "title": "Head Associate Coach",
+        "email": "ndall@sdccd.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Andrea Wright",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Taylor Walters",
+        "title": "Volunteer - Exercise Science",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Chris Ponce",
+        "title": "Volunteer - Exercise Science",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 11794,
+    "output_tokens": 245,
+    "total_tokens": 12039
+  },
+  {
+    "school": "San Joaquin Delta College",
+    "url": "https://www.deltacollegeathletics.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Jim Fisher",
+        "title": "Head Coach",
+        "email": "james.fisher@deltacollege.edu",
+        "phone": "209-954-5176",
+        "twitter": null
+      },
+      {
+        "name": "Quincey Noble",
+        "title": "Assistant Coach/ Recruiting Coordinator",
+        "email": "quincey.noble@deltacollege.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Chris Anklam",
+        "title": "Assistant Coach",
+        "email": "chris.anklam@deltacollege.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Jeff Borges",
+        "title": "Assistant Coach",
+        "email": "jeffery.borges@deltacollege.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Terry Fisher",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Vanessa Contreras",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 8277,
+    "output_tokens": 351,
+    "total_tokens": 8628
+  },
+  {
+    "school": "San Jose City College",
+    "url": "https://sjccjaguars.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Debbie Huntze-Rooney",
+        "title": "Head Coach\nJaguar Athletics",
+        "email": "Deborah.Huntze@sjcc.edu",
+        "phone": "408-288-3731",
+        "twitter": null
+      },
+      {
+        "name": "Brittney Gutierrez",
+        "title": "Assistant Coach\nJaguar Athletics",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Natasha Sachdeva",
+        "title": "Assistant Coach\nJaguar Athletics",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Jessell Lewis",
+        "title": "Assistant Coach Jaguar Athletics",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Kayla Rooney",
+        "title": "Assistant Coach Jaguar Athletics",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 17974,
+    "output_tokens": 296,
+    "total_tokens": 18270
+  },
+  {
+    "school": "Santa Ana College",
+    "url": "https://www.sacdons.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Marissa Ross",
+        "title": "Head Softball Coach",
+        "email": "ross_marissa@sac.edu",
+        "phone": "714-564-6910",
+        "twitter": null
+      },
+      {
+        "name": "Alyssa Yglesias",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Alexis Carmona",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Alyssa Gutierrez",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 7393,
+    "output_tokens": 233,
+    "total_tokens": 7626
+  },
+  {
+    "school": "Santa Barbara City College",
+    "url": "https://www.sbccvaqueros.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Jasmyne Perry",
+        "title": "Head Coach",
+        "email": "jperry7@pipeline.sbcc.edu",
+        "phone": "8057303483",
+        "twitter": null
+      },
+      {
+        "name": "Janet Salas",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": "8059650581",
+        "twitter": null
+      },
+      {
+        "name": "Monica Salas",
+        "title": "Strength Coach",
+        "email": null,
+        "phone": "8059650581",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 10023,
+    "output_tokens": 181,
+    "total_tokens": 10204
+  },
+  {
+    "school": "Santa Monica College",
+    "url": "https://www.smccorsairs.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Chris Druckman",
+        "title": "Head Softball Coach",
+        "email": "druckman_christine@smc.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Samantha Sheeley",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 8780,
+    "output_tokens": 114,
+    "total_tokens": 8894
+  },
+  {
+    "school": "Santa Rosa Junior College",
+    "url": "http://srjcathletics.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 1272,
+    "output_tokens": 72,
+    "total_tokens": 1344
+  },
+  {
+    "school": "Santiago Canyon College",
+    "url": "https://www.scchawks.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Brandice Cutspec",
+        "title": "Head Softball Coach",
+        "email": "cutspec_brandice_sccollege.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Rylie Seip",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Danielle Stallings",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 16021,
+    "output_tokens": 155,
+    "total_tokens": 16176
+  },
+  {
+    "school": "Shasta College",
+    "url": "https://www.shastacollegeathletics.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Eric Jones",
+        "title": "Head Softball Coach",
+        "email": "esjones@shastacollege.edu",
+        "phone": "530-242-2293",
+        "twitter": null
+      },
+      {
+        "name": "Alicia Lowrey",
+        "title": "Assistant Softball Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Reilly Rupert",
+        "title": "Assistant Softball Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 10150,
+    "output_tokens": 188,
+    "total_tokens": 10338
+  },
+  {
+    "school": "Sierra College",
+    "url": "https://athletics.sierracollege.edu/about/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Emily Smith",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Colleen Marchi",
+        "title": "Assistant Pitching Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Joe Asaro",
+        "title": "Volunteer Assistant",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Mallory Moller",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Ryann Martinez",
+        "title": "Strength and Conditioning",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Taylor Martinez",
+        "title": "Head Coach",
+        "email": "Tmartinez7@sierracollege.edu",
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 10042,
+    "output_tokens": 267,
+    "total_tokens": 10309
+  },
+  {
+    "school": "Solano Community College",
+    "url": "https://solanoathletics.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Erika Vigil",
+        "title": "Head Softball Coach",
+        "email": "erika.vigil@solano.edu",
+        "phone": "707-416-1110",
+        "twitter": null
+      },
+      {
+        "name": "Maigin Cunningham",
+        "title": "Assistant Softball Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "MIke Faulstich",
+        "title": "Assistant Softball Coach",
+        "email": "mfaulstich@yahoo.com",
+        "phone": "707-628-2020",
+        "twitter": null
+      },
+      {
+        "name": "Dave Garcia",
+        "title": "Assistant Softball Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Tinita Vigil",
+        "title": "Assistant Softball Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 6214,
+    "output_tokens": 303,
+    "total_tokens": 6517
+  },
+  {
+    "school": "Southwestern College",
+    "url": "https://www.southwesternjaguars.com/information/directory/home",
+    "success": false,
+    "reason": "Unknown error after retries",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Taft College",
+    "url": "https://athletics.taftcollege.edu/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Amanda Clark",
+        "title": "Head Coach",
+        "email": "aclark@taftcollege.edu",
+        "phone": "661-763-7879",
+        "twitter": null
+      },
+      {
+        "name": "Alex Holquin",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Fabian Gutierrez",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 7371,
+    "output_tokens": 185,
+    "total_tokens": 7556
+  },
+  {
+    "school": "Ventura College",
+    "url": "https://www.vcweplayhard.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Julia Tamai",
+        "title": "Head Coach",
+        "email": "juliatamai@icloud.com",
+        "phone": "8052361002",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 36972,
+    "output_tokens": 84,
+    "total_tokens": 37056
+  },
+  {
+    "school": "Victor Valley College",
+    "url": "https://athletics.vvc.edu/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Adam Santa Cruz",
+        "title": "Head Softball Coach",
+        "email": "adam.santacruz@vvc.edu",
+        "phone": "7602454271",
+        "twitter": null
+      },
+      {
+        "name": "Toni Lozano",
+        "title": "Assistant Coach",
+        "email": "tonilozano04@yahoo.com",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": null,
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 13592,
+    "output_tokens": 167,
+    "total_tokens": 13759
+  },
+  {
+    "school": "West Hills College Coalinga",
+    "url": "https://www.westhillsfalcons.com/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Gabrielle Brixey",
+        "title": "Head Softball Coach",
+        "email": "gabriellebrixey@whccd.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Katelynn Mogelberg",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Staci Mosher",
+        "title": "Assistant Coach",
+        "email": "stacimosher@whccd.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Sal Flores",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 6506,
+    "output_tokens": 235,
+    "total_tokens": 6741
+  },
+  {
+    "school": "West Valley College",
+    "url": "https://athletics.westvalley.edu/information/directory/index",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Vicky Piatt",
+        "title": "Head Coach",
+        "email": "vicky.piatt@westvalley.edu",
+        "phone": "408-741-2004",
+        "twitter": null
+      },
+      {
+        "name": "Don Ford",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Lecee Mayo",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Kim Reeder",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Samantha Soto",
+        "title": "Softball Operations Assistant",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Rob Underhill",
+        "title": "Recruiting Coordinator",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 7620,
+    "output_tokens": 279,
+    "total_tokens": 7899
+  },
+  {
+    "school": "Yuba College",
+    "url": "https://yc.yccd.edu/athletics/sports/softball/coach/",
+    "success": true,
+    "coachingStaff": [
+      {
+        "name": "Brian Seva",
+        "title": "Head Coach",
+        "email": "bseva@yccd.edu",
+        "phone": "530-741-6833",
+        "twitter": null
+      },
+      {
+        "name": "Karlee Coughlin",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": "530-682-8927",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 10333,
+    "output_tokens": 136,
+    "total_tokens": 10469
+  }
+]

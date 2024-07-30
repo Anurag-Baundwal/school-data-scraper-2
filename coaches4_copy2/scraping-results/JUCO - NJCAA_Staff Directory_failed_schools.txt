@@ -1,0 +1,9 @@
+Clarendon College: https://athletics.clarendoncollege.edu/staffdirectory - Reason: Unknown error after retries
+East Central College: https://sports.eastcentral.edu/staff-directory/ - Reason: Unknown error after retries
+Henry Ford College: https://www.hfcc.edu/athletics/softball - Reason: Unknown error after retries
+Jefferson College: https://www.jeffco.edu/athletics/athletic-department-directory - Reason: Unknown error after retries
+Fort Hays Tech Northwest: https://www.ntmavericks.com/information/directory/index - Reason: Unknown error after retries
+Odessa College: https://www.wranglersports.com/information/directory/Staff_Directory - Reason: Unknown error after retries
+Paris Junior College: N/A - Reason: No URL provided
+Paul D. Camp Community College: N/A - Reason: No URL provided
+Three Rivers College: https://www.raidersathletics.com/information/directory/index - Reason: Unknown error after retries

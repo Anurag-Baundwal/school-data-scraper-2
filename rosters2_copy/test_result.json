@@ -1,0 +1,200 @@
+{
+  "school": "Oklahoma State University",
+  "url": "https://okstate.com/sports/softball/roster",
+  "success": true,
+  "rosterYear": 2024,
+  "players": [
+    {
+      "name": "Taylor Anderson",
+      "position": "UTL",
+      "year": "Fr.",
+      "hometown": "Dripping Springs, Texas",
+      "highSchool": "Dripping Springs",
+      "graduationYear": 2027
+    },
+    {
+      "name": "Kyra Aycock",
+      "position": "P",
+      "year": "So.",
+      "hometown": "Newnan, Ga.",
+      "highSchool": "Northgate",
+      "graduationYear": 2026
+    },
+    {
+      "name": "Megan Bloodworth",
+      "position": "IF",
+      "year": "Jr.",
+      "hometown": "Cordele, Ga.",
+      "highSchool": "Crisp County",
+      "graduationYear": 2025
+    },
+    {
+      "name": "Scotland David",
+      "position": "OF",
+      "year": "Sr.",
+      "hometown": "Ponte Vedra, Fla.",
+      "highSchool": "Ponte Vedra",
+      "graduationYear": 2024
+    },
+    {
+      "name": "Rosie Davis",
+      "position": "IF",
+      "year": "Fr.",
+      "hometown": "Readyville, Tenn.",
+      "highSchool": "Middle Tennessee Christian",
+      "graduationYear": 2027
+    },
+    {
+      "name": "Saylor Davis",
+      "position": "P",
+      "year": "Fr.",
+      "hometown": "Montgomery,  Texas",
+      "highSchool": "The Woodlands",
+      "graduationYear": 2027
+    },
+    {
+      "name": "Tallen Edwards",
+      "position": "UTL",
+      "year": "So.",
+      "hometown": "Moore, Okla.",
+      "highSchool": "Southmoore",
+      "graduationYear": 2026
+    },
+    {
+      "name": "Karli Godwin",
+      "position": "IF",
+      "year": "Fr.",
+      "hometown": "Lake Waccamaw, N.C.",
+      "highSchool": "East Columbus",
+      "graduationYear": 2027
+    },
+    {
+      "name": "Macy Graf",
+      "position": "UTL",
+      "year": "So.",
+      "hometown": "Aledo, Texas",
+      "highSchool": "Aledo",
+      "graduationYear": 2026
+    },
+    {
+      "name": "Lexi Kilfoyl",
+      "position": "P",
+      "year": "Gr.",
+      "hometown": "Land O' Lakes, Fla.",
+      "highSchool": "Academy At The Lakes",
+      "graduationYear": 2024
+    },
+    {
+      "name": "Katie Kutz",
+      "position": "P",
+      "year": "Fr.",
+      "hometown": "McLean, Va.",
+      "highSchool": "Bishop O'Connell",
+      "graduationYear": 2027
+    },
+    {
+      "name": "Katie Lott",
+      "position": "OF",
+      "year": "So.",
+      "hometown": "Cypress, Texas",
+      "highSchool": "Cypress Woods",
+      "graduationYear": 2026
+    },
+    {
+      "name": "Lexi McDonald",
+      "position": "IF",
+      "year": "So.",
+      "hometown": "Silo, Okla.",
+      "highSchool": "Silo",
+      "graduationYear": 2026
+    },
+    {
+      "name": "Kathryn Ogg",
+      "position": "P",
+      "year": "Jr.",
+      "hometown": "Mount Kisco, N.Y.",
+      "highSchool": "The Harvey School",
+      "graduationYear": 2025
+    },
+    {
+      "name": "Sophie Page",
+      "position": "IF",
+      "year": "Jr.",
+      "hometown": "Chatom, Ala.",
+      "highSchool": "Satsuma",
+      "graduationYear": 2025
+    },
+    {
+      "name": "Logan Pickelsimer",
+      "position": "C",
+      "year": "Fr.",
+      "hometown": "Mustang, Okla.",
+      "highSchool": "Mustang",
+      "graduationYear": 2027
+    },
+    {
+      "name": "Jilyen Poullard",
+      "position": "UTL",
+      "year": "Sr.",
+      "hometown": "Moss Bluff, La.",
+      "highSchool": "Sam Houston",
+      "graduationYear": 2024
+    },
+    {
+      "name": "Ivy Rosenberry",
+      "position": "P",
+      "year": "Sr.",
+      "hometown": "Winchester, Va.",
+      "highSchool": "James Wood",
+      "graduationYear": 2024
+    },
+    {
+      "name": "Audrey Schneidmiller",
+      "position": "C",
+      "year": "R-So.",
+      "hometown": "Burleson, Texas",
+      "highSchool": "Burleson",
+      "graduationYear": 2026
+    },
+    {
+      "name": "Haidyn Sokoloski",
+      "position": "OF",
+      "year": "So.",
+      "hometown": "Flower Mound, Texas",
+      "highSchool": "Marcus",
+      "graduationYear": 2026
+    },
+    {
+      "name": "Claire Timm",
+      "position": "OF",
+      "year": "So.",
+      "hometown": "Buena Park, Calif.",
+      "highSchool": "Kennedy",
+      "graduationYear": 2026
+    },
+    {
+      "name": "Caroline Wang",
+      "position": "C",
+      "year": "Sr.",
+      "hometown": "Paris, Tenn.",
+      "highSchool": "Henry County",
+      "graduationYear": 2024
+    },
+    {
+      "name": "Micaela Wark",
+      "position": "IF",
+      "year": "R-So.",
+      "hometown": "Frisco, Texas",
+      "highSchool": "Reedy",
+      "graduationYear": 2026
+    },
+    {
+      "name": "Tia Warsop",
+      "position": "OF",
+      "year": "Fr.",
+      "hometown": "Northampton, England",
+      "highSchool": "Mansfield Lake Ridge",
+      "graduationYear": 2027
+    }
+  ]
+}

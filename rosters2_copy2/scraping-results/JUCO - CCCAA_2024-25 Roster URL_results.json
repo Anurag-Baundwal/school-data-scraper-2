@@ -1,0 +1,2344 @@
+[
+  {
+    "school": "Allan Hancock College",
+    "url": "https://ahcbulldogs.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "American River College",
+    "url": "https://americanriver.prestosports.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Antelope Valley College",
+    "url": "https://gomarauders.avc.edu/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Bakersfield College",
+    "url": "https://www.gogades.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Barstow Community College",
+    "url": "https://www.barstowvikings.com/sports/sball/2022-23/roster",
+    "success": true,
+    "rosterYear": 2023,
+    "players": [
+      {
+        "name": "Cordesia White",
+        "position": "INF",
+        "year": "Freshman",
+        "hometown": null,
+        "highSchool": "James Madison HS",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Trininity Jennings",
+        "position": "P/ UT",
+        "year": "Freshman",
+        "hometown": null,
+        "highSchool": "Centennial HS",
+        "graduationYear": 2026
+      },
+      {
+        "name": "D'Vonnah Sagapolu",
+        "position": "1B / UT",
+        "year": "Sophomore",
+        "hometown": null,
+        "highSchool": "Cobalt Institute",
+        "graduationYear": 2025
+      },
+      {
+        "name": "Angelina Barron",
+        "position": "Inf/ OF",
+        "year": "Sophomore",
+        "hometown": null,
+        "highSchool": "Barstow HS",
+        "graduationYear": 2025
+      },
+      {
+        "name": "Kayla Norfleet",
+        "position": "Inf / OF",
+        "year": "Freshman",
+        "hometown": null,
+        "highSchool": "Barstow HS",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Holly Smithson",
+        "position": "3B",
+        "year": "Sophomore",
+        "hometown": null,
+        "highSchool": "Alta HS",
+        "graduationYear": 2025
+      },
+      {
+        "name": "Reanna Williams",
+        "position": "OF",
+        "year": "Sophomore",
+        "hometown": null,
+        "highSchool": "Barstow HS",
+        "graduationYear": 2025
+      },
+      {
+        "name": "Ajayah Lively",
+        "position": "3B / UT",
+        "year": "Freshman",
+        "hometown": null,
+        "highSchool": "Cobalt Institute",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Jade Fuller",
+        "position": "C/P",
+        "year": "Sophomore",
+        "hometown": null,
+        "highSchool": "Loureauville HS",
+        "graduationYear": 2025
+      },
+      {
+        "name": "Arianna Macias",
+        "position": "RF",
+        "year": "Freshman",
+        "hometown": null,
+        "highSchool": "Barstow HS",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Seanoa Alefaio",
+        "position": "1B / UT",
+        "year": "Sophomore",
+        "hometown": null,
+        "highSchool": "Barstow HS",
+        "graduationYear": 2025
+      }
+    ],
+    "input_tokens": 32719,
+    "output_tokens": 656,
+    "total_tokens": 33375
+  },
+  {
+    "school": "Butte College",
+    "url": "https://www.butteroadrunners.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Cabrillo College",
+    "url": "https://athletics.cabrillo.edu/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Cerritos College",
+    "url": "https://www.cerritosfalcons.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Cerro Coso Community College",
+    "url": "https://www.cosocoyotes.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Chabot College",
+    "url": "https://athletics.chabotcollege.edu/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Chaffey College",
+    "url": "https://www.chaffeypanthers.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Citrus College",
+    "url": "https://www.citrusowls.com/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2024,
+    "players": [],
+    "input_tokens": 29465,
+    "output_tokens": 40,
+    "total_tokens": 29505
+  },
+  {
+    "school": "College of San Mateo",
+    "url": "https://www.csmbulldogs.com/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2025,
+    "players": [
+      {
+        "name": "Ali, Aaliyah",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Alvarado, Mia",
+        "position": "OF",
+        "year": "So",
+        "hometown": "San Carlos, CA",
+        "highSchool": "Carlmont",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Armas, Aaliyah",
+        "position": "OF",
+        "year": "So",
+        "hometown": "San Bruno, CA",
+        "highSchool": "Capuchino",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Avila, Alyssa",
+        "position": "OF",
+        "year": "So",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Badillo, Sofia",
+        "position": "C",
+        "year": "Fr",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Beasley, Jada",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Bell, Sophia",
+        "position": "P",
+        "year": "So",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Bermudez, Natalia",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Camacho, Andrea",
+        "position": "IF",
+        "year": "So",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Carreon, Jessica",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Castro, Genesis",
+        "position": "P",
+        "year": "Fr",
+        "hometown": "South San Francisco, CA",
+        "highSchool": "El Camino",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Cervantes, Sarah",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Chavez, Natalie",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "San Bruno, CA",
+        "highSchool": "Capuchino",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Cortez, Katelyn",
+        "position": "IF",
+        "year": "So",
+        "hometown": "Pacifica, CA",
+        "highSchool": "Terra Nova",
+        "graduationYear": 2027
+      },
+      {
+        "name": "De Leon, Isabella",
+        "position": "OF",
+        "year": "So",
+        "hometown": "San Carlos, CA",
+        "highSchool": "Carlmont",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Flores, Nadia",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "South San Francisco, CA",
+        "highSchool": "El Camino",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Garcia, Vanessa",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Gonzales, Maya",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Gutierrez, Alysha",
+        "position": "IF",
+        "year": "So",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Hernandez, Brianna",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Jimenez, Ashley",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Lee, Ashley",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "South San Francisco, CA",
+        "highSchool": "El Camino",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Lopez, Isabel",
+        "position": "IF",
+        "year": "So",
+        "hometown": "South San Francisco, CA",
+        "highSchool": "El Camino",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Martinez, Sarah",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Mejia, Alexia",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Melendez, Alyssa",
+        "position": "P",
+        "year": "So",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Mendoza, Sophia",
+        "position": "C",
+        "year": "Fr",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Montañez, Alyssa",
+        "position": "UT",
+        "year": "So",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Morales, Gianna",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Munoz, Aaliyah",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "San Bruno, CA",
+        "highSchool": "Capuchino",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Nava, Ashley",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Nieto, Isabella",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "San Bruno, CA",
+        "highSchool": "Capuchino",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Ortiz, Sarah",
+        "position": "OF",
+        "year": "So",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Perez, Isabella",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Pineda, Mariana",
+        "position": "OF",
+        "year": "So",
+        "hometown": "San Bruno, CA",
+        "highSchool": "Capuchino",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Ramirez, Andrea",
+        "position": "IF",
+        "year": "So",
+        "hometown": "South San Francisco, CA",
+        "highSchool": "El Camino",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Rodriguez,  Sofia",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Sanchez, Isabella",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Silva, Ashley",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "South San Francisco, CA",
+        "highSchool": "El Camino",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Torres,  Sophia",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "San Bruno, CA",
+        "highSchool": "Capuchino",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Valdez, Adriana",
+        "position": "OF",
+        "year": "So",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Vargas,  Gianna",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Vasquez, Ashley",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Vega,  Isabella",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "South San Francisco, CA",
+        "highSchool": "El Camino",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Velazquez,  Emily",
+        "position": "IF",
+        "year": "So",
+        "hometown": "South San Francisco, CA",
+        "highSchool": "El Camino",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Villanueva,  Aaliyah",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "San Mateo, CA",
+        "highSchool": "San Mateo",
+        "graduationYear": 2028
+      }
+    ],
+    "input_tokens": 135336,
+    "output_tokens": 3105,
+    "total_tokens": 138441
+  },
+  {
+    "school": "College of the Canyons",
+    "url": "https://cocathletics.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "College of the Desert",
+    "url": "https://www.codathletics.com/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2025,
+    "players": [],
+    "input_tokens": 28240,
+    "output_tokens": 40,
+    "total_tokens": 28280
+  },
+  {
+    "school": "College of the Redwoods",
+    "url": "https://www.redwoods.edu/sports/softball.html#Roster",
+    "success": false,
+    "reason": "Attempt 1: Roster year could not be determined.; Attempt 2: Roster year cannot be determined; Attempt 3: Roster year could not be determined.",
+    "input_tokens": 19260,
+    "output_tokens": 38,
+    "total_tokens": 19298,
+    "players": []
+  },
+  {
+    "school": "College of the Sequoias",
+    "url": "https://cosgiants.com/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2025,
+    "players": [],
+    "input_tokens": 33065,
+    "output_tokens": 40,
+    "total_tokens": 33105
+  },
+  {
+    "school": "College of the Siskiyous",
+    "url": "https://www.coseagles.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Compton College",
+    "url": "https://www.comptoncollegeathletics.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Cosumnes River College",
+    "url": "https://www.crchawks.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Cuesta College",
+    "url": "https://www.cuestaathletics.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Cypress College",
+    "url": "https://cypresschargers.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Diablo Valley College",
+    "url": "https://dvcvikings.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "East Los Angeles College",
+    "url": "https://www.elacathletics.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "El Camino College",
+    "url": "https://eccwarriors.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Feather River College",
+    "url": "https://athletics.frc.edu/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Folsom Lake College",
+    "url": "https://flcfalcons.com/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2024,
+    "players": [],
+    "input_tokens": 27923,
+    "output_tokens": 40,
+    "total_tokens": 27963
+  },
+  {
+    "school": "Fresno City College",
+    "url": "https://fccrams.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Fullerton College",
+    "url": "https://www.fchornets.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Glendale Community College",
+    "url": "https://www.gccathletics.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Golden West College",
+    "url": "https://www.gwcathletics.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Hartnell College",
+    "url": "https://hartnellpanthers.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Imperial Valley College",
+    "url": "https://athletics.imperial.edu/sports/sball/2022-23/roster",
+    "success": true,
+    "rosterYear": 2023,
+    "players": [
+      {
+        "name": "Andrea Lopez",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Calexico, CA",
+        "highSchool": "Calexico",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Yeraldine Carrion",
+        "position": "P",
+        "year": "So",
+        "hometown": "Brawley, CA",
+        "highSchool": "CECYTE",
+        "graduationYear": 2025
+      },
+      {
+        "name": "Elizabeth Salcedo",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Imperial, CA",
+        "highSchool": "Imperial",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Azennette Lopez",
+        "position": "P/ IF",
+        "year": "So",
+        "hometown": "Calexico, CA",
+        "highSchool": "Calexico",
+        "graduationYear": 2025
+      },
+      {
+        "name": "Nayeli Sandoval",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Brawley, CA",
+        "highSchool": "UABC Mex",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Shaylinn Mays",
+        "position": "IF/ P",
+        "year": "So",
+        "hometown": "Imperial, CA",
+        "highSchool": "Imperial",
+        "graduationYear": 2025
+      },
+      {
+        "name": "Adriana Molina",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "El Centro, CA",
+        "highSchool": "Southwest",
+        "graduationYear": 2026
+      },
+      {
+        "name": "April Garcia",
+        "position": "Util",
+        "year": "Fr",
+        "hometown": "Brawley, CA",
+        "highSchool": "Brawley Union",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Audry Lopez",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Brawley, CA",
+        "highSchool": "Brawley Union",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Aly Tapia",
+        "position": "C/OF",
+        "year": "Fr",
+        "hometown": "Brawley, CA",
+        "highSchool": "Brawley Union",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Emily Hernandez",
+        "position": "Util",
+        "year": "Fr",
+        "hometown": "Calipatria, CA",
+        "highSchool": "Calipatria",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Alessandra Banuelos-Ibarra",
+        "position": "IF",
+        "year": "So",
+        "hometown": "Calexico, CA",
+        "highSchool": "Calexico",
+        "graduationYear": 2025
+      },
+      {
+        "name": "Vianey Castaneda",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Calexico, CA",
+        "highSchool": "UABC Mex",
+        "graduationYear": 2026
+      }
+    ],
+    "input_tokens": 43855,
+    "output_tokens": 807,
+    "total_tokens": 44662
+  },
+  {
+    "school": "Lassen Community College",
+    "url": "https://www.lassenathletics.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Long Beach City College",
+    "url": "https://www.lbccvikings.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Missing player data. No players found on the roster page.; Attempt 2: Player data is missing required fields.; Attempt 3: No player data found on the page",
+    "input_tokens": 13494,
+    "output_tokens": 47,
+    "total_tokens": 13541,
+    "players": []
+  },
+  {
+    "school": "Los Angeles Harbor College",
+    "url": "https://www.lahcathletics.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Los Angeles Mission College",
+    "url": "https://www.lamcathletics.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Los Angeles Pierce College",
+    "url": "https://www.lapcbrahmas.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Los Angeles Valley College",
+    "url": "https://www.lavcathletics.com/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2024,
+    "players": [],
+    "input_tokens": 22953,
+    "output_tokens": 40,
+    "total_tokens": 22993
+  },
+  {
+    "school": "Mendocino College",
+    "url": "https://www.mendoeagles.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Merced College",
+    "url": "https://www.mccd.edu/campus-life/athletics/sports/softball/roster/",
+    "success": true,
+    "rosterYear": 2024,
+    "players": [
+      {
+        "name": "Londyn Ezikian",
+        "position": "OF",
+        "year": "FR",
+        "hometown": "Merced",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Trinity Diaz",
+        "position": "OF",
+        "year": "FR",
+        "hometown": "Merced",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Melody Gomez",
+        "position": "P/INF",
+        "year": "SO",
+        "hometown": "Merced",
+        "highSchool": null,
+        "graduationYear": 2026
+      },
+      {
+        "name": "Naomi Moore",
+        "position": "OF",
+        "year": "SO",
+        "hometown": "Merced",
+        "highSchool": null,
+        "graduationYear": 2026
+      },
+      {
+        "name": "Zoewie Martinez",
+        "position": "UTL",
+        "year": "FR",
+        "hometown": "Merced",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Jylian Urquizo",
+        "position": "INF",
+        "year": "FR",
+        "hometown": "Le Grand",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Mia Marquez",
+        "position": "C/INF",
+        "year": "FR",
+        "hometown": "Merced",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Khily Brower",
+        "position": "P/INF",
+        "year": "SO",
+        "hometown": "Mariposa",
+        "highSchool": null,
+        "graduationYear": 2026
+      },
+      {
+        "name": "Denise Fonseca",
+        "position": "OF",
+        "year": "FR",
+        "hometown": "Dos Palos",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Maria Basillas",
+        "position": "INF",
+        "year": "FR",
+        "hometown": "Merced",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Juliana Hibma",
+        "position": "OF",
+        "year": "SO",
+        "hometown": "Merced",
+        "highSchool": null,
+        "graduationYear": 2026
+      },
+      {
+        "name": "Ciara Esparza",
+        "position": "P/INF",
+        "year": "FR",
+        "hometown": "Atwater",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Leiyah Ramirez",
+        "position": "1B",
+        "year": "FR",
+        "hometown": "Merced",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Paulina Vargas",
+        "position": "OF",
+        "year": "FR",
+        "hometown": "Le Grand",
+        "highSchool": null,
+        "graduationYear": 2027
+      }
+    ],
+    "input_tokens": 33912,
+    "output_tokens": 793,
+    "total_tokens": 34705
+  },
+  {
+    "school": "Modesto Junior College",
+    "url": "https://athletics.mjc.edu/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Monterey Peninsula College",
+    "url": "https://www.athletics.mpc.edu/teams/men-s-sports/baseball/team-roster-13837",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Moorpark College",
+    "url": "https://moorparkcollegeathletics.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Mt. San Antonio College",
+    "url": "https://www.mtsacathletics.com/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2024,
+    "players": [],
+    "input_tokens": 19316,
+    "output_tokens": 40,
+    "total_tokens": 19356
+  },
+  {
+    "school": "Mt. San Jacinto College",
+    "url": "https://msjc.prestosports.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Ohlone College",
+    "url": "https://www.ohloneathletics.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Orange Coast College",
+    "url": "https://www.occpirateathletics.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Palomar College",
+    "url": "https://palomarathletics.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Pasadena City College",
+    "url": "https://pcclancers.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Porterville College",
+    "url": "https://portervillepirates.com/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2025,
+    "players": [],
+    "input_tokens": 40003,
+    "output_tokens": 40,
+    "total_tokens": 40043
+  },
+  {
+    "school": "Reedley College",
+    "url": "https://www.rctigers.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Rio Hondo College",
+    "url": "https://athletics.riohondo.edu/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2025,
+    "players": [],
+    "input_tokens": 10625,
+    "output_tokens": 40,
+    "total_tokens": 10665
+  },
+  {
+    "school": "Riverside City College",
+    "url": "https://rccathletics.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Sacramento City College",
+    "url": "https://www.sccpanthers.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Saddleback College",
+    "url": "https://saddlebackbobcats.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "San Bernardino Valley College",
+    "url": "https://sbvcathletics.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "San Diego City College",
+    "url": "https://www.sdcityknights.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "San Diego Mesa College",
+    "url": "https://www.gosdmesa.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "San Joaquin Delta College",
+    "url": "https://www.deltacollegeathletics.com/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2025,
+    "players": [],
+    "input_tokens": 12669,
+    "output_tokens": 40,
+    "total_tokens": 12709
+  },
+  {
+    "school": "San Jose City College",
+    "url": "https://sjccjaguars.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Santa Ana College",
+    "url": "https://www.sacdons.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Santa Barbara City College",
+    "url": "https://www.sbccvaqueros.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Santa Monica College",
+    "url": "https://www.smccorsairs.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Santa Rosa Junior College",
+    "url": "http://srjcathletics.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Santiago Canyon College",
+    "url": "https://www.scchawks.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Shasta College",
+    "url": "https://www.shastacollegeathletics.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Sierra College",
+    "url": "https://athletics.sierracollege.edu/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Solano Community College",
+    "url": "https://solanoathletics.com/sports/sball/2022-23/roster",
+    "success": true,
+    "rosterYear": 2023,
+    "players": [
+      {
+        "name": "Jenna Potter",
+        "position": "RS",
+        "year": "Fr",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2026
+      },
+      {
+        "name": "Azaria Sanchez",
+        "position": "MI",
+        "year": "Fr",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2026
+      },
+      {
+        "name": "Avarie Mendez",
+        "position": "ULT",
+        "year": "So",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2025
+      },
+      {
+        "name": "Mia Valenzuela",
+        "position": "3B",
+        "year": "Fr",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2026
+      },
+      {
+        "name": "Kristy Regalado",
+        "position": "OF",
+        "year": "So",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2025
+      },
+      {
+        "name": "Lindsay Feinberg",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2026
+      },
+      {
+        "name": "Bianca Belo-Diaz",
+        "position": "UTL",
+        "year": "So",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2025
+      },
+      {
+        "name": "Alexis Certeza",
+        "position": "2B",
+        "year": "So",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2025
+      },
+      {
+        "name": "Alyssa Sellers",
+        "position": "1B",
+        "year": "Fr",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2026
+      },
+      {
+        "name": "Alexis Wright",
+        "position": "P",
+        "year": "Fr",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2026
+      },
+      {
+        "name": "Isa Alegre",
+        "position": "OF",
+        "year": "So",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2025
+      },
+      {
+        "name": "Kaelani Hernandez",
+        "position": "OF",
+        "year": "So",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2025
+      },
+      {
+        "name": "Kaylee Hawkins",
+        "position": "ULT",
+        "year": "Fr",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2026
+      },
+      {
+        "name": "Nayzeth Gonzalez",
+        "position": "P/OF/1B",
+        "year": "Fr",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2026
+      },
+      {
+        "name": "Madalyn Bruce",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2026
+      },
+      {
+        "name": "Naiya Watts",
+        "position": "1B/P/3B",
+        "year": null,
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": null
+      },
+      {
+        "name": "Kourtney Patrick",
+        "position": "C/P",
+        "year": "So",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2025
+      }
+    ],
+    "input_tokens": 92601,
+    "output_tokens": 1059,
+    "total_tokens": 93660
+  },
+  {
+    "school": "Southwestern College",
+    "url": "https://www.southwesternjaguars.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Taft College",
+    "url": "https://athletics.taftcollege.edu/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2025,
+    "players": [],
+    "input_tokens": 28292,
+    "output_tokens": 40,
+    "total_tokens": 28332
+  },
+  {
+    "school": "Ventura College",
+    "url": "https://www.vcweplayhard.com/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2025,
+    "players": [
+      {
+        "name": "Aguilar, Jasmine",
+        "position": "IF",
+        "year": "So",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Rio Mesa",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Alvarez, Samantha",
+        "position": "OF",
+        "year": "So",
+        "hometown": "Simi Valley, CA",
+        "highSchool": "Simi Valley",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Arroyo, Brianna",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Santa Paula, CA",
+        "highSchool": "Santa Paula",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Avila, Alexis",
+        "position": "OF",
+        "year": "So",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Rio Mesa",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Baker, Ally",
+        "position": "C",
+        "year": "So",
+        "hometown": "Santa Barbara, CA",
+        "highSchool": "San Marcos",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Barajas, Alondra",
+        "position": "P",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Rio Mesa",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Barajas, Mia",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Rio Mesa",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Beltran, Stephanie",
+        "position": "OF",
+        "year": "So",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Pacifica",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Camacho, Gabriela",
+        "position": "UT",
+        "year": "So",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Carbajal, Natalie",
+        "position": "IF",
+        "year": "So",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Pacifica",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Carmona, Jaden",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Simi Valley, CA",
+        "highSchool": "Simi Valley",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Castillo, Aaliyah",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Pacifica",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Cervantes, Sarah",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Santa Paula, CA",
+        "highSchool": "Santa Paula",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Chavez, Savannah",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Cordova, Alexia",
+        "position": "P",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Rio Mesa",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Diaz, Leslie",
+        "position": "P",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Pacifica",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Fernandez, Natalia",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Garcia, Alyssa",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Garcia, Jazmine",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Gonzales, Isabella",
+        "position": "C",
+        "year": "So",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Pacifica",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Gonzalez,  Vanessa",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Pacifica",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Guerra, Desiree",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Guzman, Alondra",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Herrera, Vanessa",
+        "position": "IF",
+        "year": "So",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Huerta, Jasmine",
+        "position": "IF",
+        "year": "So",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Jimenez, Natalie",
+        "position": "IF",
+        "year": "So",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Juarez, Evelyn",
+        "position": "IF",
+        "year": "So",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Larios, Jada",
+        "position": "OF",
+        "year": "So",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Larios, Leilani",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Leon, Brianna",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Lopez, Alondra",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Lopez, Brenda",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Lopez, Isabella",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Lopez, Melissa",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Martinez, Brianna",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Martinez, Genesis",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Martinez, Isabella",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Martinez,  Karina",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Mendoza, Aaliyah",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Mendoza,  Gabriela",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Montañez,  Mia",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Morales,  Emily",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Munoz,  Diana",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Munoz,  Isabella",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Munoz,  Vanessa",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Nava,  Leslie",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Nieto,  Jazmin",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Ortega,  Aaliyah",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Padilla,  Jessica",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Pena,  Alondra",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Perez,  Brenda",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Perez,  Emily",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Perez,  Genesis",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Ramirez,  Briana",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Ramirez,  Isabella",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Reyes,  Vanessa",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Rodriguez,  Alyssa",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Rodriguez,  Brenda",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Rodriguez,  Diana",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Rodriguez,  Emily",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Rodriguez,  Genesis",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Rodriguez,  Isabella",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Rodriguez,  Jazmine",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Rodriguez,  Leslie",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Rodriguez,  Melissa",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Romero,  Aaliyah",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Sanchez,  Briana",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Sanchez,  Emily",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Sanchez,  Genesis",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Sanchez,  Isabella",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Sanchez,  Jazmine",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Sanchez,  Leslie",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Sanchez,  Melissa",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Santos,  Alondra",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Serrano,  Brenda",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Silva,  Aaliyah",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Soto,  Vanessa",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Torres,  Emily",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Valdez,  Jazmin",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Valdez,  Melissa",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Vargas,  Brenda",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Vargas,  Emily",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Vargas,  Genesis",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Vargas,  Isabella",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Vargas,  Jazmine",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Vargas,  Leslie",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Vargas,  Melissa",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Vasquez,  Aaliyah",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Vega,  Brenda",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Velazquez,  Emily",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Vera,  Genesis",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Villa,  Isabella",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Villarreal,  Jazmine",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Villarreal,  Leslie",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Villegas,  Melissa",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Zepeda,  Aaliyah",
+        "position": "IF",
+        "year": "Fr",
+        "hometown": "Oxnard, CA",
+        "highSchool": "Hueneme",
+        "graduationYear": 2028
+      }
+    ],
+    "input_tokens": 185021,
+    "output_tokens": 6523,
+    "total_tokens": 191544
+  },
+  {
+    "school": "Victor Valley College",
+    "url": "https://athletics.vvc.edu/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2025,
+    "players": [],
+    "input_tokens": 27082,
+    "output_tokens": 40,
+    "total_tokens": 27122
+  },
+  {
+    "school": "West Hills College Coalinga",
+    "url": "https://www.westhillsfalcons.com/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2025,
+    "players": [],
+    "input_tokens": 9852,
+    "output_tokens": 40,
+    "total_tokens": 9892
+  },
+  {
+    "school": "West Valley College",
+    "url": "https://athletics.westvalley.edu/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Yuba College",
+    "url": "https://yc.yccd.edu/athletics/sports/softball/player-roster/",
+    "success": false,
+    "reason": "Attempt 1: Player data is missing required fields (position, hometown, highSchool).; Attempt 2: Missing player information: year, hometown, highSchool; Attempt 3: Player data is missing required fields (position, hometown, highSchool)",
+    "input_tokens": 40558,
+    "output_tokens": 638,
+    "total_tokens": 41196,
+    "players": []
+  }
+]

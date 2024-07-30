@@ -1,0 +1,6 @@
+DePaul University: https://depaulbluedemons.com/sports/softball/roster - Reason: Attempt 1: No player data found on the page.; Attempt 2: No player data found; Attempt 3: No player data found
+Louisiana State University: https://lsusports.net/sports/sb/roster/ - Reason: Attempt 1: No player data found on the page.; Attempt 2: Player data not found on the page.; Attempt 3: No player data found on the page.
+University of Kentucky: https://ukathletics.com/sports/softball/roster/ - Reason: Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error
+University of Notre Dame: https://fightingirish.com/sports/softball/roster/ - Reason: Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error
+University of Oregon: https://goducks.com/sports/softball/roster - Reason: Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error
+University of South Carolina: https://gamecocksonline.com/sports/softball/roster/ - Reason: Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error

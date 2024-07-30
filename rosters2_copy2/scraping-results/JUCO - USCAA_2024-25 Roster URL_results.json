@@ -1,0 +1,141 @@
+[
+  {
+    "school": "Bucks County Community College",
+    "url": "https://athletics.bucks.edu/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2025,
+    "players": [],
+    "input_tokens": 9853,
+    "output_tokens": 40,
+    "total_tokens": 9893
+  },
+  {
+    "school": "Central Maine Community College",
+    "url": "https://www.cmmustangs.com/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2024,
+    "players": [],
+    "input_tokens": 13069,
+    "output_tokens": 36,
+    "total_tokens": 13105
+  },
+  {
+    "school": "NHTI – Concord's Community College",
+    "url": "https://nhtiathletics.com/sports/softball/roster",
+    "success": true,
+    "rosterYear": 2024,
+    "players": [
+      {
+        "name": "Emma Broadstone",
+        "position": "CF/Utility",
+        "year": "Fr.",
+        "hometown": "Strafford, NH",
+        "highSchool": "Coe Brown",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Bella Ferrazzani",
+        "position": null,
+        "year": "Fr.",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Rhianna DeCosta",
+        "position": "Utility",
+        "year": "Fr.",
+        "hometown": "Pembroke, NH",
+        "highSchool": "Mascoma Valley Regional HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Shelby O'Neal",
+        "position": "Catcher/Utility",
+        "year": "Fr.",
+        "hometown": "Winchester, NH",
+        "highSchool": "Kenne HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Madison Cusello",
+        "position": "Utility",
+        "year": "Fr.",
+        "hometown": "Gilmanton, NH",
+        "highSchool": "Gilford HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Brianna Skehan",
+        "position": null,
+        "year": "Fr.",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Madison Darling",
+        "position": "Pitcher/Outfield",
+        "year": "Fr.",
+        "hometown": "Laconia, NH",
+        "highSchool": "Laconia HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Sydney  MacLean",
+        "position": "Catcher/3B",
+        "year": "Fr.",
+        "hometown": "Keene, NH",
+        "highSchool": "Keene HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Maren Rayno",
+        "position": "3B/Pitcher/Utility",
+        "year": "Fr.",
+        "hometown": "Barnstead, NH",
+        "highSchool": "Prospect Mountain HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Makayla  Lapanne",
+        "position": "Catcher/Utility",
+        "year": "Fr.",
+        "hometown": "Farmington, NH",
+        "highSchool": "Farmington HS",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Jordan Sargent",
+        "position": null,
+        "year": "Fr.",
+        "hometown": "Belmont, NH",
+        "highSchool": null,
+        "graduationYear": 2027
+      }
+    ],
+    "input_tokens": 74463,
+    "output_tokens": 785,
+    "total_tokens": 75248
+  },
+  {
+    "school": "Southern Maine Community College",
+    "url": "https://www.gosmccseawolves.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Missing player data",
+    "input_tokens": 11341,
+    "output_tokens": 39,
+    "total_tokens": 11380,
+    "players": []
+  },
+  {
+    "school": "York County Community College",
+    "url": "https://www.yorkcountyhawks.com/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2024,
+    "players": [],
+    "input_tokens": 24334,
+    "output_tokens": 40,
+    "total_tokens": 24374
+  }
+]

@@ -1,0 +1,6 @@
+Arkansas Baptist College: N/A - Reason: No URL provided
+Bacone College: N/A - Reason: No URL provided
+Texas A&M University–San Antonio: https://tamusasports.com/sports/sball/2023-24/roster - Reason: Attempt 1: Missing player information (position, year, hometown, highSchool); Attempt 2: Missing player data: position, year, hometown, highSchool; Attempt 3: Missing player data (position, year, hometown, highSchool)
+Voorhees University: https://voorheesathletics.com/sports/softball/roster - Reason: Attempt 1: Missing player information (year, hometown, highSchool); Attempt 2: Missing player information:  Position, Year, Hometown, High School; Attempt 3: Missing player fields (position, year, hometown, highSchool)
+Washington Adventist University: https://www.wauathletics.com/sports/sball/2024-25/roster - Reason: Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error
+Webber International University: https://wwuowls.com/sports/softball/roster - Reason: Attempt 1: School name is not 'Webber International University' and team name is not related to 'Warriors'.; Attempt 2: School name is not "Webber International University" and team name is not related to "Warriors"; Attempt 3: School name is not found. Expected school name is 'Webber International University'.

@@ -405,9 +405,9 @@ async def main():
     if os.path.exists('failed_screenshots'):
         shutil.rmtree('failed_screenshots')
     os.makedirs('failed_screenshots', exist_ok=True)
-    
-    excel_file = r"C:\Users\dell2\source\repos4\school-data-scraper\Freelancer_Data_Mining_Project.xlsx"
-    xls = pd.ExcelFile(excel_file)
+
+    input_file = r"C:\Users\dell3\source\repos\school-data-scraper-2\Freelancer_Data_Mining_Project.xlsx"   
+    xls = pd.ExcelFile(input_file)
     
     for sheet_name in xls.sheet_names:
         all_majors = {}
@@ -419,7 +419,7 @@ async def main():
         logger.info(f"Processing sheet: {sheet_name}")
         logger.info(f"{'=' * 50}\n")
         
-        df = pd.read_excel(excel_file, sheet_name=sheet_name)
+        df = pd.read_excel(input_file, sheet_name=sheet_name)
         
         chunk_size = 10
         chunks = [df[i:i+chunk_size] for i in range(0, df.shape[0], chunk_size)]

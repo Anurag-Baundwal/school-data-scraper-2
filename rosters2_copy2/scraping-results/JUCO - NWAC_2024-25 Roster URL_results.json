@@ -1,0 +1,1905 @@
+[
+  {
+    "school": "Bellevue College",
+    "url": "https://www.bellevuecollege.edu/athletics/sports/softball/softball-roster/",
+    "success": false,
+    "reason": "Attempt 1: Roster year could not be determined.; Attempt 2: No player data found on the page.; Attempt 3: Missing player data. No player information could be found in the HTML content.",
+    "input_tokens": 14764,
+    "output_tokens": 46,
+    "total_tokens": 14810,
+    "players": []
+  },
+  {
+    "school": "Big Bend Community College",
+    "url": "https://bbccvikings.com/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2025,
+    "players": [],
+    "input_tokens": 26317,
+    "output_tokens": 40,
+    "total_tokens": 26357
+  },
+  {
+    "school": "Blue Mountain Community College",
+    "url": "https://bmcctimberwolves.com/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2025,
+    "players": [],
+    "input_tokens": 24929,
+    "output_tokens": 40,
+    "total_tokens": 24969
+  },
+  {
+    "school": "Centralia College",
+    "url": "https://centraliablazers.com/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2025,
+    "players": [
+      {
+        "name": "Grace Huber",
+        "position": "Outfield/Pitcher",
+        "year": "Sophomore",
+        "hometown": "Raymond",
+        "highSchool": "Willapa Valley",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Graci Bonney-Spradlin",
+        "position": "Short Stop",
+        "year": "Sophomore",
+        "hometown": "Hoquiam",
+        "highSchool": "Hoquiam",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Jimena Luis",
+        "position": "First Base",
+        "year": "Sophomore",
+        "hometown": "Centralia",
+        "highSchool": "Centralia",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Jacie Deebach",
+        "position": "Catcher",
+        "year": "Sophomore",
+        "hometown": "Tonasket",
+        "highSchool": "Tonasket",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Judy Vallejo",
+        "position": "Infield",
+        "year": "Sophomore",
+        "hometown": "Centralia",
+        "highSchool": "Centralia",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Olivia McKinstry",
+        "position": "First Base/Pitcher",
+        "year": "Sophomore",
+        "hometown": "Ilwaco",
+        "highSchool": "Ilwaco",
+        "graduationYear": 2027
+      }
+    ],
+    "input_tokens": 27699,
+    "output_tokens": 444,
+    "total_tokens": 28143
+  },
+  {
+    "school": "Chemeketa Community College",
+    "url": "https://www.chemeketa.edu/athletics/softball/",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Clackamas Community College",
+    "url": "https://www.clackamascougars.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Clark College",
+    "url": "https://clarkpenguins.com/sports/softball/roster",
+    "success": true,
+    "rosterYear": 2025,
+    "players": [],
+    "input_tokens": 73105,
+    "output_tokens": 40,
+    "total_tokens": 73145
+  },
+  {
+    "school": "Columbia Basin College",
+    "url": "https://cbchawks.com/sports/softball/roster",
+    "success": true,
+    "rosterYear": 2024,
+    "players": [
+      {
+        "name": "Naomi Peterson",
+        "position": "Utility",
+        "year": "Freshman",
+        "hometown": "Stanwood, WA",
+        "highSchool": "Arlington",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Vivian Pimentel",
+        "position": "Utility",
+        "year": "Freshman",
+        "hometown": "Pasco, WA",
+        "highSchool": "Pasco",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Keila Garcia",
+        "position": "Utility",
+        "year": "Freshman",
+        "hometown": "Pasco, WA",
+        "highSchool": "Pasco",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Bree Waldron",
+        "position": "Catcher",
+        "year": "Freshman",
+        "hometown": "Spokane, WA",
+        "highSchool": "Riverside",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Stephanie Bryson",
+        "position": "Outfielder",
+        "year": "Sophomore",
+        "hometown": "Caldwell, ID",
+        "highSchool": "Caldwell",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Kaylie Christopher",
+        "position": "Utility",
+        "year": "Freshman",
+        "hometown": "Happy Valley, OR",
+        "highSchool": "Adrienne C. Nelson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Alexis Blankenship",
+        "position": "Infielder",
+        "year": "Sophomore",
+        "hometown": "Hayden, ID",
+        "highSchool": "Coeur d'Alene",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Hailey Ruckle",
+        "position": "Utility",
+        "year": "Freshman",
+        "hometown": "Lakebay, WA",
+        "highSchool": "Henderson Bay",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Sami Stark",
+        "position": "Outfielder",
+        "year": "Freshman",
+        "hometown": "Sedro-Woolley, WA",
+        "highSchool": "Sedro-Woolley",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Payton Dressler",
+        "position": "Utility",
+        "year": "Freshman",
+        "hometown": "Spokane, WA",
+        "highSchool": "Mt. Spokane",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Leia Duropan",
+        "position": "Utility",
+        "year": "Freshman",
+        "hometown": "Waianae, HI",
+        "highSchool": "James Campbell",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Anna-Marie Shaffer",
+        "position": "Pitcher",
+        "year": "Freshman",
+        "hometown": "Kennewick, WA",
+        "highSchool": "Kamiakin",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Lauryn Krick",
+        "position": "Pitcher",
+        "year": "Freshman",
+        "hometown": "Tacoma, WA",
+        "highSchool": "Puyallup",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Bailey Hausenbuiller",
+        "position": "Pitcher",
+        "year": "Sophomore",
+        "hometown": "West Richland, WA",
+        "highSchool": "Richland",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Raquel Palmeira",
+        "position": "Outfielder",
+        "year": "Freshman",
+        "hometown": "Kahului, HI",
+        "highSchool": "HP Baldwin",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Sierra Escalera",
+        "position": "Pitcher",
+        "year": "Freshman",
+        "hometown": "Nampa, ID",
+        "highSchool": "Ridgevue",
+        "graduationYear": 2027
+      }
+    ],
+    "input_tokens": 96610,
+    "output_tokens": 1115,
+    "total_tokens": 97725
+  },
+  {
+    "school": "Community Colleges of Spokane",
+    "url": "https://scc.spokane.edu/Athletics/Sports/Softball/Roster",
+    "success": true,
+    "rosterYear": 2024,
+    "players": [
+      {
+        "name": "McCoy, Haylee",
+        "position": "2B, 3B, OF",
+        "year": "Sophomore",
+        "hometown": "Spokane Valley, WA",
+        "highSchool": "Central Valley High School",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Sefton, Dixie",
+        "position": "2B, OF",
+        "year": "Freshman",
+        "hometown": "Fairfield, WA",
+        "highSchool": "Freeman High School",
+        "graduationYear": 2027
+      },
+      {
+        "name": "McCoy, Gianna",
+        "position": "SS, 2B, 3B",
+        "year": "Sophomore",
+        "hometown": "Spokane Valley, WA",
+        "highSchool": "Central Valley High School",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Graham, Reagan",
+        "position": "OF, SS, 2B",
+        "year": "Freshman",
+        "hometown": "Nampa, ID",
+        "highSchool": "Skyview High School",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Stewart, Brynly",
+        "position": "INF, OF",
+        "year": "Freshman",
+        "hometown": "Spring Creek, NV",
+        "highSchool": "Spring Creek High School",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Gagner, Jayden",
+        "position": "P, OF",
+        "year": "Freshman",
+        "hometown": "Missoula, MT",
+        "highSchool": "Sentinel High School",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Carson, Rebecca",
+        "position": "P, OF, 1B",
+        "year": "Sophomore",
+        "hometown": "Shoreline, WA",
+        "highSchool": "Shorewood High School",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Sebesta, Mia",
+        "position": "OF, INF",
+        "year": "Freshman",
+        "hometown": "Spokane, WA",
+        "highSchool": "North Central High School",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Smit, Haylee",
+        "position": "1B, OF, P",
+        "year": "Sophomore",
+        "hometown": "Rathdrum, ID",
+        "highSchool": "Lakeland High School",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Stephens, Jaidyn",
+        "position": "P, OF, 1B",
+        "year": "Sophomore",
+        "hometown": "Spangle, WA",
+        "highSchool": "Liberty High School",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Krause, Alyssa",
+        "position": "3B, C",
+        "year": "Sophomore",
+        "hometown": "Post Falls, ID",
+        "highSchool": "Post Falls High School",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Hite, Dilynn",
+        "position": "C, OF",
+        "year": "Freshman",
+        "hometown": "Selah, WA",
+        "highSchool": "Selah High School",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Almquist, Willow",
+        "position": "SS, OF",
+        "year": "Freshman",
+        "hometown": "Spokane, WA",
+        "highSchool": "Mt. Spokane High School",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Butterfield, Rebecca",
+        "position": "P, 1B",
+        "year": "Sophomore",
+        "hometown": "Potlatch, ID",
+        "highSchool": "Potlatch High School",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Kriete, Katelyn",
+        "position": "C, OF",
+        "year": "Freshman",
+        "hometown": "Moses Lake, WA",
+        "highSchool": "Moses Lake High School",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Bakken, Catherine",
+        "position": "3B, 1B",
+        "year": "Freshman",
+        "hometown": "Spokane, WA",
+        "highSchool": "Coeur d'Alene High School",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Ervin, McKenzie",
+        "position": "1B",
+        "year": "Freshman",
+        "hometown": "Newman Lake",
+        "highSchool": "East Valley High School",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Shaler, Alison",
+        "position": "P, 1B",
+        "year": "Sophomore",
+        "hometown": "Deer Park, WA",
+        "highSchool": "Northwest Christian",
+        "graduationYear": 2026
+      }
+    ],
+    "input_tokens": 15151,
+    "output_tokens": 1195,
+    "total_tokens": 16346
+  },
+  {
+    "school": "Douglas College",
+    "url": "https://douglascollegeroyals.ca/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2025,
+    "players": [],
+    "input_tokens": 11450,
+    "output_tokens": 40,
+    "total_tokens": 11490
+  },
+  {
+    "school": "Edmonds College",
+    "url": "https://www.edmondstritons.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Everett Community College",
+    "url": "https://athletics.everettcc.edu/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Grays Harbor College",
+    "url": "https://ghcathletics.com/sports/softball/roster",
+    "success": true,
+    "rosterYear": 2024,
+    "players": [
+      {
+        "name": "Alexis Cudaback",
+        "position": null,
+        "year": "Fr.",
+        "hometown": "Caldwell, ID",
+        "highSchool": "Notus High School",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Naomi Chavez",
+        "position": null,
+        "year": "Fr.",
+        "hometown": "Longview, WA",
+        "highSchool": "Toutle Lake High School",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Cayleigh  White",
+        "position": null,
+        "year": "Fr.",
+        "hometown": "Vancouver, WA",
+        "highSchool": "Heritage, WA",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Madison Erickson",
+        "position": null,
+        "year": "Fr.",
+        "hometown": "Spanaway, WA",
+        "highSchool": "Bethel High School",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Kylee Espinoza",
+        "position": null,
+        "year": "Fr.",
+        "hometown": "Salt Lake City, UT",
+        "highSchool": "West High School",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Ciara Mennitto",
+        "position": null,
+        "year": "Fr.",
+        "hometown": "Spanaway, WA",
+        "highSchool": "Spanaway Lake High School",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Carron Blood",
+        "position": null,
+        "year": "Fr.",
+        "hometown": "Hoquiam, WA",
+        "highSchool": "Hoquiam High School",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Reese Wiseman",
+        "position": null,
+        "year": "Fr.",
+        "hometown": "Prince George, BC",
+        "highSchool": "College Heights Secondary School",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Desiree Becherer",
+        "position": null,
+        "year": "Fr.",
+        "hometown": "Oak Harbor, WA",
+        "highSchool": "Oak Harbor High School",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Ronni Graham",
+        "position": null,
+        "year": "Jr.",
+        "hometown": "Ocosta, WA",
+        "highSchool": "Ocosta High School",
+        "graduationYear": 2025
+      },
+      {
+        "name": "Riley Wheaton",
+        "position": null,
+        "year": "Fr.",
+        "hometown": "Edmonds, WA",
+        "highSchool": "Shorewood High School",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Kaitlyn Doucette",
+        "position": null,
+        "year": "So.",
+        "hometown": "Quesnel, BC",
+        "highSchool": "Correlieu Secondary School",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Monica Davis",
+        "position": null,
+        "year": "Rs.",
+        "hometown": "Lacey, WA",
+        "highSchool": "River Ridge High School",
+        "graduationYear": 2025
+      }
+    ],
+    "input_tokens": 97486,
+    "output_tokens": 796,
+    "total_tokens": 98282
+  },
+  {
+    "school": "Highline College",
+    "url": "https://highlineathletics.com/sports/softball/roster",
+    "success": true,
+    "rosterYear": 2025,
+    "players": [
+      {
+        "name": "Makenna  Adams",
+        "position": "INF",
+        "year": "Fr",
+        "hometown": "Auburn, WA",
+        "highSchool": "Auburn Riverside",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Aaliyah  Aiono",
+        "position": "OF",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Liah  Anderson",
+        "position": "OF",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Kaylee  Bender",
+        "position": "INF",
+        "year": "Fr",
+        "hometown": "Lakewood, WA",
+        "highSchool": "Clover Park",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Talia  Bender",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Lakewood, WA",
+        "highSchool": "Clover Park",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Jayla  Bishop",
+        "position": "C",
+        "year": "Fr",
+        "hometown": "Kent, WA",
+        "highSchool": "Kentwood",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Jazmyn  Chavez",
+        "position": "INF",
+        "year": "Fr",
+        "hometown": "Auburn, WA",
+        "highSchool": "Auburn",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Alivia  Cook",
+        "position": "OF",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Alora  Davis",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Seattle, WA",
+        "highSchool": "Garfield",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Kendra  De La Cruz",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Kent, WA",
+        "highSchool": "Kentridge",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Lillian  Duenas",
+        "position": "INF",
+        "year": "Fr",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Todd Beamer",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Taylor  Frazier",
+        "position": "INF",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Kailee  Garcia",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Katie  Garton",
+        "position": "P",
+        "year": "Fr",
+        "hometown": "Tacoma, WA",
+        "highSchool": "Bellarmine Prep",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Sydney  Gould",
+        "position": "OF",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Jordan  Graham",
+        "position": "OF",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Brianna  Hall",
+        "position": "C",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Kiara  Harris",
+        "position": "INF",
+        "year": "Fr",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Keisha  Haver",
+        "position": "UT",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Kaeli  Higa",
+        "position": "P",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Shaylee  Hogue",
+        "position": "P",
+        "year": "So",
+        "hometown": "Auburn, WA",
+        "highSchool": "Auburn Riverside",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Mckenzie  Jackson",
+        "position": "INF",
+        "year": "Fr",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Malia  Kea",
+        "position": "INF",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Kiana  Kea",
+        "position": "UT",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Hailey  Keller",
+        "position": "P",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Kailani  Kea",
+        "position": "OF",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Alyssa  Koopman",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Kaila  Larios",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Seattle, WA",
+        "highSchool": "West Seattle",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Kaelynn  Leota",
+        "position": "INF",
+        "year": "Fr",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Anya  Luna",
+        "position": "UT",
+        "year": "So",
+        "hometown": "Seattle, WA",
+        "highSchool": "West Seattle",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Taylor  Montañez",
+        "position": "INF",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Mckenna  Moore",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Kasey  Nelson",
+        "position": "P",
+        "year": "Fr",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Lanie  Newcomb",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Auburn, WA",
+        "highSchool": "Auburn Mountainview",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Ashlyn  O'Connell",
+        "position": "C",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Aaliyah  Penas",
+        "position": "P",
+        "year": "Fr",
+        "hometown": "Burien, WA",
+        "highSchool": "Highline",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Madison  Perez",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Kailey  Ramos",
+        "position": "C",
+        "year": "Fr",
+        "hometown": "Seattle, WA",
+        "highSchool": "Garfield",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Mya  Red",
+        "position": "INF",
+        "year": "Fr",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Anya  Rodriguez",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Maya  Solis",
+        "position": "INF",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Sienna  Sproul",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Seattle, WA",
+        "highSchool": "Roosevelt",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Maile  Stevens",
+        "position": "INF",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Keisha  Tupuola",
+        "position": "UT",
+        "year": "Fr",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Latisha  Vaile",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Taylor  Van",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Makena  Viloria",
+        "position": "UT",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Madison  Walker",
+        "position": "OF",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Alyssa  Webb",
+        "position": "C",
+        "year": "So",
+        "hometown": "Auburn, WA",
+        "highSchool": "Auburn Riverside",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Tatum  Whaley",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Kiara  Williams",
+        "position": "P",
+        "year": "Fr",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Madison  Williams",
+        "position": "INF",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Alexis  Wilson",
+        "position": "OF",
+        "year": "Fr",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Olivia  Wright",
+        "position": "INF",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Sydney  Young",
+        "position": "INF",
+        "year": "So",
+        "hometown": "Federal Way, WA",
+        "highSchool": "Thomas Jefferson",
+        "graduationYear": 2027
+      }
+    ],
+    "input_tokens": 45538,
+    "output_tokens": 3695,
+    "total_tokens": 49233
+  },
+  {
+    "school": "Lower Columbia College",
+    "url": "https://lccreddevils.com/sports/softball/roster",
+    "success": true,
+    "rosterYear": 2024,
+    "players": [
+      {
+        "name": "Ella Dillon",
+        "position": "Outfield",
+        "year": "So.",
+        "hometown": "Sumner, WA",
+        "highSchool": "Sumner",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Leanna Russell",
+        "position": "Infield",
+        "year": "So.",
+        "hometown": "Woodland, WA",
+        "highSchool": "Woodland",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Sadie Knutson",
+        "position": "Pitcher/Infield",
+        "year": "So.",
+        "hometown": "Rochester, WA",
+        "highSchool": "Rochester",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Maliyah Twitty",
+        "position": "Outfield",
+        "year": "So.",
+        "hometown": "Pasco, WA",
+        "highSchool": "Chiawana",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Allison Baumgart",
+        "position": "Infield",
+        "year": "Fr.",
+        "hometown": "Shelton, WA",
+        "highSchool": "Shelton",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Katelyn Swanson",
+        "position": "Infield",
+        "year": "Fr.",
+        "hometown": "Battle Ground, WA",
+        "highSchool": "Battle Ground",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Teeghan Reams",
+        "position": "Catcher/Pitcher/Infield",
+        "year": "So.",
+        "hometown": "Redmond, OR",
+        "highSchool": "Ridgeview",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Sawyer Stenson",
+        "position": "Catcher / Infield",
+        "year": "So.",
+        "hometown": "Pasco, WA",
+        "highSchool": "Chiawana",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Karlee VonMoos",
+        "position": "Infield",
+        "year": "Fr.",
+        "hometown": "Adna, WA",
+        "highSchool": "Adna",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Bella Aspaas",
+        "position": "Infield",
+        "year": "So.",
+        "hometown": "Brush Prairie, WA",
+        "highSchool": "Hockinson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Brooklyn Loose",
+        "position": "Catcher/Outfield",
+        "year": "Fr.",
+        "hometown": "Adna, WA",
+        "highSchool": "Adna",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Alexis Moore",
+        "position": "Pitcher/Utility",
+        "year": "Fr.",
+        "hometown": "Anchorage, AK",
+        "highSchool": "South Anchorage",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Kaydence Mackin",
+        "position": "Pitcher/Outfield",
+        "year": "Fr.",
+        "hometown": "Kelso, WA",
+        "highSchool": "Kelso",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Alexis Keaveny",
+        "position": "Utility",
+        "year": "Fr.",
+        "hometown": "Anchorage, AK",
+        "highSchool": "South Anchorage",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Joelie Eder",
+        "position": "Outfield",
+        "year": "Fr.",
+        "hometown": "Kennewick, WA",
+        "highSchool": "Kamiakin",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Lexi Grumbois",
+        "position": "Infield",
+        "year": "Fr.",
+        "hometown": "Kelso, WA",
+        "highSchool": "Kelso",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Raychel Squibb",
+        "position": "Catcher / Infield",
+        "year": "So.",
+        "hometown": "Winlock, WA",
+        "highSchool": "Castle Rock",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Alli Heater",
+        "position": "Pitcher / First Base",
+        "year": "So.",
+        "hometown": "Yakima, WA",
+        "highSchool": "East Valley",
+        "graduationYear": 2027
+      }
+    ],
+    "input_tokens": 113557,
+    "output_tokens": 1264,
+    "total_tokens": 114821
+  },
+  {
+    "school": "Mt. Hood Community College",
+    "url": "https://www.mhcc.edu/athletics/softball/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "North Idaho College",
+    "url": "https://nicathletics.com/sports/sball/2024-25/roster",
+    "success": true,
+    "rosterYear": 2025,
+    "players": [],
+    "input_tokens": 29559,
+    "output_tokens": 40,
+    "total_tokens": 29599
+  },
+  {
+    "school": "Olympic College",
+    "url": "https://www.olympicrangers.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Pierce College",
+    "url": "https://www.pierceraiders.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Shoreline Community College",
+    "url": "https://www.shoreline.edu/athletics/softball/",
+    "success": true,
+    "rosterYear": 2024,
+    "players": [
+      {
+        "name": "Marissa Medina",
+        "position": "OF",
+        "year": "FR",
+        "hometown": "Brewster, WA",
+        "highSchool": "Brewster",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Nicole Nagamatsu",
+        "position": "2B",
+        "year": "SO",
+        "hometown": "Shoreline, WA",
+        "highSchool": "Shoreview",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Jacey Cotter",
+        "position": "C",
+        "year": "FR",
+        "hometown": "Graham, WA",
+        "highSchool": "Bethel",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Alana Nagata",
+        "position": "OF",
+        "year": "FR",
+        "hometown": "Kaneohe, HI",
+        "highSchool": "University Laboratory",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Mailana Mattos",
+        "position": "SS",
+        "year": "FR",
+        "hometown": "Aiea, HI",
+        "highSchool": "Radford",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Kyra Brown",
+        "position": "3B",
+        "year": "FR",
+        "hometown": "University Place",
+        "highSchool": "Steilacoom",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Taimane Faleafine-Auwae",
+        "position": "OF",
+        "year": "FR",
+        "hometown": "Lahaina, HI",
+        "highSchool": "Maryknoll",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Sarah Anderson",
+        "position": "1B",
+        "year": "SO",
+        "hometown": "Everett, WA",
+        "highSchool": "Cascade",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Alicia Suggs",
+        "position": "P",
+        "year": "FR",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Jade Relkoff",
+        "position": "OF",
+        "year": "FR",
+        "hometown": "Monroe, WA",
+        "highSchool": "Monroe",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Ceana Ehni",
+        "position": "P",
+        "year": "FR",
+        "hometown": "Snohomish, WA",
+        "highSchool": "Monroe",
+        "graduationYear": 2027
+      }
+    ],
+    "input_tokens": 46235,
+    "output_tokens": 765,
+    "total_tokens": 47000
+  },
+  {
+    "school": "Skagit Valley College",
+    "url": "https://athletics.skagit.edu/sports/softball/roster",
+    "success": true,
+    "rosterYear": 2024,
+    "players": [
+      {
+        "name": "Maddy Fischer",
+        "position": "Outfield / Short Stop",
+        "year": "Fr.",
+        "hometown": "Marysville, WA",
+        "highSchool": "Arlington",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Kaylee Walcott",
+        "position": "Outfield",
+        "year": "Fr.",
+        "hometown": "Mount Vernon, WA",
+        "highSchool": "Lord Tweedsmuir Secondary",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Kirstyn Scott",
+        "position": "2nd Base / Shortstop",
+        "year": "Fr.",
+        "hometown": "Bothell, WA",
+        "highSchool": "Inglemoor",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Jerzay Leonard",
+        "position": "3rd Base / Outfield",
+        "year": "Fr.",
+        "hometown": "Kapolei, HI",
+        "highSchool": "Kapolei",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Gracie Musga",
+        "position": "Shortstop / 2nd Base",
+        "year": "Fr.",
+        "hometown": "Kent, WA",
+        "highSchool": "Kentwood",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Mikala Marshall",
+        "position": "Catcher",
+        "year": "Fr.",
+        "hometown": "Scappoose, OR",
+        "highSchool": "Scappoose",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Alyssa Bacon",
+        "position": "Outfield",
+        "year": "Fr.",
+        "hometown": "Blaine, WA",
+        "highSchool": "Blaine",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Kaitlyn Rosenburg",
+        "position": "1st Base / Pitcher",
+        "year": "Fr.",
+        "hometown": "Deming, WA",
+        "highSchool": "Mount Baker",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Briley Bock",
+        "position": "Outfield",
+        "year": "Fr.",
+        "hometown": "White Swan, WA",
+        "highSchool": "White Swan",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Keelie Hancock",
+        "position": "Outfield / Pitcher / Utility",
+        "year": "Fr.",
+        "hometown": "Caldwell, ID",
+        "highSchool": "Vallivue",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Leira Freeburg-Perez",
+        "position": "Catcher / 3rd Base",
+        "year": "Fr.",
+        "hometown": "Moxee, WA",
+        "highSchool": "East Valley",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Lainy Vig",
+        "position": "Pitcher / Outfield",
+        "year": "Fr.",
+        "hometown": "Sequim, WA",
+        "highSchool": "Sequim",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Teagan Clark",
+        "position": "Pitcher / 2nd Base / Outfield",
+        "year": "Fr.",
+        "hometown": "Port Angeles, WA",
+        "highSchool": "Port Angeles",
+        "graduationYear": 2027
+      },
+      {
+        "name": "MaKenna Wright",
+        "position": "Cather / 1st Base",
+        "year": "Fr.",
+        "hometown": "Blaine, WA",
+        "highSchool": "Blaine",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Alexia Saldivar",
+        "position": "Pitcher / 1st Base / 3rd Base",
+        "year": "Fr.",
+        "hometown": "Burlington, WA",
+        "highSchool": "Burlington-Edison",
+        "graduationYear": 2027
+      }
+    ],
+    "input_tokens": 80753,
+    "output_tokens": 1109,
+    "total_tokens": 81862
+  },
+  {
+    "school": "Southwestern Oregon Community College",
+    "url": "https://swoccathletics.com/sports/softball/roster",
+    "success": true,
+    "rosterYear": 2024,
+    "players": [
+      {
+        "name": "Trynly Haack",
+        "position": "C/OF",
+        "year": "So.",
+        "hometown": "Idaho Falls, ID",
+        "highSchool": "Thunder Ridge",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Tori Goodell",
+        "position": "C/MIF",
+        "year": "Fr.",
+        "hometown": "Yakima, WA",
+        "highSchool": "East Valley",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Noelani Barawis",
+        "position": "UTL",
+        "year": "So.",
+        "hometown": "Riverton, UT",
+        "highSchool": "Bingham",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Makenzie Alexander",
+        "position": "MIF",
+        "year": "Fr.",
+        "hometown": "Lahaina, HI",
+        "highSchool": "Lahainaluna",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Amanda Mcdonald",
+        "position": "P/OF",
+        "year": "Fr.",
+        "hometown": "Chandler, AZ",
+        "highSchool": "Arizona College Prep",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Kiara Kamimae",
+        "position": "OF",
+        "year": "So.",
+        "hometown": "Covington, WA",
+        "highSchool": "Kentwood",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Avery Garbarek",
+        "position": "P/UTL",
+        "year": "So.",
+        "hometown": "Evergreen, CO",
+        "highSchool": "Two Roads Charter",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Jill Halas",
+        "position": "OF",
+        "year": "Fr.",
+        "hometown": "Las Vegas, NV",
+        "highSchool": "Centennial",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Ashley Fritz",
+        "position": "OF",
+        "year": "So.",
+        "hometown": "Conifer, CO",
+        "highSchool": "Conifer",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Aubrey Garbarek",
+        "position": "MIF",
+        "year": "So.",
+        "hometown": "Evergreen, CO",
+        "highSchool": "Two Roads Charter",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Taylor Brewer",
+        "position": "P/OF",
+        "year": "So.",
+        "hometown": "Nampa, ID",
+        "highSchool": "Skyview",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Giselle Beriault",
+        "position": "OF",
+        "year": "Fr.",
+        "hometown": "Tempe, AZ",
+        "highSchool": "Mcclintock",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Sadie Taylor",
+        "position": "P/3B",
+        "year": "So.",
+        "hometown": "Taylorsville, UT",
+        "highSchool": "Taylorsville",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Riley Peeler",
+        "position": "1B",
+        "year": "So.",
+        "hometown": "Veneta, OR",
+        "highSchool": "Elmira",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Emilia (Emmy) Eaton",
+        "position": "P/OF",
+        "year": "Fr.",
+        "hometown": "Wheat Ridge, CO",
+        "highSchool": "Wheat Ridge",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Julia Anzaldua",
+        "position": "OF",
+        "year": "Fr.",
+        "hometown": "Colorado Springs, CO",
+        "highSchool": "Fountain Fort Carson",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Megan Fritz",
+        "position": "C/2B",
+        "year": "So.",
+        "hometown": "Conifer, CO",
+        "highSchool": "Conifer",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Ryleigh Blaire",
+        "position": "C/1B",
+        "year": "So.",
+        "hometown": "Gardnerville, NV",
+        "highSchool": "Douglas",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Eliana (Eli) Ulufale",
+        "position": "1B/3B",
+        "year": "Fr.",
+        "hometown": "Kahului, HI",
+        "highSchool": "Maui",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Dakota Till",
+        "position": "1B/3B",
+        "year": "Fr.",
+        "hometown": "Gardnerville, NV",
+        "highSchool": "Douglas",
+        "graduationYear": 2027
+      }
+    ],
+    "input_tokens": 160032,
+    "output_tokens": 1405,
+    "total_tokens": 161437
+  },
+  {
+    "school": "Treasure Valley Community College",
+    "url": "https://www.gochuks.com/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Walla Walla Community College",
+    "url": "https://warriors.wwcc.edu/sports/sball/2024-25/roster",
+    "success": false,
+    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "players": []
+  },
+  {
+    "school": "Wenatchee Valley College",
+    "url": "https://gowvc.com/sports/softball/roster",
+    "success": true,
+    "rosterYear": 2024,
+    "players": [
+      {
+        "name": "Sophie Berning",
+        "position": "Catcher",
+        "year": "Fr.",
+        "hometown": "Stevensville, MT",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Alix Bishop",
+        "position": "Pitcher & Third Base",
+        "year": "Fr.",
+        "hometown": "Rigby, ID",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Erin Bishop",
+        "position": "Outfield",
+        "year": "Fr.",
+        "hometown": "Rigby, ID",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Aaliyah Marchand",
+        "position": "Infield",
+        "year": "Fr.",
+        "hometown": "Coulee City, WA",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Hailey South",
+        "position": "Short Stop",
+        "year": "Fr.",
+        "hometown": "Hermiston, OR",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Emma Warman",
+        "position": null,
+        "year": "Fr.",
+        "hometown": "Leavenworth, WA",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Giselle Kump",
+        "position": "Pitcher",
+        "year": "Fr.",
+        "hometown": "Idaho Falls, ID",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Ashlynn Lott",
+        "position": null,
+        "year": "Fr.",
+        "hometown": "Idaho Falls, ID",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Brynn Reedy",
+        "position": "Pitcher",
+        "year": "Fr.",
+        "hometown": "West Jordan, UT",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Megan Smit",
+        "position": "Outfield",
+        "year": "So.",
+        "hometown": "Lynnwood, WA",
+        "highSchool": null,
+        "graduationYear": 2026
+      },
+      {
+        "name": "Kaya Enriquez",
+        "position": "Catcher",
+        "year": "So.",
+        "hometown": "Warden, WA",
+        "highSchool": null,
+        "graduationYear": 2026
+      },
+      {
+        "name": "Gabby Krueger",
+        "position": "Outfield",
+        "year": "So.",
+        "hometown": "Corvallis, MT",
+        "highSchool": null,
+        "graduationYear": 2026
+      },
+      {
+        "name": "Laine Morgan",
+        "position": "Outfield",
+        "year": "Fr.",
+        "hometown": "Okanogan, WA",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Jazlynn Valdez-Torres",
+        "position": "Infield",
+        "year": "Fr.",
+        "hometown": "Moses Lake, WA",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Alexsus Leinweber",
+        "position": "First Base",
+        "year": "Fr.",
+        "hometown": "Warden, WA",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Harlie Zones",
+        "position": null,
+        "year": "Fr.",
+        "hometown": "Waterville, WA",
+        "highSchool": null,
+        "graduationYear": 2027
+      }
+    ],
+    "input_tokens": 61866,
+    "output_tokens": 1072,
+    "total_tokens": 62938
+  },
+  {
+    "school": "Yakima Valley College",
+    "url": "https://goyaks.com/sports/softball/roster",
+    "success": true,
+    "rosterYear": 2024,
+    "players": [
+      {
+        "name": "Alyssa Sosky",
+        "position": "OF",
+        "year": "So.",
+        "hometown": "Ford, WA",
+        "highSchool": "Reardan",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Joslynn Simmons",
+        "position": "OF",
+        "year": "Fr.",
+        "hometown": "Chelan, WA",
+        "highSchool": "Chelan",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Grace Estabrook",
+        "position": "INF",
+        "year": "Fr.",
+        "hometown": "Port Orchard, WA",
+        "highSchool": "Peninsula",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Madison Kennedy",
+        "position": "P/INF",
+        "year": "So.",
+        "hometown": "Ellensburg, WA",
+        "highSchool": "Ellensburg",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Madison Morrison",
+        "position": "UTL",
+        "year": "Fr.",
+        "hometown": "Yakima, WA",
+        "highSchool": "East Valley",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Claire DeVries",
+        "position": "P/OF",
+        "year": "So.",
+        "hometown": "Lynden, WA",
+        "highSchool": "Lynden",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Linea Butler",
+        "position": "C/INF",
+        "year": "Fr.",
+        "hometown": "Yakima, WA",
+        "highSchool": "West Valley",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Briley Ingram",
+        "position": "P",
+        "year": "Fr.",
+        "hometown": "Yamhill, OR",
+        "highSchool": "Yamhill-Carlton",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Glory Estabrook",
+        "position": "P/INF",
+        "year": "Fr.",
+        "hometown": "Port Orchard, WA",
+        "highSchool": "Peninsula",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Katie Arnold",
+        "position": "OF",
+        "year": "So.",
+        "hometown": "Yakima, WA",
+        "highSchool": "West Valley",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Carley  Hobbs",
+        "position": "OF",
+        "year": "So.",
+        "hometown": "Castle Rock, CO",
+        "highSchool": "Colorado Early Colleges",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Avery Olauson",
+        "position": "C/INF",
+        "year": "Fr.",
+        "hometown": "Idaho Falls, ID",
+        "highSchool": "Skyline",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Riley Eckhardt",
+        "position": "INF",
+        "year": "Fr.",
+        "hometown": "Kaysville, UT",
+        "highSchool": "Farmington",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Sami Staley",
+        "position": "INF",
+        "year": "Fr.",
+        "hometown": "Blackfoot, ID",
+        "highSchool": "Blackfoot",
+        "graduationYear": 2028
+      },
+      {
+        "name": "Makynzee Taylor",
+        "position": "INF",
+        "year": "So.",
+        "hometown": "Puyallup, WA",
+        "highSchool": "Rogers",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Emma Stamp",
+        "position": "INF",
+        "year": "Fr.",
+        "hometown": "Port Orchard, WA",
+        "highSchool": "South Kitsap",
+        "graduationYear": 2028
+      }
+    ],
+    "input_tokens": 90948,
+    "output_tokens": 965,
+    "total_tokens": 91913
+  }
+]

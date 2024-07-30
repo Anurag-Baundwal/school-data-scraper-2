@@ -1,0 +1,695 @@
+[
+  {
+    "school": "Allan Hancock College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "American River College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Antelope Valley College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Bakersfield College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Barstow Community College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Butte College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Cabrillo College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Cerritos College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Cerro Coso Community College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Chabot College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Chaffey College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Citrus College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "College of San Mateo",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "College of the Canyons",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "College of the Desert",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "College of the Redwoods",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "College of the Sequoias",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "College of the Siskiyous",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Compton College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Cosumnes River College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Cuesta College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Cypress College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Diablo Valley College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "East Los Angeles College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "El Camino College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Feather River College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Folsom Lake College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Fresno City College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Fullerton College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Glendale Community College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Golden West College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Hartnell College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Imperial Valley College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Lassen Community College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Long Beach City College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Los Angeles Harbor College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Los Angeles Mission College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Los Angeles Pierce College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Los Angeles Valley College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Los Medanos College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Mendocino College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Merced College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Modesto Junior College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Monterey Peninsula College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Moorpark College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Mt. San Antonio College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Mt. San Jacinto College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Ohlone College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Orange Coast College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Palomar College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Pasadena City College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Porterville College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Reedley College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Rio Hondo College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Riverside City College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Sacramento City College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Saddleback College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "San Bernardino Valley College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "San Diego City College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "San Diego Mesa College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "San Joaquin Delta College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "San Jose City College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Santa Ana College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Santa Barbara City College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Santa Monica College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Santa Rosa Junior College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Santiago Canyon College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Shasta College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Sierra College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Solano Community College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Southwestern College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Taft College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Ventura College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Victor Valley College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "West Hills College Coalinga",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "West Valley College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  },
+  {
+    "school": "Yuba College",
+    "url": "N/A",
+    "success": false,
+    "reason": "No URL provided",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  }
+]

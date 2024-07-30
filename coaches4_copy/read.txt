@@ -1,0 +1,1 @@
+different from coaches4 in the sense that this prints the token usage for each url (the original would only print token usage for the entire sh)
